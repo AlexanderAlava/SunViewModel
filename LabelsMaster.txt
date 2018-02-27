@@ -75,52 +75,52 @@ __label__greetings how are you doing bot?
 __label__greetings how are you doing today bot?
 
 __label__holidays holidays this year
-__label__holidays	holiday schedule
-__label__holidays	company holidays this year
-__label__holidays	company holiday schedule
-__label__holidays	corporate holidays this year
-__label__holidays	corporate holiday schedule
-__label__holidays	show me a list of holidays
-__label__holidays	show me a list of company holidays
-__label__holidays	show me a list of corporate holidays
-__label__holidays	show me the company holidays
-__label__holidays	show me the corporate holidays
-__label__holidays	what’s the holiday calendar this year?
-__label__holidays	what is the company holiday schedule?
-__label__holidays	what is the corporate holiday schedule?
-__label__holidays	can you give me a list of this year’s holidays?
-__label__holidays	can you show me today’s calendar with holidays?
-__label__holidays	what are our days off?
-__label__holidays	what are my days off?
-__label__holidays	when do we get off?
-__label__holidays	when do i get off?
-__label__holidays	what days do we get off this year?
-__label__holidays	what days do i get off this year?
-__label__holidays	what days do we get off?
-__label__holidays	what days do i get off?
-__label__holidays	what holidays do we get off?
-__label__holidays	what holidays do i get off?
-__label__holidays	when don't i have to be here?
-__label__holidays	when don't we have to be here?
-__label__holidays	why don't we get more holidays?
-__label__holidays	what are the paid holidays?
-__label__holidays	do we get christmas day off?
-__label__holidays	do we get off for halloween?
-__label__holidays	is ground hog’s day a holiday?
-__label__holidays	is groundhog day a holiday?
-__label__holidays	is memorial day a holiday?
-__label__holidays	is veteran's day a holiday?
-__label__holidays	is veteran day a holiday?
-__label__holidays	is july 4 a holiday?
-__label__holidays	is july fourth a holiday?
-__label__holidays	is july 4th a holiday?
-__label__holidays	are we off on the 4th of july?
-__label__holidays	are we off on the fourth of july?
-__label__holidays	do we get off on the fourth of july?
-__label__holidays	what are the company paid holidays?
-__label__holidays	is memorial day a paid holiday?
-__label__holidays	how many paid holidays do we have this year?
-__label__holidays	how many days off do we have this year?
+__label__holidays holiday schedule
+__label__holidays company holidays this year
+__label__holidays company holiday schedule
+__label__holidays corporate holidays this year
+__label__holidays corporate holiday schedule
+__label__holidays show me a list of holidays
+__label__holidays show me a list of company holidays
+__label__holidays show me a list of corporate holidays
+__label__holidays show me the company holidays
+__label__holidays show me the corporate holidays
+__label__holidays what’s the holiday calendar this year?
+__label__holidays what is the company holiday schedule?
+__label__holidays what is the corporate holiday schedule?
+__label__holidays can you give me a list of this year’s holidays?
+__label__holidays can you show me today’s calendar with holidays?
+__label__holidays what are our days off?
+__label__holidays what are my days off?
+__label__holidays when do we get off?
+__label__holidays when do i get off?
+__label__holidays what days do we get off this year?
+__label__holidays what days do i get off this year?
+__label__holidays what days do we get off?
+__label__holidays what days do i get off?
+__label__holidays what holidays do we get off?
+__label__holidays what holidays do i get off?
+__label__holidays when don't i have to be here?
+__label__holidays when don't we have to be here?
+__label__holidays why don't we get more holidays?
+__label__holidays what are the paid holidays?
+__label__holidays do we get christmas day off?
+__label__holidays do we get off for halloween?
+__label__holidays is ground hog’s day a holiday?
+__label__holidays is groundhog day a holiday?
+__label__holidays is memorial day a holiday?
+__label__holidays is veteran's day a holiday?
+__label__holidays is veteran day a holiday?
+__label__holidays is july 4 a holiday?
+__label__holidays is july fourth a holiday?
+__label__holidays is july 4th a holiday?
+__label__holidays are we off on the 4th of july?
+__label__holidays are we off on the fourth of july?
+__label__holidays do we get off on the fourth of july?
+__label__holidays what are the company paid holidays?
+__label__holidays is memorial day a paid holiday?
+__label__holidays how many paid holidays do we have this year?
+__label__holidays how many days off do we have this year?
 __label__holidays holidays
 __label__holidays vacations
 __label__holidays vacation this year
