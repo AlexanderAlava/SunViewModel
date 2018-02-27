@@ -834,34 +834,34 @@ __label__halloween candy during halloween season is so expansive
 __label__halloween what is your favorite type of halloween candy 
 
 __label__changegear what is cg?
-__label__changegear	changegear?
-__label__changegear	cg?
-__label__changegear	change gear?
-__label__changegear	tell me about changegear
-__label__changegear	tell me more about changegear
-__label__changegear	how would you define changegear?
-__label__changegear	what can changegear really do?
-__label__changegear	what can changegear do for me?
-__label__changegear	what can changegear do for us?
-__label__changegear	how can changegear help my company?
-__label__changegear	how can changegear help me?
-__label__changegear	what will changegear do for my company?
-__label__changegear	how will changegear help my it department?
-__label__changegear	how does changegear help my it?
-__label__changegear	what is changegear?
-__label__changegear	is cg a good thing?
-__label__changegear	can change gear help me?
-__label__changegear	what does cg do for me?
-__label__changegear	cg information
-__label__changegear	can you describe cg?
-__label__changegear	does changegear do a lot of different things?
-__label__changegear	is cg worth investing in?
-__label__changegear	should i buy changegear?
-__label__changegear	how do i get changegear?
-__label__changegear	i want to try cg
-__label__changegear	is cg better than other software?
-__label__changegear	how will changegear change my future?
-__label__changegear	is cg the new thing these days?
+__label__changegear changegear?
+__label__changegear cg?
+__label__changegear change gear?
+__label__changegear tell me about changegear
+__label__changegear tell me more about changegear
+__label__changegear how would you define changegear?
+__label__changegear what can changegear really do?
+__label__changegear what can changegear do for me?
+__label__changegear what can changegear do for us?
+__label__changegear how can changegear help my company?
+__label__changegear how can changegear help me?
+__label__changegear what will changegear do for my company?
+__label__changegear how will changegear help my it department?
+__label__changegear how does changegear help my it?
+__label__changegear what is changegear?
+__label__changegear is cg a good thing?
+__label__changegear can change gear help me?
+__label__changegear what does cg do for me?
+__label__changegear cg information
+__label__changegear can you describe cg?
+__label__changegear does changegear do a lot of different things?
+__label__changegear is cg worth investing in?
+__label__changegear should i buy changegear?
+__label__changegear how do i get changegear?
+__label__changegear i want to try cg
+__label__changegear is cg better than other software?
+__label__changegear how will changegear change my future?
+__label__changegear is cg the new thing these days?
 __label__changegear what is changegear and how can it help me and my company 
 __label__changegear do you recommend that my company uses changegear
 __label__changegear is changegear worth the investment 
