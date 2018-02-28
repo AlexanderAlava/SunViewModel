@@ -217,14 +217,14 @@ __label__sunview sunview company
 __label__sunview sun view company
 __label__sunview sunview software company
 __label__sunview sun view software company
-__label__sunview
-__label__sunview
-__label__sunview
-__label__sunview
-__label__sunview
-__label__sunview
-__label__sunview
-__label__sunview
+__label__sunview sunview software
+__label__sunview sun view software
+__label__sunview take me to sunview software
+__label__sunview what is sunview softare?
+__label__sunview who created this bot?
+__label__sunview who is the inventor of this bot?
+__label__sunview who developed this system?
+__label__sunview sunview software company information
 
 __label__announcements show me recent announcements
 __label__announcements i want to see recent announcements
@@ -254,51 +254,51 @@ __label__announcements can you please tell me the news?
 __label__announcements please share new announcements with me
 __label__announcements has something recent happened?
 __label__announcements are there any recent announcements?
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
-__label__announcements
+__label__announcements is there anything to be announced?
+__label__announcements is there any announcement?
+__label__announcements is there anything recent to be announced?
+__label__announcements is there any recent announcement?
+__label__announcements hello, are there any new announcements?
+__label__announcements hey, are there any new announcements?
+__label__announcements hi, are there any new announcements?
+__label__announcements hello there, are there any new announcements?
+__label__announcements hey there, are there any new announcements?
+__label__announcements hi there, are there any new announcements?
+__label__announcements hello, tell me the latest announcements
+__label__announcements hey, tell me the latest announcements
+__label__announcements hi, tell me the latest announcements
+__label__announcements any recent news within the company?
+__label__announcements any recent announcements within the company?
+__label__announcements any announcements within the company?
+__label__announcements any news within the company?
+__label__announcements hello, could you please brief me on announcements?
+__label__announcements hey, could you please brief me on announcements?
+__label__announcements hi, could you please brief me on announcements?
+__label__announcements i want to know the recent announcements
+__label__announcements i want to know the most recent announcements
+__label__announcements i want to know the company's news
+__label__announcements i want to know the company's recent news
+__label__announcements i want to know the company's most recent news
+__label__announcements please, announcements
+__label__announcements please, company news
+__label__announcements please, news within the company
+__label__announcements please, news about the company
+__label__announcements hello, anything new going on today?
+__label__announcements hey, anything new going on today?
+__label__announcements hi, anything new going on today?
+__label__announcements hi there, anything new going on today?
+__label__announcements tell me announcements
+__label__announcements tell me news related to the company
+__label__announcements tell me the most recent announcements
+__label__announcements tell me the latest announcements
+__label__announcements latest announcements
+__label__announcements most recent announcements
+__label__announcements do me a favor and tell me the recent announcements
+__label__announcements do me a favor and tell me the latest announcements
+__label__announcements did the ceo announce anything today?
+__label__announcements did the cto announce anything today?
+__label__announcements did the cfo announce anything today?
+__label__announcements did anyone from the company's leadership announce anything?
 
 __label__support what is support's email?
 __label__support i need to contact support?
@@ -339,42 +339,42 @@ __label__support when does technical support work?
 __label__support can i talk to a technician?
 __label__support where can i receive help?
 __label__support where can i send my questions about a product?
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
-__label__support
+__label__support i need to talk to support
+__label__support i need to talk to technical support
+__label__support could you please put me in touch with support?
+__label__support could you please put me in touch with technical support?
+__label__support put me in touch with support
+__label__support put me in touch with technical support
+__label__support take me to support
+__label__support take me to technical support
+__label__support i need support to help me
+__label__support i need someone to help
+__label__support i need help with something
+__label__support i need help with something technical
+__label__support i need a technician
+__label__support please send a technician
+__label__support hello, i need technical support
+__label__support hello, send a technician
+__label__support hello, i need support
+__label__support hello, please help me
+__label__support hello, help me
+__label__support hi there, please help me
+__label__support hi there, help me
+__label__support hello, i need technical help from someone
+__label__support hello, do you know someone who can help me?
+__label__support hey, i need your help
+__label__support hey, please help me
+__label__support hey, help me
+__label__support hi help
+__label__support hello help
+__label__support hey help
+__label__support i really need your help, please
+__label__support i really need someone to help me, thank you
+__label__support please send someone to help me
+__label__support i am stuck i need help
+__label__support i don't know what to do i need support
+__label__support i don't know what to do i need technical support
+__label__support i don't know what to do i need help
 
 __label__insurance i have a question about insurance open enrollment.
 __label__insurance what is open enrollment?
@@ -402,55 +402,55 @@ __label__insurance how much do i pay for company insurance?
 __label__insurance company insurance price
 __label__insurance can i enroll for insurance?
 __label__insurance until when can i enroll in insurance through open enrollment?
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
-__label__insurance
+__label__insurance how do i get insured?
+__label__insurance how do i get insurance?
+__label__insurance is my health covered?
+__label__insurance do i get health coverage?
+__label__insurance is my wife covered?
+__label__insurance is my son covered?
+__label__insurance is my daughter covered?
+__label__insurance are my children covered?
+__label__insurance is my mom covered?
+__label__insurance is my dad covered?
+__label__insurance insurance coverage
+__label__insurance health coverage
+__label__insurance company insurance limit
+__label__insurance how does insurance work?
+__label__insurance health benefits
+__label__insurance work insurance
+__label__insurance how do health benefits work?
+__label__insurance how do i get health benefits?
+__label__insurance i want to access my insurance
+__label__insurance i want to access my insurance policy
+__label__insurance i want to see my insurance
+__label__insurance i want to see my insurance policy
+__label__insurance i want to read my insurance
+__label__insurance i want to read my insurance policy
+__label__insurance insurance policy
+__label__insurance insurance enrollment
+__label__insurance insurance open enrollment
+__label__insurance health benefits from insurance
+__label__insurance health benefits enrollment
+__label__insurance health benefits open enrollment
+__label__insurance health insurance enrollment
+__label__insurance health insurance open enrollment
+__label__insurance enrollment in insurance
+__label__insurance hello, i would like to know about company's insurance
+__label__insurance hello, i would like to enroll in insurance
+__label__insurance hello, i would like to know more about health benefits
+__label__insurance hi, please tell me about insurance
+__label__insurance hi, tell me more about health benefits
+__label__insurance hi, i would like to know about company's insurance
+__label__insurance hey, i would like to know about company's insurance
+__label__insurance sup, i would like to know about company's insurance
+__label__insurance howdy, i would like to know about company's insurance
+__label__insurance how much am i covered for?
+__label__insurance hello, how much am i covered for?
+__label__insurance could you please tell me how much i am covered for?
+__label__insurance tell me how much i am covered for
+__label__insurance how much is my coverage
+__label__insurance please help me enroll in insurance
+__label__insurance hello, i need help enrolling in insurance
 
 __label__name what is your name?
 __label__name what are you called?
