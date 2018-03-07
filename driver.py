@@ -16,7 +16,7 @@ print 'Accuracy: ', score
 
 while True:
 	query.append(raw_input('What is your query?\n'))
-	if query == 'exit':
+	if query[0].lower() == 'exit':
 		break
 	labels = model.predict_proba(query, k = 3)
 	print labels
