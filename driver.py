@@ -1,7 +1,7 @@
 import fasttext
 query = []
 
-model = fasttext.load_model('modelMaster.bin', label_prefix='__label__')
+model = fasttext.load_model('model.bin', label_prefix='__label__')
 
 print ('Testing the model')
 result = model.test('TestData.txt')

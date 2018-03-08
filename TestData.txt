@@ -15,10 +15,10 @@ __label__computer My computer crashed
 __label__password I forgot my password
 __label__speed Why is my computer so slow?
 __label__printer Why can't I print?
-__label__throubleshooting The internet is slow
+__label__computer The internet is slow
 __label__files Can I undelete a file?
 __label__network What is the wireless password?
 __label__website Why is this website blocked?
 __label__voicemail I forgot my voicemail password
 __label__email How do I setup my email?
-__label__phone How can I access my computer from outside the network?
+__label__remote How can I access my computer from outside the network?

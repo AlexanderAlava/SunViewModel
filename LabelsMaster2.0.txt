@@ -1745,77 +1745,77 @@ __label__email __label__tech help me configure my inbox
 __label__email __label__tech help me connect to email
 __label__email __label__tech help me connect to my inbox
 
-__label__vpn __label__tech how can i setup my phone to access the network remotely?
-__label__vpn __label__tech how can i setup my tablet to access the network remotely?
-__label__vpn __label__tech how can i setup my computer to access the network remotely?
-__label__vpn __label__tech __label__tech how can i setup my pc to access the network remotely?
-__label__vpn __label__tech how can i setup my laptop to access the network remotely?
-__label__vpn __label__tech how can i setup my mobile device to access the network remotely?
-__label__vpn __label__tech vpn access
-__label__vpn __label__tech vpn address
-__label__vpn __label__tech vpn setup
-__label__vpn __label__tech remote access
-__label__vpn __label__tech remote access via vpn
-__label__vpn __label__tech remote network access
-__label__vpn __label__tech setup my iphone for network access
-__label__vpn __label__tech setup my cell phone for access
-__label__vpn __label__tech setup my iphone vpn
-__label__vpn __label__tech setup my cell phone vpn
-__label__vpn __label__tech laptop vpn
-__label__vpn __label__tech setup my mobile device for network access
-__label__vpn __label__tech setup my mobile device for access
-__label__vpn __label__tech setup my mobile device vpn
-__label__vpn __label__tech mobile device vpn
-__label__vpn __label__tech mobile device access policy
-__label__vpn __label__tech cell phone access policy
-__label__vpn __label__tech iphone access policy
-__label__vpn __label__tech laptop access policy
-__label__vpn __label__tech virtual private network
-__label__vpn __label__tech remote access setup
-__label__vpn __label__tech help with vpn setup
-__label__vpn __label__tech help with vpn access
-__label__vpn __label__tech help with phone vpn
-__label__vpn __label__tech setup tablet vpn
-__label__vpn __label__tech help with tablet vpn
-__label__vpn __label__tech vpn help
-__label__vpn __label__tech vpn
-__label__vpn __label__tech where do i setup my vpn?
-__label__vpn __label__tech where do i setup my virtual private network?
-__label__vpn __label__tech where do i configure my vpn?
-__label__vpn __label__tech where do i configure my virtual private network?
-__label__vpn __label__tech how do i setup my vpn?
-__label__vpn __label__tech how do i setup my virtual private network?
-__label__vpn __label__tech how do i configure my vpn?
-__label__vpn __label__tech how do i configure my virtual private network?
-__label__vpn __label__tech how to setup vpn
-__label__vpn __label__tech how to setup virtual private network
-__label__vpn __label__tech how to configure vpn
-__label__vpn __label__tech how to configure virtual private network
-__label__vpn __label__tech help with vpn
-__label__vpn __label__tech remote access vpn
-__label__vpn __label__tech vpn remote access
-__label__vpn __label__tech access remotely with vpn
-__label__vpn __label__tech help with virtual private network
-__label__vpn __label__tech remote access virtual private network
-__label__vpn __label__tech virtual private network remote access
-__label__vpn __label__tech remotely access network
-__label__vpn __label__tech vpn access policy
-__label__vpn __label__tech remotely access vpn
-__label__vpn __label__tech remotely access virtual private network
-__label__vpn __label__tech virtual private network access policy
-__label__vpn __label__tech remote access vpn
-__label__vpn __label__tech remote access virtual private network
-__label__vpn __label__tech remote access tablet
-__label__vpn __label__tech remote access phone
-__label__vpn __label__tech remote access mobile device
-__label__vpn __label__tech remote access laptop
-__label__vpn __label__tech vpn access policy
-__label__vpn __label__tech virtual private network access policy
-__label__vpn __label__tech access policy vpn
-__label__vpn __label__tech access policy virtual private network
-__label__vpn __label__tech vpn access policy phone
-__label__vpn __label__tech vpn access policy laptop
-__label__vpn __label__tech vpn access policy tablet
-__label__vpn __label__tech virtual private network access policy phone
-__label__vpn __label__tech virtual private network access policy laptop
-__label__vpn __label__tech virtual private network access policy tablet
+__label__remote __label__tech how can i setup my phone to access the network remotely?
+__label__remote __label__tech how can i setup my tablet to access the network remotely?
+__label__remote __label__tech how can i setup my computer to access the network remotely?
+__label__remote __label__tech __label__tech how can i setup my pc to access the network remotely?
+__label__remote __label__tech how can i setup my laptop to access the network remotely?
+__label__remote __label__tech how can i setup my mobile device to access the network remotely?
+__label__remote __label__tech vpn access
+__label__remote __label__tech vpn address
+__label__remote __label__tech vpn setup
+__label__remote __label__tech remote access
+__label__remote __label__tech remote access via vpn
+__label__remote __label__tech remote network access
+__label__remote __label__tech setup my iphone for network access
+__label__remote __label__tech setup my cell phone for access
+__label__remote __label__tech setup my iphone vpn
+__label__remote __label__tech setup my cell phone vpn
+__label__remote __label__tech laptop vpn
+__label__remote __label__tech setup my mobile device for network access
+__label__remote __label__tech setup my mobile device for access
+__label__remote __label__tech setup my mobile device vpn
+__label__remote __label__tech mobile device vpn
+__label__remote __label__tech mobile device access policy
+__label__remote __label__tech cell phone access policy
+__label__remote __label__tech iphone access policy
+__label__remote __label__tech laptop access policy
+__label__remote __label__tech virtual private network
+__label__remote __label__tech remote access setup
+__label__remote __label__tech help with vpn setup
+__label__remote __label__tech help with vpn access
+__label__remote __label__tech help with phone vpn
+__label__remote __label__tech setup tablet vpn
+__label__remote __label__tech help with tablet vpn
+__label__remote __label__tech vpn help
+__label__remote __label__tech vpn
+__label__remote __label__tech where do i setup my vpn?
+__label__remote __label__tech where do i setup my virtual private network?
+__label__remote __label__tech where do i configure my vpn?
+__label__remote __label__tech where do i configure my virtual private network?
+__label__remote __label__tech how do i setup my vpn?
+__label__remote __label__tech how do i setup my virtual private network?
+__label__remote __label__tech how do i configure my vpn?
+__label__remote __label__tech how do i configure my virtual private network?
+__label__remote __label__tech how to setup vpn
+__label__remote __label__tech how to setup virtual private network
+__label__remote __label__tech how to configure vpn
+__label__remote __label__tech how to configure virtual private network
+__label__remote __label__tech help with vpn
+__label__remote __label__tech remote access vpn
+__label__remote __label__tech vpn remote access
+__label__remote __label__tech access remotely with vpn
+__label__remote __label__tech help with virtual private network
+__label__remote __label__tech remote access virtual private network
+__label__remote __label__tech virtual private network remote access
+__label__remote __label__tech remotely access network
+__label__remote __label__tech vpn access policy
+__label__remote __label__tech remotely access vpn
+__label__remote __label__tech remotely access virtual private network
+__label__remote __label__tech virtual private network access policy
+__label__remote __label__tech remote access vpn
+__label__remote __label__tech remote access virtual private network
+__label__remote __label__tech remote access tablet
+__label__remote __label__tech remote access phone
+__label__remote __label__tech remote access mobile device
+__label__remote __label__tech remote access laptop
+__label__remote __label__tech vpn access policy
+__label__remote __label__tech virtual private network access policy
+__label__remote __label__tech access policy vpn
+__label__remote __label__tech access policy virtual private network
+__label__remote __label__tech vpn access policy phone
+__label__remote __label__tech vpn access policy laptop
+__label__remote __label__tech vpn access policy tablet
+__label__remote __label__tech virtual private network access policy phone
+__label__remote __label__tech virtual private network access policy laptop
+__label__remote __label__tech virtual private network access policy tablet
