@@ -2,10 +2,52 @@
 
 # import fasttext
 import time
-import random
+from random import *
+
+# "Switch case" for buckets
+def bucketSelector(bucket):
+	if (bucket == "greetings"):
+		# Print option(s) for greetings
+		print("greetings")
+	elif (bucket == "holidays"):
+		# Print option(s) for holidays
+		print("holidays")
+	elif (bucket == "sunview"):
+		# Print option(s) for sunview
+		print("sunview")
+	elif (bucket == "announcements"):
+		# Print option(s) for announcements
+		print("announcements")
+	elif (bucket == "support"):
+		# Print option(s) for support
+		print("support")
+	elif (bucket == "name"):
+		# Print option(s) for name
+		print("name")
+	elif (bucket == "human"):
+		# Print option(s) for human
+		print("human")
+	elif (bucket == "bot"):
+		# Print option(s) for bot
+		print("bot")
+	elif (bucket == "itsm"):
+		# Print option(s) for itsm
+		print("itsm")
+	elif (bucket == "halloween"):
+		# Print option(s) for halloween
+		print("halloween")
+	elif (bucket == "changegear"):
+		# Print option(s) for changegear
+		print("changegear")
+	elif (bucket == "sst"):
+		# Print option(s) for sst
+		print("sst")
+
+
+################################# MAIN #########################################
 
 query = []
-confidence = 0.6
+confidence = 0.7
 flag = 0
 
 #model = fasttext.load_model('model.bin', label_prefix='__label__')
@@ -27,20 +69,38 @@ while True:
 	#labels = model.predict_proba(query, k = 3)
 	#print labels
 
-
+	# Confidence level is less than 0.6
 	if confidence < 0.6:
-		if confidence < 0.2:
-			print ("Con < 0.2") # Print error message
-		# elif flag = 0
-			# Ask for clarification or for a different query
-			# flag++;
-		# elif
-		 	# Print error message
+		# Confidence level is less than 0.2 or second try with low confidence
+		if confidence < 0.2 or flag > 0:
+			errorA = 'I am sorry, but I am not able to understand what you are trying to tell me.\nPlease refer to the general FAQ page.'
+			errorB = 'People still believe that us machines are smarter than humans, what a joke! I am sorry for not being able to help you at this time.\nPlease proceed to the general FAQ page.'
+			errorC = 'I don\'t want you to think that I am dumb, but I can\'t really understand your query. I am sorry!\nPlease refer to the general FAQ page.'
 
+			errorMessages = [errorA, errorB, errorC]
+
+			error = sample(errorMessages, 1)
+			print(error[0])
+
+			# Resetting flag
+			flag = 0
+
+			print ("Con < 0.2") # Print error message
+		# First try with low confidence
+		else:
+			# Ask for clarification or for a different query
+			# Setting flag
+			flag += 1
+
+	# Confidence level is greater than 0.6
 	else:
 		keyword = query[0] # This should be the first label
-		print("Con > 0.6")# Switch case for buckets
-		# flag = 0
+		print("Con > 0.6")
+		bucketSelector(query[0]) # "Switch case" for buckets
+
+		# Resetting flag
+		flag = 0
+
 	query.pop()
 	end = time.time()
 	print "Performed in ", end - start, "s"
