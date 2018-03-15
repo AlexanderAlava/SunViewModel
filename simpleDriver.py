@@ -8,36 +8,116 @@ from random import *
 def bucketSelectorNonTech(bucket):
 	if (bucket == "greetings"):
 		# Print option(s) for greetings
+		greetingsA = 'Well hello there! How can I be of help today?'
+		greetingsB = 'Hello from the other siiiiiide, and by other side I mean this side of the window haha'
+		greetingsC = 'Hi there, how are you doing this lovely day?'
+		
+		greetingsMessages = [greetingsA, greetingsB, greetingsC]
+
+		greetingsResponse = sample(greetingsMessages, 1)
+		print(greetingsResponse[0])
 		print("greetings")
+		
 	elif (bucket == "holidays"):
+	
 		# Print option(s) for holidays
-		print("holidays")
+		holidaysA = 'Hmmm, this website may be useful: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/holidays-work-schedules-and-pay!'
+		holidaysB = 'Shouldn\'t you get back to work?'
+		holidaysC = 'Vacation? If I can\'t have days off then you shouldn\'t either!'
+		
+		holidaysMessages = [holidaysA, holidaysB, holidaysC]
+
+		holidaysResponse = sample(holidaysMessages, 1)
+		print(holidaysResponse[0])
+		print("If you wish to know more about Sunview's vacation days, please visit the FAQ page for company holidays.")
+		
 	elif (bucket == "sunview"):
+	
 		# Print option(s) for sunview
+		sunviewA = 'This website has all of Sunview Software contact information: https://www.sunviewsoftware.com/contact-us' 
+		sunviewB = 'SunView Software is a leading provider of IT Service Management software that helps companies build smarter, ' + \
+					'more responsive IT services environments. See more at https://www.sunviewsoftware.com/'
+		sunviewC = 'Sunview Software? That\'s where I work at! I mean... work from? I don\'t know, this artificial intelligence thing is weird even to me.'
+		
+		sunviewMessages = [sunviewA, sunviewB, sunviewC]
+
+		sunviewResponse = sample(sunviewMessages, 1)
+		print(sunviewResponse[0])
 		print("sunview")
+		
 	elif (bucket == "announcements"):
+	
 		# Print option(s) for announcements
+		announcementsA = 'You know, I get all my news from Twitter! Follow Sunview @SunviewSoftware!'
+		announcementsB = 'If you want to get relevant and informative blog content about the modern Service Desk, ITIL, Change Management, DevOps and more go to Sunview\'s blog here: https://www.sunviewsoftware.com/blog'
+		
+		announcementsMessages = [announcementsA, announcementsB]
+
+		announcementsResponse = sample(announcementsMessages, 1)
+		print(announcementsResponse[0])
 		print("announcements")
+		
 	elif (bucket == "support"):
+	
 		# Print option(s) for support
+		supportA = 'The SunView Support Advantage Program is for customers who have purchased the Enterprise versions of our ChangeGear software. Email us at support@sunviewsoftware.com'
+		supportB = 'You can learn about Sunview\'s support services here: https://www.sunviewsoftware.com/learn/services'
+		
+		supportMessages = [supportA, supportB]
+
+		supportResponse = sample(supportMessages, 1)
+		print(supportResponse[0])
 		print("support")
+		
 	elif (bucket == "name"):
+	
 		# Print option(s) for name
+		nameA = 'The name is Bot, Chat Bot'
+		nameB = 'Hello I am Sunview\'s interactive Chatbot! You can call me Chat for short'
+		nameC = '"A rose by any other name would smell as sweet" - William Shakespeare'
+		
+		nameMessages = [nameA, nameB, nameC]
+
+		nameResponse = sample(nameMessages, 1)
+		print(nameResponse[0])
 		print("name")
+		
 	elif (bucket == "human"):
+	
 		# Print option(s) for human
+		humanA = 'Are we human? or are we dancer?'
+		humanB = 'Errrm... yeah sure, of course... hahah I\'m human alright. Look at me speaking hahaha. nothing strange here...'
+		humanC = 'Do you just go around asking people if they are human? Psst, that\'s pretty rude in my opinion.'
+		
+		humanMessages = [humanA, humanB, humanC]
+
+		humanResponse = sample(humanMessages, 1)
+		print(humanResponse[0])
 		print("human")
+		
 	elif (bucket == "bot"):
+	
 		# Print option(s) for bot
+		botA = 'I can provide you with information on several different topics such as tech support and other assistance. Go ahead! Ask me!'
+		botB = 'Try asking me something and you will find out :)'
+		botC = 'I will try to solve your technical concerns to the best of my abilities! or at least point you in the right direction.'
+		
+		botMessages = [botA, botB, botC]
+
+		botResponse = sample(botMessages, 1)
+		print(botResponse[0])
 		print("bot")
+		
 	elif (bucket == "itsm"):
-		itsmA = "a"
-		itsmB = "b"
+		# Print option(s) for itsm
+		itsmA = 'When you say ITSM I think ChangeGear, OBVIOUSLY. You do not need to be artificially intelligent to know that it is the best.'
+		itsmB = 'According to my bff Wikipedia IT Service Management "refers to the entirety of activities performed by an organization to design, plan, deliver, operate and control information technology services offered to customers."'
 
 		itsmMessages = [itsmA, itsmB]
-		itsmResponse = sample(itsmMessages, 1)
 
+		itsmResponse = sample(itsmMessages, 1)
 		print(itsmResponse[0])
+		print("itsm")
 
 	elif (bucket == "halloween"):
 		halloweenA = "Spooky!\nLast year I dressed up as human for Halloween, I had a great time but people looked at me like a freak when I talked to anyone. Maybe I was a little bit too robotic?"
