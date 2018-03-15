@@ -40,13 +40,14 @@ def bucketSelectorNonTech(bucket):
 		print(itsmResponse[0])
 
 	elif (bucket == "halloween"):
-		halloweenA = "Spooky!\nLast year I dressed up as human for Halloween, I had a great time but people looked at me like a freak when I talked to anyone. Maybe I was a little bit too robotic?\nIf you wish to know more about Halloween related vacations, please visit the FAQ page for company holidays."
-		halloweenB = "Good friends share their Halloween candy!\nThankfully, I am not a good friend and kept all the candy for myself last year. I remember I dressed as a . . . . chatbot?\nIf you wish to know more about Halloween related vacations, please visit the FAQ page for company holidays."
+		halloweenA = "Spooky!\nLast year I dressed up as human for Halloween, I had a great time but people looked at me like a freak when I talked to anyone. Maybe I was a little bit too robotic?"
+		halloweenB = "Good friends share their Halloween candy!\nThankfully, I am not a good friend and kept all the candy for myself last year. I remember I dressed as a . . . . chatbot?"
 
 		halloweenMessages = [halloweenA, halloweenB]
 		halloweenResponse = sample(halloweenMessages, 1)
 
 		print(halloweenResponse[0])
+		print("If you wish to know more about Halloween related vacations, please visit the FAQ page for company holidays.")
 
 	elif (bucket == "changegear"):
 		changegearA = "ChangeGear? Mmmmmm, why does that sound so familiar to me?\nOh! That's right! I am part of it!"
