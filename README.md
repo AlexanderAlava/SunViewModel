@@ -1,6 +1,6 @@
 # SunViewModel
 
-This is the training data set for the machine learning model that will be used for the Customer Service Chatbot
+This is the implementation of the body, the training data and the machine learning model that will be used for the Customer Service Chatbot
 
 Developers:
 - Alexander Alava
