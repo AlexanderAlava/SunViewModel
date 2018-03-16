@@ -134,6 +134,9 @@ def bucketSelectorNonTech(bucket):
 		print(sstResponse[0])
 		print("If you would like to learn more about SST, please visit https://www.sunviewsoftware.com/solutions/machine-learning-for-itsm and make sure to watch the video linked in there!")
 
+	else:
+		print "Here is a FAQ page for help with " + bucket
+	
 
 ################################# MAIN #########################################
 
