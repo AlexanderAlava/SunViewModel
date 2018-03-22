@@ -1,5 +1,3 @@
-# Driver without FastText #
-
 import fasttext
 import time
 from random import *
@@ -170,22 +168,26 @@ print 'Accuracy: ', score
 
 print '\nHello there! Welcome to the SunView chatbot! What can I help you with? \nType "exit" to quit\n'
 while failed != 1:
-	query.append(raw_input('>'))
+	rawQuery = raw_input('>')
+	if (len(rawQuery) < 2):
+		print 'Your query is too short, I need a bit more to work with!\n'
+		continue;
+	query.append(rawQuery.lower())
 	start = time.time()
 	if query[0].lower() == 'exit':
 		break
 	label_1 = model_1.predict_proba(query)
 	label_2 = model_2.predict_proba(query)
 
-	buket_1 = label_1[0][0][0] 
+	bucket_1 = label_1[0][0][0] 
 	confidence_1 = label_1[0][0][1]
-	buket_2 = label_2[0][0][0]
+	bucket_2 = label_2[0][0][0]
 	confidence_2 = label_2[0][0][1]
 	
-	print '\nBuket Prediction: ',buket_1
+	print '\nBucket Prediction: ',bucket_1
 	print 'Confidence Level: ',confidence_1
 	print '\n'
-	print 'Technical Prediction: ',buket_2
+	print 'Technical Prediction: ',bucket_2
 	print 'Confidence Level: ',confidence_2
  
 	# Confidence level is less than 0.6
@@ -199,13 +201,13 @@ while failed != 1:
 			errorMessages = [errorA, errorB, errorC]
 
 			error = sample(errorMessages, 1)
-			print(error[0])
+			print error[0], '\n'
 
 			# Resetting flag
 			flag = 0
 			failed = 1
 
-			print ("Con < 0.2") # Print error message
+			print 'Con < 0.2\n' # Print error message
 		# First try with low confidence
 		else:
 			# Ask for clarification or for a different query
@@ -216,14 +218,14 @@ while failed != 1:
 			
 			errorMessages = [errorA, errorB, errorC]
 			error = sample(errorMessages, 1)
-			print(error[0])			
+			print error[0], '\n'			
  
 			flag += 1
 
 	# Confidence level is greater than 0.6
 	else:
-		keyword = buket_1 # This should be the first label
-		print("Con > 0.6")
+		keyword = bucket_1 # This should be the first label
+		print("Con > 0.6\n")
 		bucketSelectorNonTech(keyword) # "Switch case" for buckets
 
 		# Resetting flag
