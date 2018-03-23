@@ -202,6 +202,8 @@ while failed != 1:
 
 			error = sample(errorMessages, 1)
 			print error[0], '\n'
+			end = time.time()
+			print "Performed in ", end - start, "s"
 
 			# Resetting flag
 			flag = 0
