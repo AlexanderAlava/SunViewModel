@@ -3,7 +3,7 @@ import time
 from random import *
 
 # "Switch case" for buckets
-def bucketSelectorNonTech(bucket):
+def bucketSelector(bucket):
 	if (bucket == "greetings"):
 
 		greetingsA = 'Well hello there! How can I be of help today?'
@@ -133,66 +133,85 @@ def bucketSelectorNonTech(bucket):
 		print("If you would like to learn more about SST, please visit https://www.sunviewsoftware.com/solutions/machine-learning-for-itsm and make sure to watch the video linked in there!")
 
 	else:
-		print "Here is a FAQ page for help with " + bucket 
-	
+		print "Here is a FAQ page for help with " + bucket
+
 
 ################################# MAIN #########################################
 
+# Declaring global variables
 query = []
 flag = 0
 failed = 0
 
-################################################################################
+########################## TESTNG INFORMATION ##################################
 model_1 = fasttext.load_model('model_1.bin', label_prefix='__label__')
 
-print ('Testing the model: Bucket Classification')
+#print ('Testing the model: Bucket Classification')
 result = model_1.test('TestData.txt')
-print 'P@1: ', result.precision
-print 'R@1: ', result.recall
-print 'Number of examples: ', result.nexamples
+#print 'P@1: ', result.precision
+#print 'R@1: ', result.recall
+#print 'Number of examples: ', result.nexamples
 
 score = 2 * ((result.precision * result.recall) / (result.precision + result.recall))
-print 'Accuracy: ', score
+#print 'Accuracy: ', score
 
 model_2 = fasttext.load_model('model_2.bin', label_prefix='__label__')
 
-print ('Testing the model: Technical/Non-Technical')
+#print ('Testing the model: Technical/Non-Technical')
 result = model_2.test('TestData2.0.txt')
-print 'P@1: ', result.precision
-print 'R@1: ', result.recall
-print 'Number of examples: ', result.nexamples
+#print 'P@1: ', result.precision
+#print 'R@1: ', result.recall
+#print 'Number of examples: ', result.nexamples
 
 score = 2 * ((result.precision * result.recall) / (result.precision + result.recall))
-print 'Accuracy: ', score
-##################################################################################
+#print 'Accuracy: ', score
 
+################################### BODY ######################################
+
+# Printing greeting message
 print '\nHello there! Welcome to the SunView chatbot! What can I help you with? \nType "exit" to quit\n'
+
+# Establishing general while loop
 while failed != 1:
+
+	# Prompting for and reading in user query
 	rawQuery = raw_input('>')
+
+	# Checking if the query is too short
 	if (len(rawQuery) < 2):
 		print 'Your query is too short, I need a bit more to work with!\n'
 		continue;
+
+	# Appending the query all in lowercase
 	query.append(rawQuery.lower())
+
+	# Computation time start
 	start = time.time()
+
+	# Checking if the user wants to exit
 	if query[0].lower() == 'exit':
 		break
+
+	# Extracting information from the models
 	label_1 = model_1.predict_proba(query)
 	label_2 = model_2.predict_proba(query)
 
-	bucket_1 = label_1[0][0][0] 
+	# Assigning retrieved labels and confidence levels to local variables
+	bucket_1 = label_1[0][0][0]
 	confidence_1 = label_1[0][0][1]
 	bucket_2 = label_2[0][0][0]
 	confidence_2 = label_2[0][0][1]
-	
+
+	# Printing results
 	print '\nBucket Prediction: ',bucket_1
 	print 'Confidence Level: ',confidence_1
 	print '\n'
 	print 'Technical Prediction: ',bucket_2
 	print 'Confidence Level: ',confidence_2
- 
-	# Confidence level is less than 0.6
+
+	# Confidence is less than 0.6
 	if confidence_1 < 0.6 or confidence_2 < 0.6:
-		# Confidence level is less than 0.2 or second try with low confidence
+		# Confidence level less than 0.2 or second try with low confidence
 		if confidence_1 < 0.2 or confidence_2 < 0.2 or flag > 0:
 			errorA = 'I am sorry, but I am not able to understand what you are trying to tell me.\nPlease refer to the general FAQ page.'
 			errorB = 'People still believe that us machines are smarter than humans, what a joke! I am sorry for not being able to help you at this time.\nPlease proceed to the general FAQ page.'
@@ -202,38 +221,46 @@ while failed != 1:
 
 			error = sample(errorMessages, 1)
 			print error[0], '\n'
+
+			# Computation time end and print
 			end = time.time()
 			print "Performed in ", end - start, "s"
 
 			# Resetting flag
 			flag = 0
+
+			# Setting failed in order to exit
 			failed = 1
 
-			print 'Con < 0.2\n' # Print error message
 		# First try with low confidence
 		else:
-			# Ask for clarification or for a different query
-			# Setting flag
 			errorA = 'I am having a little trouble understanding what you are trying to ask, can you please clarify? \n'
 			errorB = "What do you mean? I am only a machince, help me out here! What is it that you're asking?\n"
 			errorC = 'Hmm I think I may have the answer, can you give me a little bit more info? \n'
-			
+
 			errorMessages = [errorA, errorB, errorC]
+
 			error = sample(errorMessages, 1)
-			print error[0], '\n'			
- 
+			print error[0], '\n'
+
+			# Setting flag
 			flag += 1
 
-	# Confidence level is greater than 0.6
+	# Confidence level greater than 0.6
 	else:
-		keyword = bucket_1 # This should be the first label
-		print("Con > 0.6\n")
-		bucketSelectorNonTech(keyword) # "Switch case" for buckets
+		# Highest confidence label
+		keyword = bucket_1
+
+		# Calling function with switch case for buckets
+		bucketSelector(keyword)
 
 		# Resetting flag
 		flag = 0
 
+	# Clearing the query list
 	query.pop()
+
+	# Computation time end
 	end = time.time()
 	print "Performed in ", end - start, "s"
 
