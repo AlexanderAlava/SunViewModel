@@ -605,81 +605,106 @@ __label__insurance tell me about preexisting condition insurance
 __label__insurance insurance for preexisting conditions
 __label__insurance does my insurance cover preexisting conditions?
 
-__label__name what is your name?
-__label__name what are you called?
-__label__name what should we call you?
-__label__name whats your name?
-__label__name do you have a name?
-__label__name how do you address you?
-__label__name what should i call you?
-__label__name what should we call you?
-__label__name who are you?
-__label__name what are you?
-__label__name what should your name really be?
-__label__name do you have a name?
-__label__name how can i call you?
-__label__name tell me about yourself
-__label__name tell me about you
-__label__name tell me a little more about yourself
-__label__name name please?
-__label__name you're?
-__label__name what is your first and last name?
-__label__name what do your parents call you?
-__label__name what do you go by?
-__label__name what is your preferred name?
-__label__name you are?
-__label__name contact info?
-__label__name what kind are you?
-__label__name are you a chatbot?
-__label__name what do your friends call you?
-__label__name personal information?
-__label__name i don't know who you are!
-__label__name where did you come from?
-__label__name info about you
-__label__name how did you get here?
-__label__name tell me who are you?
-__label__name i do not remember who you are
-__label__name could you please tell me your name, because I do not remember
-__label__name i really need to know what is your name please
-__label__name what is your first and last name
-__label__name do you have a name
-__label__name name please
-__label__name please tell me your name or else
-__label__name i do not know your name
-__label__name introduce yourself to me
-__label__name introduce me your name
-__label__name i command you to tell me your name
-__label__name it will be nice to know your name
-__label__name if only i knew your name
-__label__name i forgot your name
-__label__name do i know who you are
-__label__name who are you
-__label__name i do not remember who you are
-__label__name my name is, what is your name
-__label__name i am new here, what is your name
-__label__name everyone should introduce themselves
-__label__name will you be telling us your name today
-__label__name please tell everyone your name
-__label__name tell use who you really are
-__label__name who are you really deep down
-__label__name do you even have a real name
-__label__name how can a bot like you have a name
-__label__name tell me what your true identity is
-__label__name what is your identity
-__label__name identification please
-__label__name provide me with your id please
-__label__name where is your id
-__label__name id
-__label__name what is your identification number
-__label__name report your name solider
-__label__name give me your id please
-__label__name do you have a id
-__label__name is your name on your id
-__label__name i hope your name matches your id
-__label__name what is your full name
-__label__name do you have a middle name
-__label__name what is your last name
+__label__name i want to know how to call you
 __label__name what is your first name
+__label__name will you be telling us your name today
+__label__name how can i call you?
+__label__name do you have a name?
+__label__name what is your surname?
+__label__name tell me what your true identity is
+__label__name you're?
+__label__name what do your friends call you?
+__label__name do you have a name?
+__label__name tell me about yourself
+__label__name what are you?
+__label__name report your name solider
+__label__name it will be nice to know your name
+__label__name give me your name
+__label__name i want to know how should i address you
+__label__name i command you to tell me your name
+__label__name what is your first and last name?
+__label__name whats your name?
+__label__name i really need to know what is your name please
+__label__name who are you
+__label__name i want to know your name
+__label__name do you have a name
+__label__name info about you
+__label__name where is your id
+__label__name everyone should introduce themselves
+__label__name how do they call you?
+__label__name my name is, what is your name
+__label__name what should your name really be?
+__label__name do you have a id
+__label__name can you please tell me your name?
+__label__name can you tell me how to call you?
+__label__name if only i knew your name
+__label__name id
+__label__name how can a bot like you have a name
+__label__name how do others call you?
+__label__name tell use who you really are
+__label__name contact info?
+__label__name introduce me your name
+__label__name can you tell me how to address you?
+__label__name please tell me your name or else
+__label__name how should i reference you?
+__label__name please give me your name
+__label__name i do not remember who you are
+__label__name do you even have a real name
+__label__name what is your preferred name?
+__label__name who are you?
+__label__name i hope your name matches your id
+__label__name what is your first and last name
+__label__name please tell everyone your name
+__label__name where did you come from?
+__label__name is your name on your id
+__label__name i forgot your name
+__label__name how do i reference you?
+__label__name name please?
+__label__name what should i call you?
+__label__name who are you really deep down
+__label__name tell me about you
+__label__name what should we call you?
+__label__name please tell me your name
+__label__name what do you go by?
+__label__name what do your parents call you?
+__label__name do you have a middle name
+__label__name tell me a little more about yourself
+__label__name could you please tell me your name, because I do not remember
+__label__name what are you called?
+__label__name how did you get here?
+__label__name identification please
+__label__name what is your last name
+__label__name how do you address you?
+__label__name how do people call you?
+__label__name what kind are you?
+__label__name please tell me how people call you
+__label__name please tell me your surname
+__label__name you are?
+__label__name i do not know your name
+__label__name how should i address you?
+__label__name name please
+__label__name what's your name?
+__label__name what is your full name
+__label__name how should i call you?
+__label__name tell your name
+__label__name please tell what name do you have
+__label__name give me your id please
+__label__name please tell me how do i call you
+__label__name introduce yourself to me
+__label__name i do not remember who you are
+__label__name please tell me how do they call you
+__label__name i want to know what is your name
+__label__name i don't know who you are!
+__label__name what is your identity
+__label__name provide me with your id please
+__label__name personal information?
+__label__name do i know who you are
+__label__name what should we call you?
+__label__name i am new here, what is your name
+__label__name what is your identification number
+__label__name what is your name?
+__label__name are you a chatbot?
+__label__name tell me who are you?
 
 __label__human are you human?
 __label__human you are not human
@@ -756,6 +781,31 @@ __label__human aliens can not pass the turing test
 __label__human only humans can take the turing test if you are not a alien
 __label__human turing test is the ultimate decider if you are human
 __label__human turing test is tests if you are human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
+__label__human
 
 __label__bot what do you do?
 __label__bot what are you able to do?
@@ -832,6 +882,31 @@ __label__bot do you know the correct response
 __label__bot do you have the correct response to my question
 __label__bot if you know the answer to my question then you are a helpful bot
 __label__bot i need help bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
+__label__bot
 
 __label__itsm what is the next generation of itsm?
 __label__itsm future of itsm?
@@ -908,158 +983,233 @@ __label__itsm information service management
 __label__itsm service management
 __label__itsm management of information
 __label__itsm management of technology information
+__label__itsm 
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
+__label__itsm
 
-__label__halloween what did you go as for halloween?
-__label__halloween what was your halloween costume?
-__label__halloween what is your halloween costume?
-__label__halloween what is your favorite halloween costume?
-__label__halloween do you have a special costume for halloween?
-__label__halloween any ideas for cool halloween’s costumes?
-__label__halloween what is your plan for halloween?
-__label__halloween what costume are you wearing for halloween?
-__label__halloween do you have a special costume for halloween?
-__label__halloween what holiday do you celebrate in october?
-__label__halloween what is your scary costume for halloween?
-__label__halloween did you go shopping for your halloween costume?
-__label__halloween are you going to the halloween party?
-__label__halloween there are lots of halloween savings
-__label__halloween do you like halloween?
-__label__halloween what was your last halloween costume?
 __label__halloween is halloween your favorite?
-__label__halloween does halloween scare you?
-__label__halloween what you dressing up as for halloween?
-__label__halloween did you dress up for halloween?
-__label__halloween any dress-up ideas for halloween?
-__label__halloween did you buy your halloween makeup?
-__label__halloween what is your favorite halloween character?
-__label__halloween what monster are you for halloween?
-__label__halloween what store will you buy your halloween costume at
-__label__halloween are you going to get you costume for halloween next week
+__label__halloween any ideas for cool halloween’s costumes?
+__label__halloween i have been invited to a halloween party!
+__label__halloween are you going to the halloween party?
+__label__halloween describe your halloween costume
+__label__halloween how's your costume?
 __label__halloween let me know when you will be getting your halloween costume so i can go with you
-__label__halloween please tell me what monster you will be in halloween
-__label__halloween is halloween the best part of October
-__label__halloween i love halloween, how about you
 __label__halloween i wish that halloween was everyday
-__label__halloween i want to be a scary monster on halloween
-__label__halloween halloween night is going to be so much fun
-__label__halloween did you buy any makeup for halloween
-__label__halloween are you going to use any makeup on your halloween costume
-__label__halloween if you are going to buy a halloween costume i suggest you go when they are on sale
-__label__halloween let me know which monster you picked to be for halloween
-__label__halloween i love dressing up for halloween
-__label__halloween i love using makeup for special effects on halloween
-__label__halloween halloween costumes are expensive
-__label__halloween there are so many different choices for halloween costumes
-__label__halloween i want a costume that looks realistic for halloween
-__label__halloween do you like halloween movies
-__label__halloween halloween movies are the best to watch alone
-__label__halloween i hate scary movies during halloween
-__label__halloween halloween movies are really scary
-__label__halloween i wonder what you will be on halloween
-__label__halloween so will you go to the halloween party
-__label__halloween i hope that a lot of people show up at the halloween party
-__label__halloween it will be fun to go to a halloween party tomorrow night
-__label__halloween i hope that halloween horror nights is open
-__label__halloween halloween horror nights at orlando is so much fun
-__label__halloween how much does halloween horror nights costs
-__label__halloween is halloween horror nights expansive
-__label__halloween can my kids go to halloween horror nights
-__label__halloween what age do you need to be to go to halloween horror nights
-__label__halloween have you ever been to orlando halloween horror nights
-__label__halloween halloween season is near
-__label__halloween time to take out my halloween costume for the season
-__label__halloween will you be attending halloween
+__label__halloween what is your favorite halloween costume?
 __label__halloween will you be attending any haunted houses on halloween
-__label__halloween haunted houses during halloween are so scary
-__label__halloween i can not afford to buy my costume on halloween
-__label__halloween halloween costumes come in all shapes and sizes
-__label__halloween please tell me what is the best halloween costume to buy
-__label__halloween where can i get scary halloween costumes
+__label__halloween can my kids go to halloween horror nights
+__label__halloween are you going to use any makeup on your halloween costume
+__label__halloween do you like halloween movies
+__label__halloween what store will you buy your halloween costume at
+__label__halloween what age do you need to be to go to halloween horror nights
+__label__halloween explain to me what is your favorite halloween candy
+__label__halloween how much should i spend on my halloween costume?
 __label__halloween what is a halloween costume
-__label__halloween do kids like to go trick or treating on halloween
-__label__halloween i love trick or treating on halloween
-__label__halloween why do people knock on houses during halloween
-__label__halloween halloween candy is the best type of candy ever
+__label__halloween halloween season is near
+__label__halloween please tell me what is the best halloween costume to buy
+__label__halloween describe your costume
+__label__halloween tell me about your favorite halloween candy
+__label__halloween time to take out my halloween costume for the season
 __label__halloween i love halloween candy
-__label__halloween do you like halloween candy
-__label__halloween candy during halloween season is so expansive
+__label__halloween how much can a good halloween costume cost?
+__label__halloween what is your plan for halloween?
+__label__halloween there are lots of halloween savings
+__label__halloween halloween horror nights at orlando is so much fun
+__label__halloween how's your halloween costume?
+__label__halloween are you going to get you costume for halloween next week
+__label__halloween what holiday do you celebrate in october?
+__label__halloween halloween night is going to be so much fun
+__label__halloween halloween costumes are expensive
+__label__halloween i wonder what you will be on halloween
+__label__halloween will you be attending halloween
+__label__halloween describe your favorite halloween candy
+__label__halloween i love trick or treating on halloween
+__label__halloween i love halloween, how about you
+__label__halloween so will you go to the halloween party
+__label__halloween i want to be a scary monster on halloween
+__label__halloween what is your halloween costume?
+__label__halloween i hope that halloween horror nights is open
+__label__halloween what dates is halloween?
+__label__halloween i can not afford to buy my costume on halloween
+__label__halloween what was your last halloween costume?
+__label__halloween candy during halloween season is so expensive
+__label__halloween is halloween next month?
+__label__halloween what you dressing up as for halloween?
+__label__halloween does halloween scare you?
+__label__halloween is halloween horror nights expansive
+__label__halloween is halloween the best part of October
+__label__halloween i hope that a lot of people show up at the halloween party
+__label__halloween any dress-up ideas for halloween?
+__label__halloween it will be fun to go to a halloween party tomorrow night
+__label__halloween i love using makeup for special effects on halloween
+__label__halloween happy halloween!
+__label__halloween i hate scary movies during halloween
+__label__halloween halloween movies are the best to watch alone
+__label__halloween what is your favorite halloween character?
+__label__halloween where can i get scary halloween costumes
+__label__halloween how much does halloween horror nights costs
+__label__halloween how much halloween candy do you have left?
+__label__halloween i want a costume that looks realistic for halloween
+__label__halloween what costume are you wearing for halloween?
+__label__halloween haunted houses during halloween are so scary
+__label__halloween what did you go as for halloween?
+__label__halloween i want halloween candy!
 __label__halloween what is your favorite type of halloween candy
+__label__halloween what is your scary costume for halloween?
+__label__halloween halloween movies are really scary
+__label__halloween let me know which monster you picked to be for halloween
+__label__halloween you have to tell me about halloween
+__label__halloween did you buy your halloween makeup?
+__label__halloween i love dressing up for halloween
+__label__halloween do you like halloween candy
+__label__halloween there are so many different choices for halloween costumes
+__label__halloween have you ever been to orlando halloween horror nights
+__label__halloween what's your halloween costume?
+__label__halloween spooky halloween!
+__label__halloween did you dress up for halloween?
+__label__halloween do kids like to go trick or treating on halloween
+__label__halloween why do people knock on houses during halloween
+__label__halloween is halloween next week?
+__label__halloween when is halloween?
+__label__halloween what was your halloween costume?
+__label__halloween do you like halloween?
+__label__halloween please tell me what monster you will be in halloween
+__label__halloween if you are going to buy a halloween costume i suggest you go when they are on sale
+__label__halloween i already have my costume for halloween!
+__label__halloween what is halloween?
+__label__halloween did you buy any makeup for halloween
+__label__halloween do you have a special costume for halloween?
+__label__halloween what monster are you for halloween?
+__label__halloween do you have a special costume for halloween?
+__label__halloween when does halloween happen?
+__label__halloween did you go shopping for your halloween costume?
+__label__halloween what's your costume?
+__label__halloween do you have any halloween candy remaining?
+__label__halloween halloween costumes come in all shapes and sizes
+__label__halloween halloween candy is the best type of candy ever
 
-__label__changegear what is cg?
-__label__changegear changegear?
-__label__changegear cg?
-__label__changegear change gear?
-__label__changegear tell me about changegear
-__label__changegear tell me more about changegear
-__label__changegear how would you define changegear?
-__label__changegear what can changegear really do?
-__label__changegear what can changegear do for me?
+__label__changegear why would switching over to cg be a better option
+__label__changegear can you describe cg?
+__label__changegear is cg bad or good for my workers
+__label__changegear please give me information about cg
+__label__changegear what is this tool called?
 __label__changegear what can changegear do for us?
-__label__changegear how can changegear help my company?
-__label__changegear how can changegear help me?
-__label__changegear what will changegear do for my company?
+__label__changegear please give me information about change gear
+__label__changegear i hope that cg can make a big impact on my company
+__label__changegear what can changegear do for me?
+__label__changegear using changegear in my company
 __label__changegear how will changegear help my it department?
+__label__changegear tool name
+__label__changegear how can changegear help me?
+__label__changegear what technology does changegear use
+__label__changegear i want to try cg
+__label__changegear what can i do with changegear?
+__label__changegear does changegear do a lot of different things?
+__label__changegear what is cg?
 __label__changegear how does changegear help my it?
+__label__changegear why would i choose cg over the alternative
+__label__changegear what will changegear do for my company?
+__label__changegear tell me everything about cg
+__label__changegear what can we do with cg?
+__label__changegear explain cg
+__label__changegear how can my workers take advantage of changegear
+__label__changegear do you recommend that my company uses changegear
+__label__changegear what can we do with changegear?
+__label__changegear what can changegear do for my team
+__label__changegear why should i consider using cg in my company
+__label__changegear should i buy changegear?
+__label__changegear if cg is implemented in my company, will i see any return
+__label__changegear why is it better to pick changegear
+__label__changegear tell me more about cg
+__label__changegear tool we using
+__label__changegear how long does it take to implement cg
+__label__changegear how is this tool called?
+__label__changegear using cg in my company
+__label__changegear changegear can help develop my company right
+__label__changegear is cg the new thing these days?
+__label__changegear what technology does cg use
+__label__changegear what are the pros of changegear
+__label__changegear what does cg do for me?
+__label__changegear changegear?
 __label__changegear what is changegear?
+__label__changegear how can changegear help my company?
+__label__changegear is changegear worth the investment
+__label__changegear cg information
+__label__changegear is changegear better for my workers
+__label__changegear how would you define changegear?
+__label__changegear if i use cg, will i grow
+__label__changegear tell me everything about cg
+__label__changegear is it easy for a new user to learn about changegear
 __label__changegear is cg a good thing?
 __label__changegear can change gear help me?
-__label__changegear what does cg do for me?
-__label__changegear cg information
-__label__changegear can you describe cg?
-__label__changegear does changegear do a lot of different things?
-__label__changegear is cg worth investing in?
-__label__changegear should i buy changegear?
-__label__changegear how do i get changegear?
-__label__changegear i want to try cg
-__label__changegear is cg better than other software?
-__label__changegear how will changegear change my future?
-__label__changegear is cg the new thing these days?
-__label__changegear what is changegear and how can it help me and my company
-__label__changegear do you recommend that my company uses changegear
-__label__changegear is changegear worth the investment
-__label__changegear how can changegear change the way we work
-__label__changegear what does changegear offer to the customer compared to other services
-__label__changegear how can changegear make my life easier
-__label__changegear what servcies or tools does changegear offer
-__label__changegear when was changegear developed
-__label__changegear is cg the right move for my company
-__label__changegear how long does it take to implement cg
-__label__changegear is cg future technology
-__label__changegear i hope that cg can make a big impact on my company
-__label__changegear what exactly is changegear and what can it do
-__label__changegear if cg is implemented in my company, will i see any return
-__label__changegear what are the pros of changegear
-__label__changegear what are the pros of cg
-__label__changegear is cg bad or good for my workers
-__label__changegear is changegear better for my workers
-__label__changegear how can my workers take advantage of changegear
-__label__changegear what advantages can cg offer to my company
-__label__changegear is cg really the hot topic these days
-__label__changegear why should i consider changegear
-__label__changegear why would switching over to cg be a better option
-__label__changegear tell me more about cg
-__label__changegear if i use cg, will i grow
-__label__changegear what can changegear do for my team
-__label__changegear is it easy for a new user to learn about changegear
-__label__changegear tell me why cg can benefit my team
-__label__changegear what are the benefits of change gear
-__label__changegear tell my the best way to implement cg
-__label__changegear how long does changegear take to use
-__label__changegear what exactly can changegear do in the long run
-__label__changegear why cg
-__label__changegear why should i consider using cg in my company
-__label__changegear i hear that cg is a very useful system these days
-__label__changegear is the changegear system worth the investment
-__label__changegear why should i invest in cg
-__label__changegear tell me why should i invest in changegear
 __label__changegear are all companies using changegear
-__label__changegear what technology does changegear use
-__label__changegear what technology does cg use
-__label__changegear when was cg made
-__label__changegear changegear can help develop my company right
-__label__changegear why would i choose cg over the alternative
-__label__changegear why is it better to pick changegear
+__label__changegear use cg
+__label__changegear what exactly can changegear do in the long run
+__label__changegear give me information about cg
+__label__changegear how do i get changegear?
+__label__changegear how can changegear change the way we work
+__label__changegear tell me all about cg
+__label__changegear give me information about changegear
+__label__changegear what advantages can cg offer to my company
+__label__changegear cg?
+__label__changegear how will changegear change my future?
+__label__changegear tell me why cg can benefit my team
+__label__changegear is cg really the hot topic these days
+__label__changegear i hear that cg is a very useful system these days
+__label__changegear use changegear
+__label__changegear what does changegear offer to the customer compared to other services
+__label__changegear why should i invest in cg
+__label__changegear how long does changegear take to use
+__label__changegear is cg better than other software?
+__label__changegear is cg the right move for my company
+__label__changegear how can changegear make my life easier
+__label__changegear tell my the best way to implement cg
+__label__changegear what are the benefits of change gear
+__label__changegear tell me more about changegear
+__label__changegear is cg future technology
 __label__changegear is changegear the best product out in the market
+__label__changegear tell me about changegear
+__label__changegear what can changegear really do?
+__label__changegear what tool am i using?
+__label__changegear tool
+__label__changegear change gear?
+__label__changegear what exactly is changegear and what can it do
+__label__changegear using changegear
+__label__changegear what are the pros of cg
+__label__changegear what servcies or tools does changegear offer
+__label__changegear what is changegear and how can it help me and my company
+__label__changegear tell me all about changegear
+__label__changegear when was cg made
+__label__changegear is the changegear system worth the investment
+__label__changegear what can i do with cg?
+__label__changegear tell me why should i invest in changegear
+__label__changegear why should i consider changegear
+__label__changegear is cg worth investing in?
+__label__changegear explain changegear
+__label__changegear when was changegear developed
+__label__changegear why cg
 
 __label__sst tell me about service smart technology
 __label__sst service smart help
@@ -1102,7 +1252,7 @@ __label__sst service smart tech benefits
 __label__sst service smart tech usefulness
 __label__sst service smart technology ai
 __label__sst using service smart tech
-__label__sst using service smart 
+__label__sst using service smart
 __label__sst tell me about service smart tech
 __label__sst what is service smart?
 __label__sst give me information on service smart
@@ -1199,7 +1349,7 @@ __label__computer what could be crashing windows?
 __label__computer what could be crashing my pc?
 __label__computer what could be crashing my laptop?
 __label__computer computer froze
-__label__computer laptop froze 
+__label__computer laptop froze
 __label__computer pc froze
 __label__computer windows froze
 __label__computer pc rebooted itself
