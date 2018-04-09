@@ -1,609 +1,609 @@
-__label__greetings hello
-__label__greetings howdy
-__label__greetings hola
-__label__greetings holla
-__label__greetings hello
-__label__greetings hiya
 __label__greetings greetings
-__label__greetings sup
-__label__greetings s'up
-__label__greetings hello
-__label__greetings howdy
-__label__greetings hola
-__label__greetings holla
-__label__greetings hello
-__label__greetings hiya
-__label__greetings greetings
-__label__greetings sup
-__label__greetings s'up
-__label__greetings how are you doing?
-__label__greetings how you doing?
-__label__greetings how are you doing?
-__label__greetings hey there
-__label__greetings hello sir
-__label__greetings wassup
-__label__greetings hi
-__label__greetings hey
-__label__greetings doing okay?
-__label__greetings hey man
-__label__greetings hey lady
-__label__greetings sup dude
-__label__greetings hello dude
-__label__greetings hello dear sir
-__label__greetings are you doing okay today?
-__label__greetings hi there
-__label__greetings hello, how are you doin
-__label__greetings hey, how are you doin?
-__label__greetings how are you doing today?
-__label__greetings hello there, can you tell me how are you doing today?
-__label__greetings good afternoon
-__label__greetings good morning
-__label__greetings good evening
-__label__greetings good morning sir
-__label__greetings good evening sir
-__label__greetings good afternoon sir
-__label__greetings good morning, how are you doing?
-__label__greetings good evening, how are you doing?
-__label__greetings good afternoon, how are you doing?
-__label__greetings morning!
-__label__greetings afternoon!
-__label__greetings evening!
-__label__greetings how are you doing this morning?
-__label__greetings how are you doing this afternoon?
-__label__greetings how are you doing this evening?
-__label__greetings hello there, good morning
-__label__greetings hello there, good afternoon
-__label__greetings hello there, good evening
-__label__greetings hi there, good morning
-__label__greetings hi there, good afternoon
-__label__greetings hi there, good evening
-__label__greetings hello, how is your morning going?
-__label__greetings hello, how is your afternoon going?
-__label__greetings hello, how is your evening going?
-__label__greetings hey, good morning
-__label__greetings hey! good morning!
-__label__greetings hey, good afternoon
-__label__greetings hey! good afternoon!
-__label__greetings hey, good evening
-__label__greetings hey! good evening!
-__label__greetings howdy cowboy
-__label__greetings hola amigo
-__label__greetings hey there bot!
-__label__greetings hi there bot!
-__label__greetings hello there bot!
-__label__greetings how are you doing bot?
-__label__greetings how are you doing today bot?
-__label__greetings hey there
-__label__greetings yo
-__label__greetings ey
-__label__greetings what's up?
-__label__greetings ey there
-__label__greetings mornin'
-__label__greetings evenin'
-__label__greetings how are you today?
-__label__greetings how are you this fine day?
-__label__greetings how are you this fine morning?
-__label__greetings how are you this fine afternoon?
-__label__greetings how are you this fine evening?
-__label__greetings how do you do?
-__label__greetings salutations
-__label__greetings hello me, meet the real me
-__label__greetings good day
-__label__greetings hey man
-__label__greetings good to see you
-__label__greetings it's a pleasure to meet you
-__label__greetings heya
 __label__greetings hello hello
+__label__greetings good evening, how are you doing?
+__label__greetings hello dear sir
+__label__greetings morning!
+__label__greetings hey there
+__label__greetings evenin'
 __label__greetings hi hi
-__label__greetings ey man
+__label__greetings sup dude
+__label__greetings hey
+__label__greetings heya
+__label__greetings good afternoon
+__label__greetings how are you this fine morning?
+__label__greetings good morning, how are you doing?
+__label__greetings hello there, good afternoon
+__label__greetings hi there bot!
+__label__greetings hello dude
+__label__greetings hiya
+__label__greetings hello, how is your afternoon going?
+__label__greetings hey! good afternoon!
+__label__greetings salutations
+__label__greetings hi
+__label__greetings good to see you
+__label__greetings hey there bot!
+__label__greetings good morning
+__label__greetings yo
+__label__greetings how are you doing today bot?
+__label__greetings hello, how is your morning going?
+__label__greetings hello sir
+__label__greetings hey! good morning!
+__label__greetings hiya
+__label__greetings how are you doing bot?
+__label__greetings holla
+__label__greetings hey, good evening
+__label__greetings hi there, good afternoon
+__label__greetings howdy cowboy
+__label__greetings ey there
+__label__greetings holla
+__label__greetings afternoon!
+__label__greetings hello
+__label__greetings hey, how are you doin?
+__label__greetings what's up?
+__label__greetings hello there, good evening
+__label__greetings hey man
+__label__greetings how are you this fine afternoon?
+__label__greetings mornin'
+__label__greetings s'up
+__label__greetings hi there, good morning
+__label__greetings s'up
+__label__greetings hello
+__label__greetings how you doing?
+__label__greetings how are you this fine evening?
+__label__greetings hello, how is your evening going?
+__label__greetings how are you doing today?
+__label__greetings evening!
+__label__greetings good afternoon sir
+__label__greetings how are you this fine day?
+__label__greetings hey lady
+__label__greetings how are you doing?
+__label__greetings good morning sir
+__label__greetings sup
+__label__greetings hey, good afternoon
+__label__greetings hey there
+__label__greetings are you doing okay today?
+__label__greetings hi there, good evening
+__label__greetings hola
+__label__greetings good afternoon, how are you doing?
+__label__greetings greetings
 __label__greetings what's up my guy
+__label__greetings hello, how are you doin
+__label__greetings hey man
+__label__greetings hello there bot!
+__label__greetings how are you doing this morning?
+__label__greetings it's a pleasure to meet you
+__label__greetings hello
+__label__greetings sup
+__label__greetings howdy
+__label__greetings hola amigo
+__label__greetings how are you today?
+__label__greetings hey, good morning
+__label__greetings howdy
 __label__greetings what's up my dude
+__label__greetings ey man
+__label__greetings hi there
+__label__greetings good evening
+__label__greetings good day
+__label__greetings how are you doing?
+__label__greetings doing okay?
+__label__greetings how are you doing this evening?
+__label__greetings good evening sir
+__label__greetings how are you doing this afternoon?
+__label__greetings how do you do?
+__label__greetings hey! good evening!
+__label__greetings hello there, can you tell me how are you doing today?
+__label__greetings hello
+__label__greetings hello there, good morning
+__label__greetings hello me, meet the real me
+__label__greetings hola
+__label__greetings wassup
+__label__greetings ey
 
-__label__holidays holidays this year
-__label__holidays holiday schedule
-__label__holidays company holidays this year
-__label__holidays company holiday schedule
-__label__holidays corporate holidays this year
-__label__holidays corporate holiday schedule
-__label__holidays show me a list of holidays
-__label__holidays show me a list of company holidays
-__label__holidays show me a list of corporate holidays
-__label__holidays show me the company holidays
-__label__holidays show me the corporate holidays
-__label__holidays what’s the holiday calendar this year?
-__label__holidays what is the company holiday schedule?
-__label__holidays what is the corporate holiday schedule?
-__label__holidays can you give me a list of this year’s holidays?
-__label__holidays can you show me today’s calendar with holidays?
-__label__holidays what are our days off?
-__label__holidays what are my days off?
-__label__holidays when do we get off?
-__label__holidays when do i get off?
-__label__holidays what days do we get off this year?
-__label__holidays what days do i get off this year?
-__label__holidays what days do we get off?
-__label__holidays what days do i get off?
-__label__holidays what holidays do we get off?
-__label__holidays what holidays do i get off?
-__label__holidays when don't i have to be here?
-__label__holidays when don't we have to be here?
 __label__holidays why don't we get more holidays?
-__label__holidays what are the paid holidays?
-__label__holidays do we get christmas day off?
+__label__holidays is july 4 a holiday?
+__label__holidays can you give me a list of this year’s holidays?
+__label__holidays what are my paid holidays this year?
+__label__holidays when do i get free from work?
+__label__holidays what is the corporate holiday schedule?
+__label__holidays holidays this year
+__label__holidays company holidays this year
+__label__holidays show me when I have time off
+__label__holidays is memorial day a paid holiday?
+__label__holidays when do i get a break from work?
+__label__holidays how many days off do we have this year?
+__label__holidays holiday schedule
+__label__holidays please tell me my paid vacation days
+__label__holidays what are my vacation days this year?
+__label__holidays when don't i have to be here?
+__label__holidays corporate holiday schedule
+__label__holidays hello, when do i get to rest?
+__label__holidays time off, when is it?
+__label__holidays do we get off on the fourth of july?
+__label__holidays free days
+__label__holidays how many paid holidays do I have off this year?
+__label__holidays hello, what are my vacations?
+__label__holidays when are my days off?
+__label__holidays can you show me today’s calendar with holidays?
+__label__holidays show me the corporate holidays
+__label__holidays is veteran's day a holiday?
+__label__holidays please tell me my paid days off this year
+__label__holidays what are my paid vacation days this year?
+__label__holidays what are the company paid holidays?
+__label__holidays vacation days, when do I have them?
+__label__holidays paid vacation
+__label__holidays are we off on the fourth of july?
+__label__holidays vacations
+__label__holidays when do i go off to vacation?
+__label__holidays is july 4th a holiday?
+__label__holidays is my birthday a holiday?
+__label__holidays when do we get off?
+__label__holidays vacation, when do I have it?
+__label__holidays vacation this year
+__label__holidays what days do we get off this year?
+__label__holidays what days do we get off?
+__label__holidays what days are holidays?
+__label__holidays tell me holidays
+__label__holidays what’s the holiday calendar this year?
+__label__holidays show me when I have days off
+__label__holidays look up when I have time off
+__label__holidays is july fourth a holiday?
+__label__holidays what are my paid holidays this year?
+__label__holidays show me a list of holidays
+__label__holidays is veteran day a holiday?
+__label__holidays corporate holidays this year
+__label__holidays break
+__label__holidays holidays
+__label__holidays what are our days off?
+__label__holidays days off
+__label__holidays please tell me my paid time off this year
+__label__holidays explain holidays
 __label__holidays do we get off for halloween?
 __label__holidays is ground hog’s day a holiday?
-__label__holidays is groundhog day a holiday?
-__label__holidays is memorial day a holiday?
-__label__holidays is veteran's day a holiday?
-__label__holidays is veteran day a holiday?
-__label__holidays is july 4 a holiday?
-__label__holidays is july fourth a holiday?
-__label__holidays is july 4th a holiday?
-__label__holidays are we off on the 4th of july?
-__label__holidays are we off on the fourth of july?
-__label__holidays do we get off on the fourth of july?
-__label__holidays what are the company paid holidays?
-__label__holidays is memorial day a paid holiday?
-__label__holidays how many paid holidays do we have this year?
-__label__holidays how many days off do we have this year?
-__label__holidays holidays
-__label__holidays vacations
-__label__holidays vacation this year
-__label__holidays company holidays
-__label__holidays time off
-__label__holidays resting time
-__label__holidays paid vacation
-__label__holidays is the lunar new year a holiday?
-__label__holidays is donut day a holiday?
-__label__holidays is my birthday a holiday?
-__label__holidays days off
-__label__holidays free days
-__label__holidays vacation days
-__label__holidays when do i go off to vacation?
-__label__holidays what days are holidays?
 __label__holidays show me vacations!
-__label__holidays hello, i want to know about vacations
-__label__holidays hello, what are my vacations?
-__label__holidays could i please know what are the holidays?
-__label__holidays tell me holidays
-__label__holidays explain holidays
-__label__holidays tell me vacations
+__label__holidays what is the company holiday schedule?
+__label__holidays show me a list of corporate holidays
+__label__holidays resting time
+__label__holidays vacation days
+__label__holidays are we off on the 4th of july?
+__label__holidays time off
 __label__holidays explain vacations
-__label__holidays when do i get a break from work?
-__label__holidays when do i get free from work?
-__label__holidays free
-__label__holidays break
-__label__holidays hello, when do i get to rest?
-__label__holidays time off, when do I have it?
-__label__holidays time off, when is it?
-__label__holidays vacation, when do I have it?
-__label__holidays vacation, when is it?
+__label__holidays what days do i get off this year?
 __label__holidays vacation days, when are they?
-__label__holidays vacation days, when do I have them?
-__label__holidays when are my days off?
-__label__holidays what are my vacation days this year?
-__label__holidays look up my days off
-__label__holidays look up when I have time off
-__label__holidays look up when I have days off
-__label__holidays show me when I have time off
-__label__holidays show me when I have days off
-__label__holidays what are my paid holidays this year?
-__label__holidays what are my paid vacation days this year?
-__label__holidays please tell me my paid vacation days
-__label__holidays please tell me my paid time off this year
-__label__holidays please tell me my paid days off this year
-__label__holidays please tell me my paid days off
+__label__holidays show me the company holidays
+__label__holidays how many paid holidays do we have this year?
+__label__holidays do we get christmas day off?
+__label__holidays what holidays do we get off?
+__label__holidays could i please know what are the holidays?
+__label__holidays tell me vacations
+__label__holidays when do i get off?
 __label__holidays what are the days I have off this year?
-__label__holidays what are my paid holidays this year?
+__label__holidays show me a list of company holidays
+__label__holidays is memorial day a holiday?
+__label__holidays hello, i want to know about vacations
+__label__holidays is donut day a holiday?
+__label__holidays please tell me my paid days off
+__label__holidays what holidays do i get off?
+__label__holidays what days do i get off?
+__label__holidays vacation, when is it?
+__label__holidays what are the paid holidays?
+__label__holidays company holidays
+__label__holidays is groundhog day a holiday?
+__label__holidays time off, when do I have it?
+__label__holidays look up my days off
+__label__holidays company holiday schedule
+__label__holidays look up when I have days off
+__label__holidays what are my days off?
+__label__holidays when don't we have to be here?
+__label__holidays free
 __label__holidays how many days do I have off this year?
-__label__holidays how many paid holidays do I have off this year?
 __label__holidays how much paid time off do I have this year?
+__label__holidays is the lunar new year a holiday?
 
-__label__sunview what is sunview's corporate contact information?
-__label__sunview what is sunview software's corporate contact information?
-__label__sunview how can i reach sunview software?
-__label__sunview how can i reach sunview?
-__label__sunview what is sunview software's phone number?
-__label__sunview what is sunview's phone number?
-__label__sunview how can i get ahold of sunview?
-__label__sunview how can i get a hold of sunview?
-__label__sunview how can i get ahold of sunview software?
-__label__sunview how can i get a hold of sunview software?
-__label__sunview what is sunview's contact info?
-__label__sunview what is sunview software's contact info?
-__label__sunview how do we contact sunview?
-__label__sunview how do we contact sunview software?
-__label__sunview what is the best way to contact sunview?
-__label__sunview what is the best way to contact sunview software?
-__label__sunview where can i find sunview's corporate contact information?
-__label__sunview where can i find sunview software's corporate contact information?
-__label__sunview what is the easiest way to contact sunview?
-__label__sunview what is the easiest way to contact sunview software?
-__label__sunview how can i find sunview's contact information in your website?
-__label__sunview how can i find sunview software's contact information in your website?
-__label__sunview what is sunview's e-mail address?
-__label__sunview what is sunview software's e-mail address?
-__label__sunview what is sunview's address?
-__label__sunview what is sunview software's address?
-__label__sunview what is sunview's web address?
-__label__sunview what is sunview software's web address?
-__label__sunview what is sunview's web site?
-__label__sunview what is sunview software's web site?
-__label__sunview sunview contact information
-__label__sunview sunview information
-__label__sunview how do i contact sunview software
-__label__sunview what is sunview's phone number?
 __label__sunview contact information for sunview software
-__label__sunview where is sunview software?
-__label__sunview address of sunview software
-__label__sunview location of sunview software
-__label__sunview please communicate me with sunview software
-__label__sunview i would like to talk to sunview software
-__label__sunview contact sunview
-__label__sunview can i have the url for sunview software?
-__label__sunview i want to speak to sunview
-__label__sunview connect me with sunview!
-__label__sunview how do i reach sunview software?
-__label__sunview tell me about sunview
-__label__sunview tell me about sun view
-__label__sunview tell me about sunview software
-__label__sunview tell me about sun view software
-__label__sunview hello, i want to know more about sunview
-__label__sunview hello, i want to know more about sunview software
-__label__sunview hello, i want to know more about sun view
-__label__sunview hello, i want to know more about sun view software
-__label__sunview hello, i want to know more about sunview software company
-__label__sunview hello, i want to know more about sun view software company
-__label__sunview hello, please tell me about sunview
-__label__sunview hello, please tell me about sun view
-__label__sunview hello, please tell me about sunview software
-__label__sunview hello, please tell me about sun view software
-__label__sunview hello, please tell me about sunview company
-__label__sunview hello, please tell me about sun view company
-__label__sunview hello, please tell me about sunview software company
-__label__sunview hello, please tell me about sun view software company
-__label__sunview sunview company
-__label__sunview sun view company
-__label__sunview sunview software company
-__label__sunview sun view software company
-__label__sunview sunview software
-__label__sunview sun view software
-__label__sunview take me to sunview software
-__label__sunview what is sunview softare?
-__label__sunview who created this bot?
-__label__sunview who is the inventor of this bot?
-__label__sunview who developed this system?
-__label__sunview sunview software company information
-__label__sunview how do I get in touch with sunview?
 __label__sunview where can I contact sunview?
-__label__sunview sunview, tell me about it
-__label__sunview sunview software, tell me about it
-__label__sunview what do you know about sunview software?
-__label__sunview please connect me to sunview software
-__label__sunview tell me what you know about sunview software
-__label__sunview what does sunview software do?
-__label__sunview sunview software, what do they do?
-__label__sunview sunview, what do they do?
-__label__sunview help me contact sunview software
-__label__sunview where can i visit sunview software?
-__label__sunview what is sunview software's website?
-__label__sunview what is sunview's website?
+__label__sunview what is sunview's contact info?
+__label__sunview hello, i want to know more about sunview software
 __label__sunview help me contact sunview
-__label__sunview help me contact sunview software
-__label__sunview i would like to contact sunview
-__label__sunview i would like to contact sunview software
-__label__sunview inform me about sunview software
-__label__sunview inform me about sunview
-__label__sunview sunview software, what is their website?
-__label__sunview sunview software, how do I contact them?
+__label__sunview sunview software company
+__label__sunview how can i reach sunview?
+__label__sunview how can i reach sunview software?
+__label__sunview hello, i want to know more about sun view
+__label__sunview what is sunview softare?
+__label__sunview how do we contact sunview?
+__label__sunview what is sunview software's website?
+__label__sunview how do we contact sunview software?
+__label__sunview sunview software
 __label__sunview sunview software, what is their address?
+__label__sunview what is sunview software's web address?
+__label__sunview help me contact sunview software
+__label__sunview what do you know about sunview software?
+__label__sunview what is the best way to contact sunview software?
+__label__sunview what is sunview's corporate contact information?
+__label__sunview hello, i want to know more about sunview software company
+__label__sunview sunview software, how do I contact them?
+__label__sunview sunview software, what do they do?
+__label__sunview what is sunview's web site?
+__label__sunview how can i get a hold of sunview software?
+__label__sunview inform me about sunview
+__label__sunview who developed this system?
+__label__sunview what is sunview's phone number?
+__label__sunview who is the inventor of this bot?
+__label__sunview what is sunview software's e-mail address?
+__label__sunview who created this bot?
+__label__sunview sun view company
+__label__sunview what is sunview's phone number?
+__label__sunview i would like to contact sunview software
+__label__sunview contact sunview
+__label__sunview sunview software, tell me about it
+__label__sunview what is sunview software's address?
+__label__sunview sunview software company information
+__label__sunview how can i get ahold of sunview software?
+__label__sunview take me to sunview software
+__label__sunview hello, i want to know more about sun view software company
+__label__sunview how can i find sunview software's contact information in your website?
+__label__sunview tell me about sun view software
+__label__sunview sunview company
+__label__sunview what is the best way to contact sunview?
+__label__sunview hello, i want to know more about sunview
+__label__sunview tell me about sunview software
+__label__sunview what is the easiest way to contact sunview software?
+__label__sunview i would like to talk to sunview software
+__label__sunview what is sunview software's phone number?
+__label__sunview what is sunview's website?
+__label__sunview what is sunview's e-mail address?
+__label__sunview hello, please tell me about sunview company
+__label__sunview hello, please tell me about sunview software
+__label__sunview sunview contact information
+__label__sunview how do i contact sunview software
+__label__sunview hello, please tell me about sunview
+__label__sunview sun view software company
+__label__sunview please communicate me with sunview software
+__label__sunview what is sunview software's corporate contact information?
+__label__sunview what is sunview's web address?
+__label__sunview what does sunview software do?
+__label__sunview please connect me to sunview software
+__label__sunview sun view software
+__label__sunview where is sunview software?
+__label__sunview help me contact sunview software
+__label__sunview inform me about sunview software
+__label__sunview how can i get a hold of sunview?
+__label__sunview how do i reach sunview software?
+__label__sunview hello, please tell me about sun view company
+__label__sunview how can i get ahold of sunview?
+__label__sunview location of sunview software
+__label__sunview hello, please tell me about sun view
+__label__sunview how do I get in touch with sunview?
+__label__sunview i want to speak to sunview
+__label__sunview address of sunview software
+__label__sunview sunview software, what is their website?
+__label__sunview hello, please tell me about sun view software company
+__label__sunview connect me with sunview!
+__label__sunview tell me what you know about sunview software
+__label__sunview hello, please tell me about sunview software company
+__label__sunview what is sunview software's contact info?
+__label__sunview what is the easiest way to contact sunview?
 __label__sunview sunview software, where are they located?
+__label__sunview how can i find sunview's contact information in your website?
+__label__sunview what is sunview's address?
 __label__sunview sunview software, what is their phone number?
+__label__sunview sunview information
+__label__sunview hello, please tell me about sun view software
+__label__sunview hello, i want to know more about sun view software
+__label__sunview where can i visit sunview software?
+__label__sunview tell me about sun view
+__label__sunview sunview, what do they do?
+__label__sunview where can i find sunview software's corporate contact information?
+__label__sunview tell me about sunview
+__label__sunview i would like to contact sunview
+__label__sunview where can i find sunview's corporate contact information?
+__label__sunview what is sunview software's web site?
+__label__sunview sunview, tell me about it
+__label__sunview can i have the url for sunview software?
 
-__label__announcements show me recent announcements
-__label__announcements i want to see recent announcements
-__label__announcements what are the recent announcements?
 __label__announcements any announcements?
-__label__announcements what is happening?
-__label__announcements are there any recent announcements?
-__label__announcements what are some of the recent announcements?
-__label__announcements what are some recent announcements?
-__label__announcements what’s new?
-__label__announcements what is the state of things?
-__label__announcements what is the latest news?
-__label__announcements can you show me the most recent announcements?
-__label__announcements can you show me some announcements?
-__label__announcements is there anything new?
-__label__announcements what's happening?
-__label__announcements any new announcements?
-__label__announcements something new?
-__label__announcements anything new happened?
-__label__announcements announcements
-__label__announcements work news
-__label__announcements announcements at work
-__label__announcements what happened?
-__label__announcements anything new?
-__label__announcements what is going on right now?
-__label__announcements can you please tell me the news?
-__label__announcements please share new announcements with me
-__label__announcements has something recent happened?
-__label__announcements are there any recent announcements?
-__label__announcements is there anything to be announced?
-__label__announcements is there any announcement?
-__label__announcements is there anything recent to be announced?
-__label__announcements is there any recent announcement?
-__label__announcements hello, are there any new announcements?
-__label__announcements hey, are there any new announcements?
-__label__announcements hi, are there any new announcements?
-__label__announcements hello there, are there any new announcements?
-__label__announcements hey there, are there any new announcements?
-__label__announcements hi there, are there any new announcements?
-__label__announcements hello, tell me the latest announcements
-__label__announcements hey, tell me the latest announcements
-__label__announcements hi, tell me the latest announcements
-__label__announcements any recent news within the company?
-__label__announcements any recent announcements within the company?
-__label__announcements any announcements within the company?
-__label__announcements any news within the company?
-__label__announcements hello, could you please brief me on announcements?
-__label__announcements hey, could you please brief me on announcements?
-__label__announcements hi, could you please brief me on announcements?
-__label__announcements i want to know the recent announcements
-__label__announcements i want to know the most recent announcements
-__label__announcements i want to know the company's news
-__label__announcements i want to know the company's recent news
-__label__announcements i want to know the company's most recent news
-__label__announcements please, announcements
-__label__announcements please, company news
-__label__announcements please, news within the company
-__label__announcements please, news about the company
-__label__announcements hello, anything new going on today?
-__label__announcements hey, anything new going on today?
 __label__announcements hi, anything new going on today?
+__label__announcements hey, could you please brief me on announcements?
+__label__announcements i want to know the company's recent news
+__label__announcements announcements
+__label__announcements i want to know the most recent announcements
+__label__announcements were any announcements posted recently?
+__label__announcements i want to know the company's news
+__label__announcements any new announcements?
+__label__announcements has anything happened recently?
+__label__announcements has there been any news recently?
+__label__announcements can you please tell me the news?
+__label__announcements hi, could you please brief me on announcements?
+__label__announcements announcements at work
+__label__announcements did the company make an announcement recently?
+__label__announcements is there any recent announcement?
+__label__announcements hi there, are there any new announcements?
+__label__announcements has something recent happened?
+__label__announcements what's happening?
+__label__announcements is there anything new?
+__label__announcements did anyone from the company's leadership announce anything?
 __label__announcements hi there, anything new going on today?
+__label__announcements any announcements within the company?
+__label__announcements please, news within the company
+__label__announcements recent announcements show me them
+__label__announcements have there been any statements lately?
+__label__announcements what are some of the recent announcements?
+__label__announcements can you show me some announcements?
+__label__announcements what is the state of things?
+__label__announcements please, company news
+__label__announcements hello, anything new going on today?
+__label__announcements work news
+__label__announcements were any announcements posted today?
+__label__announcements any news within the company?
 __label__announcements tell me announcements
-__label__announcements tell me news related to the company
-__label__announcements tell me the most recent announcements
-__label__announcements tell me the latest announcements
-__label__announcements latest announcements
+__label__announcements i want to know the recent announcements
+__label__announcements has anything happened lately?
+__label__announcements hey, anything new going on today?
+__label__announcements show me recent announcements
+__label__announcements has management announced anything today?
+__label__announcements did the cto announce anything today?
+__label__announcements what is happening?
+__label__announcements what are some recent announcements?
+__label__announcements announcements, show me them
 __label__announcements most recent announcements
-__label__announcements do me a favor and tell me the recent announcements
+__label__announcements hey there, are there any new announcements?
+__label__announcements i want to see recent announcements
+__label__announcements has management announced anything recently?
+__label__announcements please share new announcements with me
+__label__announcements what are the recent announcements?
+__label__announcements what is the latest news?
+__label__announcements is there anything to be announced?
+__label__announcements did the company make an announcement today?
+__label__announcements can you show me the most recent announcements?
+__label__announcements has anything happened today?
+__label__announcements hello, are there any new announcements?
+__label__announcements tell me the most recent announcements
+__label__announcements any recent news within the company?
+__label__announcements please, news about the company
+__label__announcements i want to know the company's most recent news
+__label__announcements hey, are there any new announcements?
 __label__announcements do me a favor and tell me the latest announcements
 __label__announcements did the ceo announce anything today?
-__label__announcements did the cto announce anything today?
-__label__announcements did the cfo announce anything today?
-__label__announcements did anyone from the company's leadership announce anything?
-__label__announcements has management announced anything today?
-__label__announcements has management announced anything recently?
-__label__announcements has management announced anything lately?
-__label__announcements has there been any news today?
-__label__announcements has there been any news recently?
-__label__announcements has there been any news lately?
-__label__announcements announcements, show me them
+__label__announcements tell me the latest announcements
+__label__announcements what are the most recent announcements?
 __label__announcements recent announcements, show me them
-__label__announcements announcements, tell me about them
-__label__announcements recent announcements show me them
-__label__announcements what are the most recent announcements?
-__label__announcements have there been any statements recently?
-__label__announcements have there been any statements lately?
+__label__announcements latest announcements
+__label__announcements is there any announcement?
 __label__announcements were there any statements made today?
-__label__announcements did the company make a statement today?
-__label__announcements did the company make an announcement today?
-__label__announcements did the company make a statement recently?
-__label__announcements did the company make an announcement recently?
-__label__announcements has the company made a statement lately?
+__label__announcements anything new happened?
+__label__announcements what is going on right now?
+__label__announcements tell me news related to the company
+__label__announcements are there any recent announcements?
+__label__announcements something new?
+__label__announcements has management announced anything lately?
+__label__announcements anything new?
 __label__announcements has the company made an announcement lately?
-__label__announcements what are the most recent announcements?
-__label__announcements has anything happened lately?
-__label__announcements has anything happened recently?
-__label__announcements has anything happened today?
-__label__announcements were any announcements posted today?
-__label__announcements were any announcements posted recently?
+__label__announcements hey, tell me the latest announcements
+__label__announcements did the company make a statement today?
+__label__announcements any recent announcements within the company?
+__label__announcements is there anything recent to be announced?
+__label__announcements did the cfo announce anything today?
+__label__announcements what happened?
+__label__announcements did the company make a statement recently?
+__label__announcements has there been any news today?
+__label__announcements please, announcements
+__label__announcements do me a favor and tell me the recent announcements
+__label__announcements hi, are there any new announcements?
+__label__announcements announcements, tell me about them
+__label__announcements what’s new?
+__label__announcements hello, tell me the latest announcements
+__label__announcements has the company made a statement lately?
+__label__announcements hello, could you please brief me on announcements?
+__label__announcements have there been any statements recently?
+__label__announcements are there any recent announcements?
 __label__announcements were any announcements posted lately?
+__label__announcements what are the most recent announcements?
+__label__announcements has there been any news lately?
+__label__announcements hello there, are there any new announcements?
+__label__announcements hi, tell me the latest announcements
 
-__label__support what is support's email?
-__label__support i need to contact support?
-__label__support what is the support email?
-__label__support how can we contact support?
-__label__support what are the support work hours?
-__label__support what is the support email?
-__label__support how can we contact support?
-__label__support what are the support work hours?
-__label__support where can i send my questions about change gear product?
-__label__support where can i send an email or call for customer support?
-__label__support who do i call for support?
-__label__support what is the support number?
-__label__support how do i contact technical support?
-__label__support what is technical support's email?
-__label__support i need to contact technical support?
-__label__support what is the technical support email?
-__label__support how can we contact technical support?
-__label__support what are the technical support work hours?
-__label__support what is the technical support email?
-__label__support how can we contact technical support?
-__label__support what are the technical support work hours?
-__label__support where can i send an email or call for technical support?
-__label__support who do i call for technical support?
-__label__support what is the technical support number?
-__label__support i need help
-__label__support can someone please help me?
-__label__support help me!
-__label__support i would like some help
-__label__support i need to contact customer support
-__label__support please help me fix this
-__label__support i have questions
-__label__support phone number for support
-__label__support i need support
-__label__support who can help me?
-__label__support link me with customer support
-__label__support when does technical support work?
-__label__support can i talk to a technician?
-__label__support where can i receive help?
-__label__support where can i send my questions about a product?
-__label__support i need to talk to support
-__label__support i need to talk to technical support
-__label__support could you please put me in touch with support?
-__label__support could you please put me in touch with technical support?
-__label__support put me in touch with support
-__label__support put me in touch with technical support
-__label__support take me to support
-__label__support take me to technical support
-__label__support i need support to help me
-__label__support i need someone to help
-__label__support i need help with something
-__label__support i need help with something technical
-__label__support i need a technician
-__label__support please send a technician
-__label__support hello, i need technical support
-__label__support hello, send a technician
-__label__support hello, i need support
-__label__support hello, please help me
-__label__support hello, help me
-__label__support hi there, please help me
-__label__support hi there, help me
-__label__support hello, i need technical help from someone
-__label__support hello, do you know someone who can help me?
-__label__support hey, i need your help
-__label__support hey, please help me
-__label__support hey, help me
-__label__support hi help
-__label__support hello help
-__label__support hey help
-__label__support i really need your help, please
-__label__support i really need someone to help me, thank you
 __label__support please send someone to help me
-__label__support i am stuck i need help
-__label__support i don't know what to do i need support
-__label__support i don't know what to do i need technical support
-__label__support i don't know what to do i need help
-__label__support support, get me in touch with them
-__label__support support, how do I contact them?
-__label__support customer service, get me in touch with them
+__label__support hi help
+__label__support how can we contact technical support?
 __label__support customer service, how do I contact them?
-__label__support get me in touch with customer service
-__label__support get me in touch with support
+__label__support link me with customer support
 __label__support support, what is their email?
+__label__support where can i send an email or call for technical support?
+__label__support take me to technical support
+__label__support who do i call for technical support?
+__label__support i need a technician
 __label__support support, where can I reach them?
-__label__support customer service, what is their email?
-__label__support what is the customer service email?
-__label__support customer service, where can I reach them?
-__label__support what is the tech support email?
+__label__support how do i contact technical support?
+__label__support i am stuck i need help
 __label__support tech support, get me in touch with them
-__label__support tech support, how do I reach them?
-__label__support tech support, what is their email?
-__label__support tech support, where can I reach them?
-__label__support tech support, how do I contact them?
-__label__support please get me in touch with tech support
-__label__support where can I reach tech support?
-__label__support i need help, connect me to tech support
-__label__support please connect me to tech support
-__label__support get me in touch with tech support
-__label__support get me in contact with tech support
-__label__support i need tech support
+__label__support what are the support work hours?
+__label__support i need someone to help
+__label__support get me in touch with customer service
+__label__support what is technical support's email?
 __label__support tech support
+__label__support what is the support number?
+__label__support put me in touch with support
 __label__support i require technical assistance
+__label__support what is the technical support email?
+__label__support hi there, help me
+__label__support hello help
+__label__support customer service, where can I reach them?
+__label__support i need help with something technical
+__label__support get me in touch with tech support
+__label__support hey help
+__label__support hey, please help me
+__label__support help me!
+__label__support where can i receive help?
+__label__support put me in touch with technical support
+__label__support what is the support email?
+__label__support i really need someone to help me, thank you
+__label__support hey, help me
+__label__support what is the support email?
+__label__support tech support, where can I reach them?
+__label__support what are the support work hours?
+__label__support i need to talk to support
+__label__support i don't know what to do i need support
+__label__support please connect me to tech support
+__label__support i need to contact technical support?
+__label__support what is the customer service email?
+__label__support i have questions
+__label__support where can i send my questions about change gear product?
+__label__support i need help, connect me to tech support
+__label__support i need to contact customer support
+__label__support can someone please help me?
+__label__support hey, i need your help
+__label__support please send a technician
+__label__support can i talk to a technician?
+__label__support phone number for support
+__label__support hello, help me
+__label__support i need to talk to technical support
+__label__support what is support's email?
+__label__support hello, please help me
+__label__support customer service, get me in touch with them
+__label__support i don't know what to do i need help
+__label__support what is the tech support email?
+__label__support tech support, how do I contact them?
+__label__support how can we contact support?
+__label__support what is the technical support number?
+__label__support take me to support
+__label__support where can I reach tech support?
+__label__support i need to contact support?
+__label__support get me in touch with support
+__label__support could you please put me in touch with technical support?
+__label__support i need help with something
+__label__support tech support, what is their email?
+__label__support i would like some help
+__label__support what are the technical support work hours?
+__label__support please help me fix this
 __label__support i need help with a tech problem
+__label__support where can i send an email or call for customer support?
+__label__support where can i send my questions about a product?
+__label__support how can we contact technical support?
+__label__support hello, send a technician
+__label__support hello, i need technical support
+__label__support what is the technical support email?
+__label__support i need tech support
+__label__support support, get me in touch with them
+__label__support tech support, how do I reach them?
+__label__support hi there, please help me
+__label__support support, how do I contact them?
+__label__support i need help
+__label__support hello, do you know someone who can help me?
+__label__support could you please put me in touch with support?
+__label__support i need support
+__label__support customer service, what is their email?
+__label__support hello, i need support
+__label__support what are the technical support work hours?
+__label__support who do i call for support?
+__label__support who can help me?
+__label__support get me in contact with tech support
+__label__support i need support to help me
+__label__support i really need your help, please
+__label__support hello, i need technical help from someone
+__label__support i don't know what to do i need technical support
+__label__support please get me in touch with tech support
+__label__support when does technical support work?
+__label__support how can we contact support?
 
-__label__insurance i have a question about insurance open enrollment.
-__label__insurance what is open enrollment?
-__label__insurance what can i do during open enrollment?
-__label__insurance when does insurance open enrollment start?
-__label__insurance when is open enrollment?
-__label__insurance what are the insurance open enrollment deadlines?
-__label__insurance would you tell me when open enrollment occurs?
-__label__insurance what are the policies of insurance open enrollment?
-__label__insurance what are policies of open enrollment?
-__label__insurance when is the open enrollment period?
-__label__insurance who do i contact about insurance questions?
-__label__insurance insurance
-__label__insurance am i insured?
-__label__insurance do i get insurance?
-__label__insurance is my family insured?
-__label__insurance family insured
-__label__insurance insurance deadlines
-__label__insurance how do i enroll for insurance?
-__label__insurance when does enrollment for insurance begin?
-__label__insurance what does company insurance cover?
-__label__insurance company insurance coverage
-__label__insurance does insurance cover my broken arm?
-__label__insurance how much do i pay for company insurance?
-__label__insurance company insurance price
-__label__insurance can i enroll for insurance?
-__label__insurance until when can i enroll in insurance through open enrollment?
-__label__insurance how do i get insured?
-__label__insurance how do i get insurance?
-__label__insurance is my health covered?
-__label__insurance do i get health coverage?
-__label__insurance is my wife covered?
-__label__insurance is my son covered?
-__label__insurance is my daughter covered?
-__label__insurance are my children covered?
-__label__insurance is my mom covered?
-__label__insurance is my dad covered?
-__label__insurance insurance coverage
-__label__insurance health coverage
-__label__insurance company insurance limit
-__label__insurance how does insurance work?
+__label__insurance who is my health insurance provider?
 __label__insurance health benefits
-__label__insurance work insurance
-__label__insurance how do health benefits work?
-__label__insurance how do i get health benefits?
-__label__insurance i want to access my insurance
-__label__insurance i want to access my insurance policy
-__label__insurance i want to see my insurance
-__label__insurance i want to see my insurance policy
+__label__insurance what is open enrollment?
 __label__insurance i want to read my insurance
-__label__insurance i want to read my insurance policy
-__label__insurance insurance policy
+__label__insurance who is my insurance provider?
+__label__insurance tell me about my family's insurance coverage
+__label__insurance health insurance, tell me about my plan
+__label__insurance work insurance
+__label__insurance company insurance coverage
+__label__insurance i want to access my insurance
+__label__insurance is my wife covered?
+__label__insurance health insurance, tell me about my coverage
+__label__insurance can i enroll for insurance?
+__label__insurance how much do i pay for company insurance?
+__label__insurance tell me how much i am covered for
+__label__insurance tell me about my health insurance coverage
+__label__insurance how do i get insurance?
+__label__insurance when is open enrollment?
+__label__insurance company insurance price
 __label__insurance insurance enrollment
-__label__insurance insurance open enrollment
-__label__insurance health benefits from insurance
+__label__insurance is my family insured?
 __label__insurance health benefits enrollment
-__label__insurance health benefits open enrollment
-__label__insurance health insurance enrollment
-__label__insurance health insurance open enrollment
-__label__insurance enrollment in insurance
-__label__insurance hello, i would like to know about company's insurance
-__label__insurance hello, i would like to enroll in insurance
-__label__insurance hello, i would like to know more about health benefits
+__label__insurance i want to see my insurance
+__label__insurance insurance policy
+__label__insurance who in my family is covered by my health insurance?
+__label__insurance tell me about my family's health insurance coverage
+__label__insurance i have a question about insurance open enrollment.
+__label__insurance hello, i need help enrolling in insurance
+__label__insurance insurance open enrollment
 __label__insurance hi, please tell me about insurance
-__label__insurance hi, tell me more about health benefits
-__label__insurance hi, i would like to know about company's insurance
+__label__insurance hello, i would like to enroll in insurance
+__label__insurance how do i get health benefits?
+__label__insurance what are policies of open enrollment?
+__label__insurance is my health covered?
+__label__insurance health benefits from insurance
 __label__insurance hey, i would like to know about company's insurance
+__label__insurance when does enrollment for insurance begin?
+__label__insurance health benefits open enrollment
+__label__insurance enrollment in insurance
+__label__insurance how much am i covered for?
+__label__insurance what is my insurance deductible?
+__label__insurance insurance deadlines
+__label__insurance does my insurance cover preexisting conditions?
+__label__insurance is my daughter covered?
+__label__insurance hello, i would like to know about company's insurance
+__label__insurance health coverage
+__label__insurance health insurance open enrollment
+__label__insurance how do i enroll for insurance?
+__label__insurance health insurance, tell me about my coverage
+__label__insurance do i get insurance?
+__label__insurance who issues my insurance?
+__label__insurance when is the open enrollment period?
+__label__insurance do i get health coverage?
+__label__insurance is my dad covered?
+__label__insurance am i insured?
 __label__insurance sup, i would like to know about company's insurance
 __label__insurance howdy, i would like to know about company's insurance
-__label__insurance how much am i covered for?
+__label__insurance are my children covered?
+__label__insurance hi, i would like to know about company's insurance
+__label__insurance would you tell me when open enrollment occurs?
+__label__insurance i want to read my insurance policy
 __label__insurance hello, how much am i covered for?
-__label__insurance could you please tell me how much i am covered for?
-__label__insurance tell me how much i am covered for
-__label__insurance how much is my coverage
-__label__insurance please help me enroll in insurance
-__label__insurance hello, i need help enrolling in insurance
-__label__insurance what is my insurance premium?
-__label__insurance what is my insurance deductible?
-__label__insurance insurance, tell me about it
-__label__insurance insurance, tell me about my plan
-__label__insurance insurance, tell me about my coverage
-__label__insurance insurance, tell me about my benefits
-__label__insurance help me figure out my insurance plan
-__label__insurance health insurance, tell me about it
-__label__insurance health insurance, tell me about my plan
-__label__insurance health insurance, tell me about my coverage
-__label__insurance health insurance, tell me about my coverage
-__label__insurance what does my health insurance cover?
-__label__insurance does my health insurance cover preexisting conditions?
-__label__insurance who is my insurance provider?
-__label__insurance who issues my insurance?
-__label__insurance who is my health insurance provider?
 __label__insurance who issues my health insurance?
-__label__insurance tell me about my insurance coverage
-__label__insurance tell me about my health insurance coverage
-__label__insurance tell me about my family's health insurance coverage
-__label__insurance tell me about my family's insurance coverage
-__label__insurance who in my family is covered by my health insurance?
-__label__insurance tell me about preexisting condition insurance
+__label__insurance insurance, tell me about my benefits
 __label__insurance insurance for preexisting conditions
-__label__insurance does my insurance cover preexisting conditions?
+__label__insurance how does insurance work?
+__label__insurance does my health insurance cover preexisting conditions?
+__label__insurance could you please tell me how much i am covered for?
+__label__insurance insurance, tell me about it
+__label__insurance how much is my coverage
+__label__insurance until when can i enroll in insurance through open enrollment?
+__label__insurance what are the policies of insurance open enrollment?
+__label__insurance is my son covered?
+__label__insurance what can i do during open enrollment?
+__label__insurance tell me about my insurance coverage
+__label__insurance what are the insurance open enrollment deadlines?
+__label__insurance family insured
+__label__insurance is my mom covered?
+__label__insurance tell me about preexisting condition insurance
+__label__insurance health insurance, tell me about it
+__label__insurance who do i contact about insurance questions?
+__label__insurance insurance, tell me about my coverage
+__label__insurance does insurance cover my broken arm?
+__label__insurance what is my insurance premium?
+__label__insurance hello, i would like to know more about health benefits
+__label__insurance how do health benefits work?
+__label__insurance insurance
+__label__insurance company insurance limit
+__label__insurance help me figure out my insurance plan
+__label__insurance what does company insurance cover?
+__label__insurance i want to access my insurance policy
+__label__insurance hi, tell me more about health benefits
+__label__insurance what does my health insurance cover?
+__label__insurance insurance coverage
+__label__insurance i want to see my insurance policy
+__label__insurance how do i get insured?
+__label__insurance insurance, tell me about my plan
+__label__insurance health insurance enrollment
+__label__insurance please help me enroll in insurance
+__label__insurance when does insurance open enrollment start?
 
 __label__name i want to know how to call you
 __label__name what is your first name
