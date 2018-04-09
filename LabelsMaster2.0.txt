@@ -1,506 +1,505 @@
-__label__non-tech hello
-__label__non-tech howdy
-__label__non-tech hola
-__label__non-tech holla
-__label__non-tech hello
-__label__non-tech hiya
-__label__non-tech greetings
-__label__non-tech sup
-__label__non-tech s'up
-__label__non-tech hello
-__label__non-tech howdy
-__label__non-tech hola
-__label__non-tech holla
-__label__non-tech hello
-__label__non-tech hiya
-__label__non-tech greetings
-__label__non-tech how are you doing?
-__label__non-tech how you doing?
-__label__non-tech hey there
-__label__non-tech hello sir
-__label__non-tech wassup
-__label__non-tech hi
-__label__non-tech hey
-__label__non-tech doing okay?
-__label__non-tech hey man
-__label__non-tech hey lady
+__label__non-tech hi there bot!
+__label__non-tech hey, good evening
+__label__non-tech ey there
 __label__non-tech sup dude
-__label__non-tech hello dude
-__label__non-tech hello dear sir
-__label__non-tech are you doing okay today?
-__label__non-tech hi there
-__label__non-tech hello, how are you doin
-__label__non-tech hey, how are you doin?
-__label__non-tech how are you doing today?
-__label__non-tech hello there, can you tell me how are you doing today?
-__label__non-tech good afternoon
-__label__non-tech good morning
-__label__non-tech good evening
-__label__non-tech good morning sir
-__label__non-tech good evening sir
-__label__non-tech good afternoon sir
-__label__non-tech good morning, how are you doing?
-__label__non-tech good evening, how are you doing?
-__label__non-tech good afternoon, how are you doing?
-__label__non-tech morning!
-__label__non-tech afternoon!
 __label__non-tech evening!
 __label__non-tech how are you doing this morning?
-__label__non-tech how are you doing this afternoon?
-__label__non-tech how are you doing this evening?
-__label__non-tech hello there, good morning
-__label__non-tech hello there, good afternoon
-__label__non-tech hello there, good evening
-__label__non-tech hi there, good morning
-__label__non-tech hi there, good afternoon
-__label__non-tech hi there, good evening
-__label__non-tech hello, how is your morning going?
-__label__non-tech hello, how is your afternoon going?
-__label__non-tech hello, how is your evening going?
-__label__non-tech hey, good morning
-__label__non-tech hey! good morning!
-__label__non-tech hey, good afternoon
-__label__non-tech hey! good afternoon!
-__label__non-tech hey, good evening
-__label__non-tech hey! good evening!
-__label__non-tech howdy cowboy
-__label__non-tech hola amigo
-__label__non-tech hey there bot!
-__label__non-tech hi there bot!
-__label__non-tech hello there bot!
-__label__non-tech how are you doing bot?
-__label__non-tech how are you doing today bot?
-__label__non-tech hey there
-__label__non-tech yo
 __label__non-tech ey
-__label__non-tech what's up?
-__label__non-tech ey there
-__label__non-tech mornin'
-__label__non-tech evenin'
-__label__non-tech how are you today?
-__label__non-tech how are you this fine day?
-__label__non-tech how are you this fine morning?
-__label__non-tech how are you this fine afternoon?
-__label__non-tech how are you this fine evening?
 __label__non-tech how do you do?
-__label__non-tech salutations
 __label__non-tech hello me, meet the real me
-__label__non-tech good day
-__label__non-tech hey man
-__label__non-tech good to see you
+__label__non-tech howdy
+__label__non-tech good evening, how are you doing?
+__label__non-tech greetings
+__label__non-tech hiya
+__label__non-tech what's up?
+__label__non-tech salutations
+__label__non-tech hey, good afternoon
+__label__non-tech hey there
+__label__non-tech hi
+__label__non-tech holla
+__label__non-tech morning!
+__label__non-tech how are you this fine morning?
+__label__non-tech hey, good morning
+__label__non-tech yo
+__label__non-tech hello there, good morning
 __label__non-tech it's a pleasure to meet you
-__label__non-tech heya
-__label__non-tech hello hello
-__label__non-tech hi hi
-__label__non-tech ey man
+__label__non-tech hey! good evening!
+__label__non-tech good morning sir
 __label__non-tech what's up my guy
+__label__non-tech good morning, how are you doing?
+__label__non-tech how are you doing bot?
+__label__non-tech howdy cowboy
+__label__non-tech how are you doing this afternoon?
+__label__non-tech good afternoon, how are you doing?
+__label__non-tech hey! good morning!
+__label__non-tech how are you doing?
+__label__non-tech hello, how is your morning going?
+__label__non-tech hi there, good evening
+__label__non-tech hello
+__label__non-tech heya
+__label__non-tech hola amigo
+__label__non-tech evenin'
+__label__non-tech are you doing okay today?
+__label__non-tech s'up
+__label__non-tech hello sir
+__label__non-tech hello hello
+__label__non-tech hi there, good morning
+__label__non-tech hello, how is your evening going?
+__label__non-tech hey, how are you doin?
+__label__non-tech howdy
+__label__non-tech how are you doing today bot?
+__label__non-tech afternoon!
+__label__non-tech good morning
+__label__non-tech good afternoon
+__label__non-tech how are you doing today?
+__label__non-tech hey lady
+__label__non-tech hello dude
+__label__non-tech mornin'
+__label__non-tech ey man
+__label__non-tech greetings
+__label__non-tech how are you today?
+__label__non-tech hola
+__label__non-tech good to see you
+__label__non-tech hi there
+__label__non-tech hey there bot!
+__label__non-tech hiya
+__label__non-tech hi there, good afternoon
+__label__non-tech hello, how are you doin
+__label__non-tech hello
+__label__non-tech good afternoon sir
+__label__non-tech good day
+__label__non-tech how are you this fine day?
+__label__non-tech hey man
+__label__non-tech hi hi
+__label__non-tech doing okay?
+__label__non-tech wassup
+__label__non-tech hey
+__label__non-tech hello
+__label__non-tech good evening
+__label__non-tech hey there
+__label__non-tech hey! good afternoon!
+__label__non-tech hello dear sir
+__label__non-tech hola
+__label__non-tech good evening sir
+__label__non-tech hello, how is your afternoon going?
+__label__non-tech hello
+__label__non-tech how you doing?
+__label__non-tech hello there, good afternoon
+__label__non-tech how are you doing this evening?
+__label__non-tech hello there, can you tell me how are you doing today?
+__label__non-tech holla
+__label__non-tech how are you this fine afternoon?
 __label__non-tech what's up my dude
+__label__non-tech hello there bot!
+__label__non-tech hey man
+__label__non-tech sup
+__label__non-tech hello there, good evening
+__label__non-tech how are you this fine evening?
 
-__label__non-tech holidays this year
-__label__non-tech holiday schedule
-__label__non-tech company holidays this year
-__label__non-tech company holiday schedule
-__label__non-tech corporate holidays this year
-__label__non-tech corporate holiday schedule
-__label__non-tech show me a list of holidays
-__label__non-tech show me a list of company holidays
-__label__non-tech show me a list of corporate holidays
-__label__non-tech show me the company holidays
-__label__non-tech show me the corporate holidays
-__label__non-tech what’s the holiday calendar this year?
+__label__non-tech show me vacations!
 __label__non-tech what is the company holiday schedule?
-__label__non-tech what is the corporate holiday schedule?
-__label__non-tech can you give me a list of this year’s holidays?
-__label__non-tech can you show me today’s calendar with holidays?
+__label__non-tech company holidays this year
 __label__non-tech what are our days off?
-__label__non-tech what are my days off?
-__label__non-tech when do we get off?
-__label__non-tech when do i get off?
-__label__non-tech what days do we get off this year?
-__label__non-tech what days do i get off this year?
-__label__non-tech what days do we get off?
+__label__non-tech please tell me my paid days off
+__label__non-tech can you give me a list of this year’s holidays?
+__label__non-tech look up when I have time off
+__label__non-tech when do i go off to vacation?
 __label__non-tech what days do i get off?
-__label__non-tech what holidays do we get off?
-__label__non-tech what holidays do i get off?
-__label__non-tech when don't i have to be here?
-__label__non-tech when don't we have to be here?
-__label__non-tech why don't we get more holidays?
-__label__non-tech what are the paid holidays?
-__label__non-tech do we get christmas day off?
-__label__non-tech do we get off for halloween?
-__label__non-tech is ground hog’s day a holiday?
-__label__non-tech is groundhog day a holiday?
-__label__non-tech is memorial day a holiday?
+__label__non-tech show me the corporate holidays
+__label__non-tech what days do we get off?
+__label__non-tech what days are holidays?
 __label__non-tech is veteran's day a holiday?
-__label__non-tech is veteran day a holiday?
-__label__non-tech is july 4 a holiday?
-__label__non-tech is july fourth a holiday?
-__label__non-tech is july 4th a holiday?
+__label__non-tech is ground hog’s day a holiday?
+__label__non-tech how much paid time off do I have this year?
+__label__non-tech show me when I have days off
 __label__non-tech are we off on the 4th of july?
 __label__non-tech are we off on the fourth of july?
-__label__non-tech do we get off on the fourth of july?
-__label__non-tech what are the company paid holidays?
-__label__non-tech is memorial day a paid holiday?
-__label__non-tech how many paid holidays do we have this year?
-__label__non-tech how many days off do we have this year?
-__label__non-tech holidays
-__label__non-tech vacations
-__label__non-tech vacation this year
-__label__non-tech company holidays
-__label__non-tech time off
-__label__non-tech resting time
-__label__non-tech paid vacation
-__label__non-tech is the lunar new year a holiday?
-__label__non-tech is donut day a holiday?
-__label__non-tech is my birthday a holiday?
-__label__non-tech days off
-__label__non-tech free days
-__label__non-tech vacation days
-__label__non-tech when do i go off to vacation?
-__label__non-tech what days are holidays?
-__label__non-tech show me vacations!
-__label__non-tech hello, i want to know about vacations
-__label__non-tech hello, what are my vacations?
-__label__non-tech could i please know what are the holidays?
-__label__non-tech tell me holidays
-__label__non-tech explain holidays
-__label__non-tech tell me vacations
-__label__non-tech explain vacations
-__label__non-tech when do i get a break from work?
-__label__non-tech when do i get free from work?
-__label__non-tech free
-__label__non-tech break
-__label__non-tech hello, when do i get to rest?
-__label__non-tech time off, when do I have it?
-__label__non-tech time off, when is it?
-__label__non-tech vacation, when do I have it?
-__label__non-tech vacation, when is it?
-__label__non-tech vacation days, when are they?
-__label__non-tech vacation days, when do I have them?
-__label__non-tech when are my days off?
-__label__non-tech what are my vacation days this year?
-__label__non-tech look up my days off
-__label__non-tech look up when I have time off
-__label__non-tech look up when I have days off
-__label__non-tech show me when I have time off
-__label__non-tech show me when I have days off
-__label__non-tech what are my paid holidays this year?
-__label__non-tech what are my paid vacation days this year?
-__label__non-tech please tell me my paid vacation days
-__label__non-tech please tell me my paid time off this year
+__label__non-tech is july 4th a holiday?
 __label__non-tech please tell me my paid days off this year
-__label__non-tech please tell me my paid days off
-__label__non-tech what are the days I have off this year?
+__label__non-tech when do i get off?
+__label__non-tech time off
+__label__non-tech is donut day a holiday?
+__label__non-tech holiday schedule
+__label__non-tech what holidays do i get off?
+__label__non-tech explain vacations
+__label__non-tech time off, when do I have it?
+__label__non-tech what holidays do we get off?
+__label__non-tech is july fourth a holiday?
+__label__non-tech vacation days, when do I have them?
+__label__non-tech is veteran day a holiday?
+__label__non-tech what are the company paid holidays?
+__label__non-tech please tell me my paid vacation days
+__label__non-tech when do i get free from work?
+__label__non-tech vacation days
+__label__non-tech what is the corporate holiday schedule?
+__label__non-tech show me a list of corporate holidays
+__label__non-tech is the lunar new year a holiday?
+__label__non-tech what’s the holiday calendar this year?
+__label__non-tech when don't i have to be here?
+__label__non-tech do we get off on the fourth of july?
+__label__non-tech free days
 __label__non-tech what are my paid holidays this year?
-__label__non-tech how many days do I have off this year?
+__label__non-tech vacation days, when are they?
+__label__non-tech hello, i want to know about vacations
+__label__non-tech holidays this year
+__label__non-tech when are my days off?
+__label__non-tech tell me holidays
+__label__non-tech when don't we have to be here?
+__label__non-tech vacations
+__label__non-tech is memorial day a paid holiday?
+__label__non-tech look up my days off
+__label__non-tech corporate holiday schedule
+__label__non-tech is memorial day a holiday?
+__label__non-tech vacation, when do I have it?
+__label__non-tech break
+__label__non-tech company holiday schedule
+__label__non-tech what are my paid holidays this year?
+__label__non-tech company holidays
+__label__non-tech what are my paid vacation days this year?
+__label__non-tech show me a list of holidays
+__label__non-tech why don't we get more holidays?
+__label__non-tech time off, when is it?
+__label__non-tech could i please know what are the holidays?
+__label__non-tech what days do we get off this year?
+__label__non-tech can you show me today’s calendar with holidays?
+__label__non-tech do we get christmas day off?
+__label__non-tech what are my days off?
+__label__non-tech is groundhog day a holiday?
+__label__non-tech how many days off do we have this year?
+__label__non-tech what are my vacation days this year?
+__label__non-tech show me a list of company holidays
+__label__non-tech holidays
+__label__non-tech do we get off for halloween?
+__label__non-tech vacation this year
+__label__non-tech when do i get a break from work?
+__label__non-tech tell me vacations
+__label__non-tech how many paid holidays do we have this year?
 __label__non-tech how many paid holidays do I have off this year?
-__label__non-tech how much paid time off do I have this year?
+__label__non-tech please tell me my paid time off this year
+__label__non-tech free
+__label__non-tech what days do i get off this year?
+__label__non-tech what are the days I have off this year?
+__label__non-tech look up when I have days off
+__label__non-tech how many days do I have off this year?
+__label__non-tech resting time
+__label__non-tech explain holidays
+__label__non-tech is my birthday a holiday?
+__label__non-tech show me the company holidays
+__label__non-tech is july 4 a holiday?
+__label__non-tech corporate holidays this year
+__label__non-tech when do we get off?
+__label__non-tech days off
+__label__non-tech hello, when do i get to rest?
+__label__non-tech what are the paid holidays?
+__label__non-tech hello, what are my vacations?
+__label__non-tech show me when I have time off
+__label__non-tech vacation, when is it?
+__label__non-tech paid vacation
 
-
-__label__non-tech what is sunview's corporate contact information?
-__label__non-tech what is sunview software's corporate contact information?
-__label__non-tech how can i reach sunview software?
-__label__non-tech how can i reach sunview?
-__label__non-tech what is sunview software's phone number?
-__label__non-tech what is sunview's phone number?
-__label__non-tech how can i get ahold of sunview?
-__label__non-tech how can i get a hold of sunview?
-__label__non-tech how can i get ahold of sunview software?
-__label__non-tech how can i get a hold of sunview software?
-__label__non-tech what is sunview's contact info?
-__label__non-tech what is sunview software's contact info?
-__label__non-tech how do we contact sunview?
-__label__non-tech how do we contact sunview software?
-__label__non-tech what is the best way to contact sunview?
-__label__non-tech what is the best way to contact sunview software?
-__label__non-tech where can i find sunview's corporate contact information?
-__label__non-tech where can i find sunview software's corporate contact information?
-__label__non-tech what is the easiest way to contact sunview?
-__label__non-tech what is the easiest way to contact sunview software?
-__label__non-tech how can i find sunview's contact information in your website?
-__label__non-tech how can i find sunview software's contact information in your website?
-__label__non-tech what is sunview's e-mail address?
-__label__non-tech what is sunview software's e-mail address?
-__label__non-tech what is sunview's address?
-__label__non-tech what is sunview software's address?
-__label__non-tech what is sunview's web address?
-__label__non-tech what is sunview software's web address?
-__label__non-tech what is sunview's web site?
-__label__non-tech what is sunview software's web site?
-__label__non-tech sunview contact information
-__label__non-tech sunview information
-__label__non-tech how do i contact sunview software
-__label__non-tech what is sunview's phone number?
-__label__non-tech contact information for sunview software
-__label__non-tech where is sunview software?
-__label__non-tech address of sunview software
-__label__non-tech location of sunview software
-__label__non-tech please communicate me with sunview software
-__label__non-tech i would like to talk to sunview software
-__label__non-tech contact sunview
-__label__non-tech can i have the url for sunview software?
-__label__non-tech i want to speak to sunview
-__label__non-tech connect me with sunview!
-__label__non-tech how do i reach sunview software?
-__label__non-tech tell me about sunview
-__label__non-tech tell me about sun view
-__label__non-tech tell me about sunview software
-__label__non-tech tell me about sun view software
-__label__non-tech hello, i want to know more about sunview
-__label__non-tech hello, i want to know more about sunview software
-__label__non-tech hello, i want to know more about sun view
-__label__non-tech hello, i want to know more about sun view software
-__label__non-tech hello, i want to know more about sunview software company
-__label__non-tech hello, i want to know more about sun view software company
-__label__non-tech hello, please tell me about sunview
-__label__non-tech hello, please tell me about sun view
-__label__non-tech hello, please tell me about sunview software
-__label__non-tech hello, please tell me about sun view software
-__label__non-tech hello, please tell me about sunview company
-__label__non-tech hello, please tell me about sun view company
-__label__non-tech hello, please tell me about sunview software company
-__label__non-tech hello, please tell me about sun view software company
-__label__non-tech sunview company
-__label__non-tech sun view company
-__label__non-tech sunview software company
-__label__non-tech sun view software company
-__label__non-tech sunview software
-__label__non-tech sun view software
-__label__non-tech take me to sunview software
-__label__non-tech what is sunview softare?
-__label__non-tech who created this bot?
-__label__non-tech who is the inventor of this bot?
-__label__non-tech who developed this system?
-__label__non-tech sunview software company information
-__label__non-tech how do I get in touch with sunview?
-__label__non-tech where can I contact sunview?
-__label__non-tech sunview, tell me about it
-__label__non-tech sunview software, tell me about it
-__label__non-tech what do you know about sunview software?
-__label__non-tech please connect me to sunview software
-__label__non-tech tell me what you know about sunview software
-__label__non-tech what does sunview software do?
-__label__non-tech sunview software, what do they do?
-__label__non-tech sunview, what do they do?
 __label__non-tech help me contact sunview software
+__label__non-tech location of sunview software
+__label__non-tech hello, please tell me about sun view
+__label__non-tech hello, i want to know more about sunview software company
+__label__non-tech how can i get ahold of sunview software?
+__label__non-tech i would like to talk to sunview software
+__label__non-tech i want to speak to sunview
+__label__non-tech what is sunview software's web site?
+__label__non-tech sun view company
+__label__non-tech tell me what you know about sunview software
+__label__non-tech sun view software company
+__label__non-tech hello, i want to know more about sun view software company
+__label__non-tech how can i get ahold of sunview?
+__label__non-tech tell me about sunview software
+__label__non-tech what does sunview software do?
+__label__non-tech hello, please tell me about sun view software company
+__label__non-tech what is sunview software's corporate contact information?
+__label__non-tech tell me about sun view
+__label__non-tech i would like to contact sunview software
+__label__non-tech address of sunview software
+__label__non-tech hello, i want to know more about sunview software
+__label__non-tech hello, i want to know more about sunview
+__label__non-tech hello, please tell me about sun view company
+__label__non-tech what is the best way to contact sunview?
+__label__non-tech hello, please tell me about sunview software
+__label__non-tech i would like to contact sunview
+__label__non-tech take me to sunview software
+__label__non-tech what do you know about sunview software?
+__label__non-tech where can i find sunview software's corporate contact information?
+__label__non-tech how can i get a hold of sunview software?
+__label__non-tech what is the best way to contact sunview software?
+__label__non-tech sunview software
 __label__non-tech where can i visit sunview software?
-__label__non-tech what is sunview software's website?
+__label__non-tech where can i find sunview's corporate contact information?
+__label__non-tech how do i contact sunview software
+__label__non-tech what is sunview's corporate contact information?
+__label__non-tech what is sunview software's web address?
+__label__non-tech hello, please tell me about sunview
+__label__non-tech where can I contact sunview?
+__label__non-tech sunview software company
+__label__non-tech what is sunview's web address?
+__label__non-tech what is sunview software's address?
+__label__non-tech tell me about sun view software
+__label__non-tech sunview software, what is their website?
+__label__non-tech inform me about sunview
+__label__non-tech sunview software, what do they do?
+__label__non-tech how do we contact sunview?
+__label__non-tech sunview, tell me about it
 __label__non-tech what is sunview's website?
 __label__non-tech help me contact sunview
-__label__non-tech help me contact sunview software
-__label__non-tech i would like to contact sunview
-__label__non-tech i would like to contact sunview software
-__label__non-tech inform me about sunview software
-__label__non-tech inform me about sunview
-__label__non-tech sunview software, what is their website?
-__label__non-tech sunview software, how do I contact them?
-__label__non-tech sunview software, what is their address?
+__label__non-tech how do i reach sunview software?
+__label__non-tech who created this bot?
+__label__non-tech please communicate me with sunview software
+__label__non-tech what is the easiest way to contact sunview software?
+__label__non-tech what is sunview's phone number?
+__label__non-tech what is sunview software's website?
+__label__non-tech tell me about sunview
+__label__non-tech what is sunview software's phone number?
+__label__non-tech what is sunview's phone number?
+__label__non-tech what is sunview's e-mail address?
+__label__non-tech sunview, what do they do?
+__label__non-tech what is sunview softare?
 __label__non-tech sunview software, where are they located?
+__label__non-tech sun view software
+__label__non-tech what is sunview software's contact info?
+__label__non-tech please connect me to sunview software
+__label__non-tech how can i get a hold of sunview?
+__label__non-tech help me contact sunview software
+__label__non-tech can i have the url for sunview software?
+__label__non-tech who is the inventor of this bot?
+__label__non-tech sunview software, tell me about it
+__label__non-tech how can i reach sunview?
+__label__non-tech who developed this system?
+__label__non-tech what is sunview's contact info?
+__label__non-tech inform me about sunview software
+__label__non-tech how can i reach sunview software?
+__label__non-tech sunview software company information
+__label__non-tech where is sunview software?
+__label__non-tech sunview information
+__label__non-tech sunview company
+__label__non-tech connect me with sunview!
+__label__non-tech hello, please tell me about sunview company
 __label__non-tech sunview software, what is their phone number?
+__label__non-tech sunview contact information
+__label__non-tech contact information for sunview software
+__label__non-tech hello, i want to know more about sun view software
+__label__non-tech what is sunview's web site?
+__label__non-tech how do we contact sunview software?
+__label__non-tech what is sunview's address?
+__label__non-tech what is sunview software's e-mail address?
+__label__non-tech hello, please tell me about sunview software company
+__label__non-tech hello, i want to know more about sun view
+__label__non-tech sunview software, how do I contact them?
+__label__non-tech how do I get in touch with sunview?
+__label__non-tech how can i find sunview software's contact information in your website?
+__label__non-tech how can i find sunview's contact information in your website?
+__label__non-tech hello, please tell me about sun view software
+__label__non-tech sunview software, what is their address?
+__label__non-tech what is the easiest way to contact sunview?
+__label__non-tech contact sunview
 
-__label__non-tech show me recent announcements
-__label__non-tech i want to see recent announcements
-__label__non-tech what are the recent announcements?
-__label__non-tech any announcements?
-__label__non-tech what is happening?
-__label__non-tech are there any recent announcements?
-__label__non-tech what are some of the recent announcements?
-__label__non-tech what are some recent announcements?
-__label__non-tech what’s new?
-__label__non-tech what is the state of things?
-__label__non-tech what is the latest news?
-__label__non-tech can you show me the most recent announcements?
-__label__non-tech can you show me some announcements?
-__label__non-tech is there anything new?
-__label__non-tech what's happening?
-__label__non-tech any new announcements?
-__label__non-tech something new?
-__label__non-tech anything new happened?
-__label__non-tech announcements
-__label__non-tech work news
-__label__non-tech announcements at work
-__label__non-tech what happened?
-__label__non-tech anything new?
-__label__non-tech what is going on right now?
-__label__non-tech can you please tell me the news?
-__label__non-tech please share new announcements with me
-__label__non-tech has something recent happened?
-__label__non-tech are there any recent announcements?
-__label__non-tech is there anything to be announced?
-__label__non-tech is there any announcement?
-__label__non-tech is there anything recent to be announced?
-__label__non-tech is there any recent announcement?
-__label__non-tech hello, are there any new announcements?
-__label__non-tech hey, are there any new announcements?
-__label__non-tech hi, are there any new announcements?
-__label__non-tech hello there, are there any new announcements?
-__label__non-tech hey there, are there any new announcements?
-__label__non-tech hi there, are there any new announcements?
-__label__non-tech hello, tell me the latest announcements
-__label__non-tech hey, tell me the latest announcements
-__label__non-tech hi, tell me the latest announcements
-__label__non-tech any recent news within the company?
-__label__non-tech any recent announcements within the company?
-__label__non-tech any announcements within the company?
-__label__non-tech any news within the company?
-__label__non-tech hello, could you please brief me on announcements?
-__label__non-tech hey, could you please brief me on announcements?
-__label__non-tech hi, could you please brief me on announcements?
-__label__non-tech i want to know the recent announcements
-__label__non-tech i want to know the most recent announcements
-__label__non-tech i want to know the company's news
-__label__non-tech i want to know the company's recent news
-__label__non-tech i want to know the company's most recent news
-__label__non-tech please, announcements
-__label__non-tech please, company news
-__label__non-tech please, news within the company
-__label__non-tech please, news about the company
-__label__non-tech hello, anything new going on today?
-__label__non-tech hey, anything new going on today?
-__label__non-tech hi, anything new going on today?
-__label__non-tech hi there, anything new going on today?
-__label__non-tech tell me announcements
-__label__non-tech tell me news related to the company
-__label__non-tech tell me the most recent announcements
-__label__non-tech tell me the latest announcements
-__label__non-tech latest announcements
-__label__non-tech most recent announcements
-__label__non-tech do me a favor and tell me the recent announcements
-__label__non-tech do me a favor and tell me the latest announcements
-__label__non-tech did the ceo announce anything today?
-__label__non-tech did the cto announce anything today?
-__label__non-tech did the cfo announce anything today?
 __label__non-tech did anyone from the company's leadership announce anything?
-__label__non-tech has management announced anything today?
-__label__non-tech has management announced anything recently?
 __label__non-tech has management announced anything lately?
-__label__non-tech has there been any news today?
-__label__non-tech has there been any news recently?
-__label__non-tech has there been any news lately?
-__label__non-tech announcements, show me them
-__label__non-tech recent announcements, show me them
-__label__non-tech announcements, tell me about them
-__label__non-tech recent announcements show me them
-__label__non-tech what are the most recent announcements?
-__label__non-tech have there been any statements recently?
-__label__non-tech have there been any statements lately?
-__label__non-tech were there any statements made today?
-__label__non-tech did the company make a statement today?
-__label__non-tech did the company make an announcement today?
-__label__non-tech did the company make a statement recently?
-__label__non-tech did the company make an announcement recently?
-__label__non-tech has the company made a statement lately?
-__label__non-tech has the company made an announcement lately?
-__label__non-tech what are the most recent announcements?
-__label__non-tech has anything happened lately?
-__label__non-tech has anything happened recently?
+__label__non-tech can you show me some announcements?
+__label__non-tech anything new?
+__label__non-tech hi, anything new going on today?
+__label__non-tech show me recent announcements
+__label__non-tech hi, could you please brief me on announcements?
+__label__non-tech any announcements within the company?
+__label__non-tech what are some recent announcements?
+__label__non-tech hi there, anything new going on today?
 __label__non-tech has anything happened today?
+__label__non-tech hi, are there any new announcements?
+__label__non-tech please, news about the company
+__label__non-tech has the company made a statement lately?
+__label__non-tech are there any recent announcements?
+__label__non-tech any new announcements?
+__label__non-tech please, announcements
+__label__non-tech has there been any news recently?
+__label__non-tech has something recent happened?
+__label__non-tech hey, anything new going on today?
+__label__non-tech announcements, show me them
+__label__non-tech what happened?
+__label__non-tech recent announcements show me them
+__label__non-tech has there been any news lately?
+__label__non-tech announcements at work
+__label__non-tech did the cfo announce anything today?
+__label__non-tech hi, tell me the latest announcements
+__label__non-tech has management announced anything recently?
+__label__non-tech have there been any statements lately?
 __label__non-tech were any announcements posted today?
 __label__non-tech were any announcements posted recently?
+__label__non-tech do me a favor and tell me the recent announcements
+__label__non-tech did the ceo announce anything today?
+__label__non-tech tell me the latest announcements
+__label__non-tech anything new happened?
+__label__non-tech i want to know the recent announcements
+__label__non-tech i want to know the company's news
+__label__non-tech do me a favor and tell me the latest announcements
+__label__non-tech something new?
+__label__non-tech has anything happened lately?
+__label__non-tech what’s new?
+__label__non-tech is there any recent announcement?
 __label__non-tech were any announcements posted lately?
+__label__non-tech please, news within the company
+__label__non-tech have there been any statements recently?
+__label__non-tech tell me the most recent announcements
+__label__non-tech hi there, are there any new announcements?
+__label__non-tech hey there, are there any new announcements?
+__label__non-tech is there anything to be announced?
+__label__non-tech can you please tell me the news?
+__label__non-tech were there any statements made today?
+__label__non-tech any announcements?
+__label__non-tech what is happening?
+__label__non-tech announcements, tell me about them
+__label__non-tech hey, are there any new announcements?
+__label__non-tech any news within the company?
+__label__non-tech is there anything new?
+__label__non-tech what are the recent announcements?
+__label__non-tech has there been any news today?
+__label__non-tech has management announced anything today?
+__label__non-tech i want to know the company's most recent news
+__label__non-tech recent announcements, show me them
+__label__non-tech hey, tell me the latest announcements
+__label__non-tech please share new announcements with me
+__label__non-tech did the company make a statement today?
+__label__non-tech did the company make an announcement recently?
+__label__non-tech are there any recent announcements?
+__label__non-tech any recent announcements within the company?
+__label__non-tech what are the most recent announcements?
+__label__non-tech i want to know the most recent announcements
+__label__non-tech what is going on right now?
+__label__non-tech hey, could you please brief me on announcements?
+__label__non-tech i want to see recent announcements
+__label__non-tech what's happening?
+__label__non-tech what is the latest news?
+__label__non-tech work news
+__label__non-tech is there anything recent to be announced?
+__label__non-tech what are the most recent announcements?
+__label__non-tech what is the state of things?
+__label__non-tech latest announcements
+__label__non-tech has anything happened recently?
+__label__non-tech hello, tell me the latest announcements
+__label__non-tech did the cto announce anything today?
+__label__non-tech has the company made an announcement lately?
+__label__non-tech please, company news
+__label__non-tech hello, anything new going on today?
+__label__non-tech any recent news within the company?
+__label__non-tech most recent announcements
+__label__non-tech hello, could you please brief me on announcements?
+__label__non-tech i want to know the company's recent news
+__label__non-tech tell me news related to the company
+__label__non-tech did the company make an announcement today?
+__label__non-tech can you show me the most recent announcements?
+__label__non-tech announcements
+__label__non-tech is there any announcement?
+__label__non-tech did the company make a statement recently?
+__label__non-tech hello there, are there any new announcements?
+__label__non-tech hello, are there any new announcements?
+__label__non-tech tell me announcements
+__label__non-tech what are some of the recent announcements?
 
-__label__non-tech what is support's email?
-__label__non-tech i need to contact support?
-__label__non-tech what is the support email?
-__label__non-tech how can we contact support?
-__label__non-tech what are the support work hours?
-__label__non-tech what is the support email?
-__label__non-tech how can we contact support?
-__label__non-tech what are the support work hours?
-__label__non-tech where can i send my questions about change gear product?
-__label__non-tech where can i send an email or call for customer support?
-__label__non-tech who do i call for support?
-__label__non-tech what is the support number?
-__label__non-tech how do i contact technical support?
-__label__non-tech what is technical support's email?
-__label__non-tech i need to contact technical support?
-__label__non-tech what is the technical support email?
-__label__non-tech how can we contact technical support?
-__label__non-tech what are the technical support work hours?
-__label__non-tech what is the technical support email?
-__label__non-tech how can we contact technical support?
-__label__non-tech what are the technical support work hours?
-__label__non-tech where can i send an email or call for technical support?
-__label__non-tech who do i call for technical support?
-__label__non-tech what is the technical support number?
-__label__non-tech i need help
-__label__non-tech can someone please help me?
-__label__non-tech help me!
-__label__non-tech i would like some help
-__label__non-tech i need to contact customer support
-__label__non-tech please help me fix this
-__label__non-tech i have questions
-__label__non-tech phone number for support
-__label__non-tech i need support
-__label__non-tech who can help me?
-__label__non-tech link me with customer support
-__label__non-tech when does technical support work?
-__label__non-tech can i talk to a technician?
-__label__non-tech where can i receive help?
-__label__non-tech where can i send my questions about a product?
-__label__non-tech i need to talk to support
-__label__non-tech i need to talk to technical support
-__label__non-tech could you please put me in touch with support?
-__label__non-tech could you please put me in touch with technical support?
-__label__non-tech put me in touch with support
-__label__non-tech put me in touch with technical support
-__label__non-tech take me to support
-__label__non-tech take me to technical support
-__label__non-tech i need support to help me
-__label__non-tech i need someone to help
-__label__non-tech i need help with something
+__label__non-tech i need tech support
 __label__non-tech i need help with something technical
-__label__non-tech i need a technician
-__label__non-tech please send a technician
-__label__non-tech hello, i need technical support
-__label__non-tech hello, send a technician
-__label__non-tech hello, i need support
-__label__non-tech hello, please help me
-__label__non-tech hello, help me
-__label__non-tech hi there, please help me
-__label__non-tech hi there, help me
+__label__non-tech hello help
+__label__non-tech customer service, where can I reach them?
+__label__non-tech what are the support work hours?
+__label__non-tech what is the support email?
+__label__non-tech customer service, get me in touch with them
+__label__non-tech where can i send my questions about change gear product?
+__label__non-tech what is the technical support email?
+__label__non-tech i need to contact technical support?
+__label__non-tech i don't know what to do i need support
+__label__non-tech how can we contact support?
+__label__non-tech where can i send my questions about a product?
+__label__non-tech get me in touch with tech support
 __label__non-tech hello, i need technical help from someone
 __label__non-tech hello, do you know someone who can help me?
-__label__non-tech hey, i need your help
-__label__non-tech hey, please help me
-__label__non-tech hey, help me
-__label__non-tech hi help
-__label__non-tech hello help
-__label__non-tech hey help
-__label__non-tech i really need your help, please
-__label__non-tech i really need someone to help me, thank you
-__label__non-tech please send someone to help me
-__label__non-tech i am stuck i need help
-__label__non-tech i don't know what to do i need support
-__label__non-tech i don't know what to do i need technical support
-__label__non-tech i don't know what to do i need help
+__label__non-tech when does technical support work?
 __label__non-tech support, get me in touch with them
-__label__non-tech support, how do I contact them?
-__label__non-tech customer service, get me in touch with them
-__label__non-tech customer service, how do I contact them?
-__label__non-tech get me in touch with customer service
-__label__non-tech get me in touch with support
-__label__non-tech support, what is their email?
-__label__non-tech support, where can I reach them?
-__label__non-tech customer service, what is their email?
-__label__non-tech what is the customer service email?
-__label__non-tech customer service, where can I reach them?
-__label__non-tech what is the tech support email?
-__label__non-tech tech support, get me in touch with them
-__label__non-tech tech support, how do I reach them?
-__label__non-tech tech support, what is their email?
 __label__non-tech tech support, where can I reach them?
-__label__non-tech tech support, how do I contact them?
-__label__non-tech please get me in touch with tech support
-__label__non-tech where can I reach tech support?
-__label__non-tech i need help, connect me to tech support
-__label__non-tech please connect me to tech support
-__label__non-tech get me in touch with tech support
-__label__non-tech get me in contact with tech support
-__label__non-tech i need tech support
-__label__non-tech tech support
+__label__non-tech tech support, what is their email?
+__label__non-tech i don't know what to do i need technical support
+__label__non-tech i need support
+__label__non-tech hi help
+__label__non-tech i need someone to help
 __label__non-tech i require technical assistance
+__label__non-tech can i talk to a technician?
+__label__non-tech tech support
+__label__non-tech where can i receive help?
+__label__non-tech what is the support email?
+__label__non-tech i need to contact customer support
+__label__non-tech put me in touch with support
+__label__non-tech where can i send an email or call for technical support?
+__label__non-tech tech support, how do I contact them?
+__label__non-tech take me to support
+__label__non-tech please help me fix this
+__label__non-tech what is the customer service email?
+__label__non-tech tech support, how do I reach them?
+__label__non-tech i have questions
+__label__non-tech where can i send an email or call for customer support?
+__label__non-tech hello, i need technical support
+__label__non-tech what is technical support's email?
+__label__non-tech support, what is their email?
+__label__non-tech who do i call for support?
+__label__non-tech support, how do I contact them?
+__label__non-tech get me in touch with support
+__label__non-tech how can we contact support?
+__label__non-tech i need help, connect me to tech support
+__label__non-tech hello, help me
+__label__non-tech hello, please help me
+__label__non-tech what is the tech support email?
+__label__non-tech what are the technical support work hours?
+__label__non-tech hey, please help me
+__label__non-tech hey help
+__label__non-tech i need support to help me
+__label__non-tech who can help me?
+__label__non-tech please send a technician
+__label__non-tech customer service, how do I contact them?
+__label__non-tech could you please put me in touch with technical support?
+__label__non-tech i need help
+__label__non-tech could you please put me in touch with support?
+__label__non-tech please get me in touch with tech support
+__label__non-tech hey, help me
+__label__non-tech take me to technical support
+__label__non-tech how do i contact technical support?
+__label__non-tech what is support's email?
+__label__non-tech tech support, get me in touch with them
+__label__non-tech how can we contact technical support?
+__label__non-tech please send someone to help me
 __label__non-tech i need help with a tech problem
+__label__non-tech i need to contact support?
+__label__non-tech i need help with something
+__label__non-tech help me!
+__label__non-tech where can I reach tech support?
+__label__non-tech hello, i need support
+__label__non-tech i would like some help
+__label__non-tech what are the technical support work hours?
+__label__non-tech put me in touch with technical support
+__label__non-tech hi there, please help me
+__label__non-tech phone number for support
+__label__non-tech i don't know what to do i need help
+__label__non-tech i really need your help, please
+__label__non-tech what is the technical support number?
+__label__non-tech support, where can I reach them?
+__label__non-tech link me with customer support
+__label__non-tech i am stuck i need help
+__label__non-tech i really need someone to help me, thank you
+__label__non-tech i need to talk to technical support
+__label__non-tech i need to talk to support
+__label__non-tech what are the support work hours?
+__label__non-tech can someone please help me?
+__label__non-tech who do i call for technical support?
+__label__non-tech i need a technician
+__label__non-tech hello, send a technician
+__label__non-tech hi there, help me
+__label__non-tech hey, i need your help
+__label__non-tech customer service, what is their email?
+__label__non-tech get me in touch with customer service
+__label__non-tech what is the technical support email?
+__label__non-tech get me in contact with tech support
+__label__non-tech how can we contact technical support?
+__label__non-tech what is the support number?
+__label__non-tech please connect me to tech support
 
 __label__tech i have a question about insurance open enrollment.
 __label__tech what is open enrollment?
@@ -577,31 +576,31 @@ __label__tech tell me how much i am covered for
 __label__tech how much is my coverage
 __label__tech please help me enroll in insurance
 __label__tech hello, i need help enrolling in insurance
-__label__non-tech what is my insurance premium?
-__label__non-tech what is my insurance deductible?
-__label__non-tech insurance, tell me about it
-__label__non-tech insurance, tell me about my plan
-__label__non-tech insurance, tell me about my coverage
-__label__non-tech insurance, tell me about my benefits
-__label__non-tech help me figure out my insurance plan
-__label__non-tech health insurance, tell me about it
-__label__non-tech health insurance, tell me about my plan
-__label__non-tech health insurance, tell me about my coverage
-__label__non-tech health insurance, tell me about my coverage
-__label__non-tech what does my health insurance cover?
-__label__non-tech does my health insurance cover preexisting conditions?
-__label__non-tech who is my insurance provider?
-__label__non-tech who issues my insurance?
-__label__non-tech who is my health insurance provider?
-__label__non-tech who issues my health insurance?
-__label__non-tech tell me about my insurance coverage
-__label__non-tech tell me about my health insurance coverage
-__label__non-tech tell me about my family's health insurance coverage
-__label__non-tech tell me about my family's insurance coverage
-__label__non-tech who in my family is covered by my health insurance?
-__label__non-tech tell me about preexisting condition insurance
-__label__non-tech insurance for preexisting conditions
-__label__non-tech does my insurance cover preexisting conditions?
+__label__tech what is my insurance premium?
+__label__tech what is my insurance deductible?
+__label__tech insurance, tell me about it
+__label__tech insurance, tell me about my plan
+__label__tech insurance, tell me about my coverage
+__label__tech insurance, tell me about my benefits
+__label__tech help me figure out my insurance plan
+__label__tech health insurance, tell me about it
+__label__tech health insurance, tell me about my plan
+__label__tech health insurance, tell me about my coverage
+__label__tech health insurance, tell me about my coverage
+__label__tech what does my health insurance cover?
+__label__tech does my health insurance cover preexisting conditions?
+__label__tech who is my insurance provider?
+__label__tech who issues my insurance?
+__label__tech who is my health insurance provider?
+__label__tech who issues my health insurance?
+__label__tech tell me about my insurance coverage
+__label__tech tell me about my health insurance coverage
+__label__tech tell me about my family's health insurance coverage
+__label__tech tell me about my family's insurance coverage
+__label__tech who in my family is covered by my health insurance?
+__label__tech tell me about preexisting condition insurance
+__label__tech insurance for preexisting conditions
+__label__tech does my insurance cover preexisting conditions?
 
 __label__non-tech what is your name?
 __label__non-tech what are you called?
