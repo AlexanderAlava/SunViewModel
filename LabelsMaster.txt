@@ -73,6 +73,31 @@ __label__greetings hi there bot!
 __label__greetings hello there bot!
 __label__greetings how are you doing bot?
 __label__greetings how are you doing today bot?
+__label__greetings hey there
+__label__greetings yo
+__label__greetings ey
+__label__greetings what's up?
+__label__greetings ey there
+__label__greetings mornin'
+__label__greetings evenin'
+__label__greetings how are you today?
+__label__greetings how are you this fine day?
+__label__greetings how are you this fine morning?
+__label__greetings how are you this fine afternoon?
+__label__greetings how are you this fine evening?
+__label__greetings how do you do?
+__label__greetings salutations
+__label__greetings hello me, meet the real me
+__label__greetings good day
+__label__greetings hey man
+__label__greetings good to see you
+__label__greetings it's a pleasure to meet you
+__label__greetings heya
+__label__greetings hello hello
+__label__greetings hi hi
+__label__greetings ey man
+__label__greetings what's up my guy
+__label__greetings what's up my dude
 
 __label__holidays holidays this year
 __label__holidays holiday schedule
@@ -149,6 +174,30 @@ __label__holidays when do i get free from work?
 __label__holidays free
 __label__holidays break
 __label__holidays hello, when do i get to rest?
+__label__holidays time off, when do I have it?
+__label__holidays time off, when is it?
+__label__holidays vacation, when do I have it?
+__label__holidays vacation, when is it?
+__label__holidays vacation days, when are they?
+__label__holidays vacation days, when do I have them?
+__label__holidays when are my days off?
+__label__holidays what are my vacation days this year?
+__label__holidays look up my days off
+__label__holidays look up when I have time off
+__label__holidays look up when I have days off
+__label__holidays show me when I have time off
+__label__holidays show me when I have days off
+__label__holidays what are my paid holidays this year?
+__label__holidays what are my paid vacation days this year?
+__label__holidays please tell me my paid vacation days
+__label__holidays please tell me my paid time off this year
+__label__holidays please tell me my paid days off this year
+__label__holidays please tell me my paid days off
+__label__holidays what are the days I have off this year?
+__label__holidays what are my paid holidays this year?
+__label__holidays how many days do I have off this year?
+__label__holidays how many paid holidays do I have off this year?
+__label__holidays how much paid time off do I have this year?
 
 __label__sunview what is sunview's corporate contact information?
 __label__sunview what is sunview software's corporate contact information?
@@ -225,6 +274,31 @@ __label__sunview who created this bot?
 __label__sunview who is the inventor of this bot?
 __label__sunview who developed this system?
 __label__sunview sunview software company information
+__label__sunview how do I get in touch with sunview?
+__label__sunview where can I contact sunview?
+__label__sunview sunview, tell me about it
+__label__sunview sunview software, tell me about it
+__label__sunview what do you know about sunview software?
+__label__sunview please connect me to sunview software
+__label__sunview tell me what you know about sunview software
+__label__sunview what does sunview software do?
+__label__sunview sunview software, what do they do?
+__label__sunview sunview, what do they do?
+__label__sunview help me contact sunview software
+__label__sunview where can i visit sunview software?
+__label__sunview what is sunview software's website?
+__label__sunview what is sunview's website?
+__label__sunview help me contact sunview
+__label__sunview help me contact sunview software
+__label__sunview i would like to contact sunview
+__label__sunview i would like to contact sunview software
+__label__sunview inform me about sunview software
+__label__sunview inform me about sunview
+__label__sunview sunview software, what is their website?
+__label__sunview sunview software, how do I contact them?
+__label__sunview sunview software, what is their address?
+__label__sunview sunview software, where are they located?
+__label__sunview sunview software, what is their phone number?
 
 __label__announcements show me recent announcements
 __label__announcements i want to see recent announcements
@@ -299,6 +373,33 @@ __label__announcements did the ceo announce anything today?
 __label__announcements did the cto announce anything today?
 __label__announcements did the cfo announce anything today?
 __label__announcements did anyone from the company's leadership announce anything?
+__label__announcements has management announced anything today?
+__label__announcements has management announced anything recently?
+__label__announcements has management announced anything lately?
+__label__announcements has there been any news today?
+__label__announcements has there been any news recently?
+__label__announcements has there been any news lately?
+__label__announcements announcements, show me them
+__label__announcements recent announcements, show me them
+__label__announcements announcements, tell me about them
+__label__announcements recent announcements show me them
+__label__announcements what are the most recent announcements?
+__label__announcements have there been any statements recently?
+__label__announcements have there been any statements lately?
+__label__announcements were there any statements made today?
+__label__announcements did the company make a statement today?
+__label__announcements did the company make an announcement today?
+__label__announcements did the company make a statement recently?
+__label__announcements did the company make an announcement recently?
+__label__announcements has the company made a statement lately?
+__label__announcements has the company made an announcement lately?
+__label__announcements what are the most recent announcements?
+__label__announcements has anything happened lately?
+__label__announcements has anything happened recently?
+__label__announcements has anything happened today?
+__label__announcements were any announcements posted today?
+__label__announcements were any announcements posted recently?
+__label__announcements were any announcements posted lately?
 
 __label__support what is support's email?
 __label__support i need to contact support?
@@ -375,6 +476,33 @@ __label__support i am stuck i need help
 __label__support i don't know what to do i need support
 __label__support i don't know what to do i need technical support
 __label__support i don't know what to do i need help
+__label__support support, get me in touch with them
+__label__support support, how do I contact them?
+__label__support customer service, get me in touch with them
+__label__support customer service, how do I contact them?
+__label__support get me in touch with customer service
+__label__support get me in touch with support
+__label__support support, what is their email?
+__label__support support, where can I reach them?
+__label__support customer service, what is their email?
+__label__support what is the customer service email?
+__label__support customer service, where can I reach them?
+__label__support what is the tech support email?
+__label__support tech support, get me in touch with them
+__label__support tech support, how do I reach them?
+__label__support tech support, what is their email?
+__label__support tech support, where can I reach them?
+__label__support tech support, how do I contact them?
+__label__support please get me in touch with tech support
+__label__support where can I reach tech support?
+__label__support i need help, connect me to tech support
+__label__support please connect me to tech support
+__label__support get me in touch with tech support
+__label__support get me in contact with tech support
+__label__support i need tech support
+__label__support tech support
+__label__support i require technical assistance
+__label__support i need help with a tech problem
 
 __label__insurance i have a question about insurance open enrollment.
 __label__insurance what is open enrollment?
@@ -451,6 +579,31 @@ __label__insurance tell me how much i am covered for
 __label__insurance how much is my coverage
 __label__insurance please help me enroll in insurance
 __label__insurance hello, i need help enrolling in insurance
+__label__insurance what is my insurance premium?
+__label__insurance what is my insurance deductible?
+__label__insurance insurance, tell me about it
+__label__insurance insurance, tell me about my plan
+__label__insurance insurance, tell me about my coverage
+__label__insurance insurance, tell me about my benefits
+__label__insurance help me figure out my insurance plan
+__label__insurance health insurance, tell me about it
+__label__insurance health insurance, tell me about my plan
+__label__insurance health insurance, tell me about my coverage
+__label__insurance health insurance, tell me about my coverage
+__label__insurance what does my health insurance cover?
+__label__insurance does my health insurance cover preexisting conditions?
+__label__insurance who is my insurance provider?
+__label__insurance who issues my insurance?
+__label__insurance who is my health insurance provider?
+__label__insurance who issues my health insurance?
+__label__insurance tell me about my insurance coverage
+__label__insurance tell me about my health insurance coverage
+__label__insurance tell me about my family's health insurance coverage
+__label__insurance tell me about my family's insurance coverage
+__label__insurance who in my family is covered by my health insurance?
+__label__insurance tell me about preexisting condition insurance
+__label__insurance insurance for preexisting conditions
+__label__insurance does my insurance cover preexisting conditions?
 
 __label__name what is your name?
 __label__name what are you called?
