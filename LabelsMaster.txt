@@ -28,14 +28,12 @@ __label__greetings how are you doing today bot?
 __label__greetings hello, how is your morning going?
 __label__greetings hello sir
 __label__greetings hey! good morning!
-__label__greetings hiya
 __label__greetings how are you doing bot?
 __label__greetings holla
 __label__greetings hey, good evening
 __label__greetings hi there, good afternoon
 __label__greetings howdy cowboy
 __label__greetings ey there
-__label__greetings holla
 __label__greetings afternoon!
 __label__greetings hello
 __label__greetings hey, how are you doin?
@@ -46,8 +44,6 @@ __label__greetings how are you this fine afternoon?
 __label__greetings mornin'
 __label__greetings s'up
 __label__greetings hi there, good morning
-__label__greetings s'up
-__label__greetings hello
 __label__greetings how you doing?
 __label__greetings how are you this fine evening?
 __label__greetings hello, how is your evening going?
@@ -60,31 +56,24 @@ __label__greetings how are you doing?
 __label__greetings good morning sir
 __label__greetings sup
 __label__greetings hey, good afternoon
-__label__greetings hey there
 __label__greetings are you doing okay today?
 __label__greetings hi there, good evening
 __label__greetings hola
 __label__greetings good afternoon, how are you doing?
-__label__greetings greetings
 __label__greetings what's up my guy
 __label__greetings hello, how are you doin
-__label__greetings hey man
 __label__greetings hello there bot!
 __label__greetings how are you doing this morning?
 __label__greetings it's a pleasure to meet you
-__label__greetings hello
-__label__greetings sup
 __label__greetings howdy
 __label__greetings hola amigo
 __label__greetings how are you today?
 __label__greetings hey, good morning
-__label__greetings howdy
 __label__greetings what's up my dude
 __label__greetings ey man
 __label__greetings hi there
 __label__greetings good evening
 __label__greetings good day
-__label__greetings how are you doing?
 __label__greetings doing okay?
 __label__greetings how are you doing this evening?
 __label__greetings good evening sir
@@ -92,10 +81,8 @@ __label__greetings how are you doing this afternoon?
 __label__greetings how do you do?
 __label__greetings hey! good evening!
 __label__greetings hello there, can you tell me how are you doing today?
-__label__greetings hello
 __label__greetings hello there, good morning
 __label__greetings hello me, meet the real me
-__label__greetings hola
 __label__greetings wassup
 __label__greetings ey
 
@@ -200,6 +187,106 @@ __label__holidays how much paid time off do I have this year?
 __label__holidays is the lunar new year a holiday?
 __label__holidays i need some help with learning about my holidays
 
+__label__holidays why don't we get more holidays?
+__label__holidays is july 4 a holiday?
+__label__holidays can you give me a list of this year’s holidays?
+__label__holidays what are my paid holidays this year?
+__label__holidays when do i get free from work?
+__label__holidays what is the corporate holiday schedule?
+__label__holidays holidays this year
+__label__holidays company holidays this year
+__label__holidays show me when I have time off
+__label__holidays is memorial day a paid holiday?
+__label__holidays when do i get a break from work?
+__label__holidays how many days off do we have this year?
+__label__holidays holiday schedule
+__label__holidays please tell me my paid vacation days
+__label__holidays what are my vacation days this year?
+__label__holidays when don't i have to be here?
+__label__holidays corporate holiday schedule
+__label__holidays hello, when do i get to rest?
+__label__holidays time off, when is it?
+__label__holidays do we get off on the fourth of july?
+__label__holidays free days
+__label__holidays how many paid holidays do I have off this year?
+__label__holidays hello, what are my vacations?
+__label__holidays when are my days off?
+__label__holidays can you show me today’s calendar with holidays?
+__label__holidays show me the corporate holidays
+__label__holidays is veteran's day a holiday?
+__label__holidays please tell me my paid days off this year
+__label__holidays what are my paid vacation days this year?
+__label__holidays what are the company paid holidays?
+__label__holidays vacation days, when do I have them?
+__label__holidays paid vacation
+__label__holidays are we off on the fourth of july?
+__label__holidays vacations
+__label__holidays when do i go off to vacation?
+__label__holidays is july 4th a holiday?
+__label__holidays is my birthday a holiday?
+__label__holidays when do we get off?
+__label__holidays vacation, when do I have it?
+__label__holidays vacation this year
+__label__holidays what days do we get off this year?
+__label__holidays what days do we get off?
+__label__holidays what days are holidays?
+__label__holidays tell me holidays
+__label__holidays what’s the holiday calendar this year?
+__label__holidays show me when I have days off
+__label__holidays look up when I have time off
+__label__holidays is july fourth a holiday?
+__label__holidays show me a list of holidays
+__label__holidays is veteran day a holiday?
+__label__holidays corporate holidays this year
+__label__holidays break
+__label__holidays holidays
+__label__holidays what are our days off?
+__label__holidays days off
+__label__holidays please tell me my paid time off this year
+__label__holidays explain holidays
+__label__holidays do we get off for halloween?
+__label__holidays is ground hog’s day a holiday?
+__label__holidays show me vacations!
+__label__holidays what is the company holiday schedule?
+__label__holidays show me a list of corporate holidays
+__label__holidays resting time
+__label__holidays vacation days
+__label__holidays are we off on the 4th of july?
+__label__holidays time off
+__label__holidays explain vacations
+__label__holidays what days do i get off this year?
+__label__holidays vacation days, when are they?
+__label__holidays show me the company holidays
+__label__holidays how many paid holidays do we have this year?
+__label__holidays do we get christmas day off?
+__label__holidays what holidays do we get off?
+__label__holidays could i please know what are the holidays?
+__label__holidays tell me vacations
+__label__holidays when do i get off?
+__label__holidays what are the days I have off this year?
+__label__holidays show me a list of company holidays
+__label__holidays is memorial day a holiday?
+__label__holidays hello, i want to know about vacations
+__label__holidays is donut day a holiday?
+__label__holidays please tell me my paid days off
+__label__holidays what holidays do i get off?
+__label__holidays what days do i get off?
+__label__holidays vacation, when is it?
+__label__holidays what are the paid holidays?
+__label__holidays company holidays
+__label__holidays is groundhog day a holiday?
+__label__holidays time off, when do I have it?
+__label__holidays look up my days off
+__label__holidays company holiday schedule
+__label__holidays look up when I have days off
+__label__holidays what are my days off?
+__label__holidays when don't we have to be here?
+__label__holidays free
+__label__holidays how many days do I have off this year?
+__label__holidays how much paid time off do I have this year?
+__label__holidays is the lunar new year a holiday?
+__label__holidays i need some help with learning about my holidays
+
 __label__sunview contact information for sunview software
 __label__sunview where can I contact sunview?
 __label__sunview what is sunview's contact info?
@@ -232,7 +319,6 @@ __label__sunview who is the inventor of this bot?
 __label__sunview what is sunview software's e-mail address?
 __label__sunview who created this bot?
 __label__sunview sun view company
-__label__sunview what is sunview's phone number?
 __label__sunview i would like to contact sunview software
 __label__sunview contact sunview
 __label__sunview sunview software, tell me about it
@@ -265,7 +351,6 @@ __label__sunview what does sunview software do?
 __label__sunview please connect me to sunview software
 __label__sunview sun view software
 __label__sunview where is sunview software?
-__label__sunview help me contact sunview software
 __label__sunview inform me about sunview software
 __label__sunview how can i get a hold of sunview?
 __label__sunview how do i reach sunview software?
@@ -395,9 +480,7 @@ __label__announcements hello, tell me the latest announcements
 __label__announcements has the company made a statement lately?
 __label__announcements hello, could you please brief me on announcements?
 __label__announcements have there been any statements recently?
-__label__announcements are there any recent announcements?
 __label__announcements were any announcements posted lately?
-__label__announcements what are the most recent announcements?
 __label__announcements has there been any news lately?
 __label__announcements hello there, are there any new announcements?
 __label__announcements hi, tell me the latest announcements
@@ -438,9 +521,7 @@ __label__support put me in touch with technical support
 __label__support what is the support email?
 __label__support i really need someone to help me, thank you
 __label__support hey, help me
-__label__support what is the support email?
 __label__support tech support, where can I reach them?
-__label__support what are the support work hours?
 __label__support i need to talk to support
 __label__support i don't know what to do i need support
 __label__support please connect me to tech support
@@ -477,10 +558,8 @@ __label__support please help me fix this
 __label__support i need help with a tech problem
 __label__support where can i send an email or call for customer support?
 __label__support where can i send my questions about a product?
-__label__support how can we contact technical support?
 __label__support hello, send a technician
 __label__support hello, i need technical support
-__label__support what is the technical support email?
 __label__support i need tech support
 __label__support support, get me in touch with them
 __label__support tech support, how do I reach them?
@@ -491,7 +570,6 @@ __label__support could you please put me in touch with support?
 __label__support i need support
 __label__support customer service, what is their email?
 __label__support hello, i need support
-__label__support what are the technical support work hours?
 __label__support who do i call for support?
 __label__support who can help me?
 __label__support get me in contact with tech support
@@ -501,7 +579,6 @@ __label__support hello, i need technical help from someone
 __label__support i don't know what to do i need technical support
 __label__support please get me in touch with tech support
 __label__support when does technical support work?
-__label__support how can we contact support?
 
 __label__insurance who is my health insurance provider?
 __label__insurance health benefits
@@ -551,7 +628,6 @@ __label__insurance hello, i would like to know about company's insurance
 __label__insurance health coverage
 __label__insurance health insurance open enrollment
 __label__insurance how do i enroll for insurance?
-__label__insurance health insurance, tell me about my coverage
 __label__insurance do i get insurance?
 __label__insurance who issues my insurance?
 __label__insurance when is the open enrollment period?
@@ -613,7 +689,6 @@ __label__name what is your surname?
 __label__name tell me what your true identity is
 __label__name you're?
 __label__name what do your friends call you?
-__label__name do you have a name?
 __label__name tell me about yourself
 __label__name what are you?
 __label__name report your name solider
@@ -690,7 +765,6 @@ __label__name please tell what name do you have
 __label__name give me your id please
 __label__name please tell me how do i call you
 __label__name introduce yourself to me
-__label__name i do not remember who you are
 __label__name please tell me how do they call you
 __label__name i want to know what is your name
 __label__name i don't know who you are!
@@ -698,7 +772,6 @@ __label__name what is your identity
 __label__name provide me with your id please
 __label__name personal information?
 __label__name do i know who you are
-__label__name what should we call you?
 __label__name i am new here, what is your name
 __label__name what is your identification number
 __label__name what is your name?
@@ -900,7 +973,6 @@ __label__bot so you are a bot, what can you do for me
 __label__bot i am not skilled as you
 __label__bot is there something that makes you cool from the rest
 __label__bot tell me what your career is as a bot
-__label__bot what do you do?
 __label__bot provide me help
 __label__bot i am having trouble with this, can a bot help me
 __label__bot so what is you cool about you
@@ -1101,7 +1173,6 @@ __label__halloween what is halloween?
 __label__halloween did you buy any makeup for halloween
 __label__halloween do you have a special costume for halloween?
 __label__halloween what monster are you for halloween?
-__label__halloween do you have a special costume for halloween?
 __label__halloween when does halloween happen?
 __label__halloween did you go shopping for your halloween costume?
 __label__halloween what's your costume?
@@ -1159,7 +1230,6 @@ __label__changegear cg information
 __label__changegear is changegear better for my workers
 __label__changegear how would you define changegear?
 __label__changegear if i use cg, will i grow
-__label__changegear tell me everything about cg
 __label__changegear is it easy for a new user to learn about changegear
 __label__changegear is cg a good thing?
 __label__changegear can change gear help me?
@@ -1242,7 +1312,6 @@ __label__sst Do you offer different packages for smart service technology?
 __label__sst service smart advantages
 __label__sst how is smart service tech revolutionary?
 __label__sst why is service smart tech good?
-__label__sst service smart technology
 __label__sst what can you tell me about service smart tech?
 __label__sst service smart tech help
 __label__sst do you know about service smart tech?
@@ -1303,7 +1372,6 @@ __label__sst what can you say about service smart?
 __label__sst how will service smart tech help my company?
 __label__sst what can you tell me about service smart technology?
 __label__sst do you know about service smart?
-__label__sst how will service smart tech help my company?
 __label__sst give me information on service smart tech
 __label__sst hi, i need help understand smart service technology
 __label__sst I need more information about sst in order to make a decision
@@ -1326,7 +1394,6 @@ __label__computer how can i fix my laptop?
 __label__computer laptop crashed
 __label__computer what causes crashes?
 __label__computer fatal error
-__label__computer windows crashed
 __label__computer windows is failing
 __label__computer PC keeps freezing on me
 __label__computer is there a guide to fixing computer errors
@@ -1376,13 +1443,11 @@ __label__computer what could be crashing my laptop?
 __label__computer laptop froze
 __label__computer pc crashed
 __label__computer cpu stopped working
-__label__computer windows error
 __label__computer laptop shows an error
 __label__computer PC error
 __label__computer blue screen of death
 __label__computer fatal crash
 __label__computer why is my screen frozen?
-__label__computer pc error
 __label__computer how can i fix my cpu?
 __label__computer my screen froze
 __label__computer pc froze
@@ -1390,7 +1455,6 @@ __label__computer why do i see this error message?
 __label__computer windows is not working
 __label__computer notebook error during startup
 __label__computer crash
-__label__computer blue screen of death
 __label__computer why does my computer keep displaying error messages
 __label__computer computer does not load my programs
 __label__computer computer rebooted itself
@@ -1446,7 +1510,6 @@ __label__password passcode help
 __label__password how can i reset my password?
 __label__password password recovery
 __label__password passcode recovery
-__label__password i can't remember my passphrase
 __label__password need a new passphrase
 __label__password delete my old password
 __label__password how can i reset my passphrase?
@@ -1485,10 +1548,8 @@ __label__password help me with my passphrase
 __label__password need a new password
 __label__password i need to change my passphrase
 __label__password i do not know what is my account password
-__label__password how can i change my passphrase?
 __label__password please reset my passcode
 __label__password please reset my passphrase
-__label__password i can't remember my password
 __label__password change passphrase
 __label__password need a new passcode
 __label__password windows won't let me log in
@@ -1499,7 +1560,6 @@ __label__password can you reset my password for me please
 __label__password where can i set a password for my account
 __label__password password recovery process
 __label__password i can't log in
-__label__password how can i change my password?
 __label__password recover passcode
 __label__password passcode won't work
 __label__password i forgot my passcode
@@ -1508,13 +1568,11 @@ __label__password i need help logging in
 __label__password what is my password?
 __label__password password won't work
 __label__password do i need to provide any information to set a new password
-__label__password i can't remember my passcode
-__label__password how can i change my passcode?
 __label__password i need to change my password
 __label__password how can i recover my passcode?
 __label__password what is my passphrase?
 __label__password reset my passcode
-__label__password what was my password again? I think i forgot it 
+__label__password what was my password again? i think i forgot it
 
 __label__speed pc is not fast enough
 __label__speed i need help with my computer's performance
@@ -1616,7 +1674,6 @@ __label__speed improve speeds on my desktop
 __label__speed increasing laptop speed
 __label__speed how can i make my computer faster?
 __label__speed i need help with my laptop's performance
-__label__speed computer is soooo slow
 
 __label__printer i need help with my inkjet
 __label__printer inkjet won't work
@@ -1664,7 +1721,6 @@ __label__printer printer offline
 __label__printer printer is not printing the correct set of papers
 __label__printer how to setup a printer?
 __label__printer my inkjet is giving my trouble
-__label__printer what is wrong with my printer?
 __label__printer why is my printer not working?
 __label__printer broken inkjet
 __label__printer there is something wrong with my printer
@@ -1694,7 +1750,6 @@ __label__printer inkjet failure
 __label__printer common problems with printer
 __label__printer inkjet setup
 __label__printer printer prints backwards
-__label__printer what is wrong with my inkjet?
 __label__printer my printer is giving my issues
 __label__printer fixing a printer
 __label__printer printer is not responding
@@ -1712,13 +1767,12 @@ __label__printer how to change paper size in printer
 __label__printer inkjet help
 __label__printer error messages when printing documents
 __label__printer where are the settings for my printer
-__label__printer printer configuration
 __label__printer i am experiencing problems printing only specific number of pages
 __label__printer printer issue
 __label__printer my printer does not print in color
 __label__printer inkjet configuration
 __label__printer there is a problem with my inkjet
-__label__printer I need help troubleshooting my printer 
+__label__printer I need help troubleshooting my printer
 
 __label__internet internet is slow during online gaming
 __label__internet internet access
@@ -1803,24 +1857,21 @@ __label__internet what is wrong with my internet?
 __label__internet no internet connection
 __label__internet why can't i access the web?
 __label__internet what is wrong with my connection?
-__label__internet web troubleshooting
 __label__internet browser not connecting
 __label__internet wi-fi error
 __label__internet network troubleshooting
 __label__internet what is wrong with the web connection?
 __label__internet wi-fi is not connected
-__label__internet network troubleshooting
 __label__internet how to setup wi-fi for internet connection
 __label__internet how to fix slow connection?
 __label__internet web browser not connecting
 __label__internet why can't i connect to the web?
-__label__internet internet error
 __label__internet sharing internet connection
 __label__internet i need faster connection
 __label__internet internet troubleshooting
 __label__internet why can't i connect to the internet?
 __label__internet how to fix slow internet?
-__label__internet need to throubleshoot my internet please 
+__label__internet need to troubleshoot my internet please
 
 __label__files lost file
 __label__files how can i restore a deleted folder?
@@ -1843,10 +1894,8 @@ __label__files recover deleted folder
 __label__files i deleted a folder by mistake
 __label__files accidentally deleted folder
 __label__files deleted file recovery
-__label__files deleted file recovery
 __label__files i have accidentally deleted a file
 __label__files can a deleted file be recovered?
-__label__files how can i restore a deleted folder?
 __label__files help recover deleted file
 __label__files mistakenly deleted a file
 __label__files deleted folder restoration
@@ -1865,7 +1914,6 @@ __label__files deleted folder by accident
 __label__files retrieve deleted folder
 __label__files file recovery
 __label__files can i recover a lost file
-__label__files deleted folder recovery
 __label__files help restore lost folder
 __label__files could you help me recover a file?
 __label__files where is my lost folder?
@@ -1913,7 +1961,6 @@ __label__files i need help restoring a folder
 __label__files where is my lost file?
 __label__files where can i find a deleted folder?
 __label__files recover file
-__label__files how can i restore a deleted file?
 __label__files how can i recover a deleted folder?
 __label__files can you help me undelete a file?
 __label__files deleted file restoration
@@ -1956,7 +2003,6 @@ __label__network wi-fi password
 __label__network get access to wifi network
 __label__network wireless password
 __label__network network access
-__label__network wireless network password
 __label__network connect phone to guest wifi
 __label__network how to get access to guest wifi
 __label__network connect tablet to guest wireless network
@@ -1988,7 +2034,6 @@ __label__network wireless network connection help
 __label__network connect to guest wifi
 __label__network get guest wifi access
 __label__network how to connect to guest wireless network
-__label__network where can i find the wifi network password?
 __label__network help accessing guest network
 __label__network guest wireless network
 __label__network wifi access
@@ -2034,7 +2079,6 @@ __label__website accessing a blocked url
 __label__website open blocked website
 __label__website why is this url blocked?
 __label__website how to request access to blocked url
-__label__website how to unblock website
 __label__website how to request access to blocked siteh
 __label__website cannot access a url
 __label__website what can i do to access a blocked site?
@@ -2076,19 +2120,14 @@ __label__website how to access blocked url
 __label__website unblock site
 __label__website unblock website
 __label__website how to request access to blocked site
-__label__website how to request access to blocked url
 __label__website how to request access to blocked website
-__label__website how to request access to blocked link
 __label__website help unblocking site
 __label__website help unblocking url
 __label__website get past blocked url
-__label__website help unblocking site
 __label__website how to gain access to a blocked link
 __label__website reach blocked website
 __label__website how can i access a blocked url?
-__label__website how to access blocked url
 __label__website reach blocked link
-__label__website how to access blocked link
 __label__website i need to unblock a link
 __label__website reach blocked url
 __label__website i need access to a blocked url
@@ -2101,8 +2140,6 @@ __label__website i need to access a blocked site
 __label__website unblock url
 __label__website how can i unblock a site?
 __label__website blocked url help
-__label__website how to unblock url
-__label__website unblock website
 __label__website cannot access a website
 __label__website how can i unblock a url?
 __label__website open blocked site
@@ -2111,18 +2148,12 @@ __label__website blocked website troubleshooting
 __label__website how can i unblock a website?
 __label__website how to unblock link
 __label__website accessing a blocked site
-__label__website unblock site
-__label__website how can i unblock a url?
 __label__website get past blocked website
 __label__website request access to blocked url
 __label__website i need help to access a blocked website
-__label__website how to access blocked site
-__label__website get past blocked url
 __label__website how can i access a blocked link?
-__label__website how to request access to blocked website
 __label__website unblock link
 __label__website access blocked link
-__label__website why is this url blocked?
 __label__website i need to access a blocked website
 __label__website what can i do to access a blocked url?
 __label__website i need access to a blocked site
@@ -2209,18 +2240,7 @@ __label__voicemail how can i reset my voice mail password?
 __label__voicemail can you reset my voicemail password
 __label__voicemail what is my voicemail password
 __label__voicemail i need to change my voicemail password
-__label__voicemail voicemail password change
-__label__voicemail voicemail troubleshooting
-__label__voicemail voicemail password troubleshooting
-__label__voicemail voicemail access denied
-__label__voicemail i need help with my voicemail password
 __label__voicemail voicemail password is not working
-__label__voicemail wrong voicemail password
-__label__voicemail help login in to voicemail
-__label__voicemail resetting voicemail
-__label__voicemail resetting voicemail password
-__label__voicemail resetting voicemail log in information
-__label__voicemail changing voicemail log in information
 
 __label__email how to configure inbox
 __label__email why can't i send any emails?
@@ -2255,7 +2275,6 @@ __label__email setup email
 __label__email inbox configuration
 __label__email what is the email server name?
 __label__email inbox troubleshooting
-__label__email i am not getting any emails
 __label__email help me configure my email
 __label__email help with email
 __label__email email server info
@@ -2270,7 +2289,6 @@ __label__email how to configure email
 __label__email where do i configure email?
 __label__email i am having trouble with email
 __label__email help me configure my inbox
-__label__email is the email server down?
 __label__email my inbox is not refreshing
 __label__email where do i configure inbox?
 __label__email help me connect to email
@@ -2294,7 +2312,6 @@ __label__email how do i know if the email server is down?
 __label__email i need help with email setup
 __label__email how can i setup my email?
 __label__email inbox account setup
-__label__email i need to setup my email
 __label__email email troubleshooting
 __label__email how can i configure my email?
 __label__email my email is down, is there a problem with the servers?
@@ -2313,7 +2330,6 @@ __label__email is my inbox down?
 __label__email i am having trouble with my email
 __label__email can i check the status of my inbox?
 __label__email is e-mail broken?
-__label__email how do i configure my email?
 __label__email can't connect to email
 __label__email setup inbox
 __label__email inbox server info
@@ -2342,7 +2358,6 @@ __label__remote mobile device access policy
 __label__remote help with vpn
 __label__remote how can i access my virtual private network?
 __label__remote virtual private network access policy
-__label__remote how can i configure my vpn?
 __label__remote laptop access policy
 __label__remote setup my mobile device for network access
 __label__remote remote access tablet
@@ -2361,10 +2376,7 @@ __label__remote access policy virtual private network
 __label__remote where do i setup my virtual private network?
 __label__remote i need help accessing the virtual private network
 __label__remote setup my iphone vpn
-__label__remote remote access vpn
 __label__remote vpn troubleshooting
-__label__remote vpn access policy
-__label__remote remote access virtual private network
 __label__remote how can i access the network remotely?
 __label__remote virtual private network remote access
 __label__remote i need help accessing the vpn
@@ -2410,7 +2422,6 @@ __label__remote remote access phone
 __label__remote virtual private network access policy laptop
 __label__remote i need help with remote network access
 __label__remote setup my iphone for network access
-__label__remote virtual private network access policy
 __label__remote help me access the virtual private network
 __label__remote i need to setup my remote network access
 __label__remote how can i setup my pc to access the network remotely?
