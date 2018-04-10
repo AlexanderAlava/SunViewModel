@@ -1310,6 +1310,7 @@ __label__sst I need more information about sst in order to make a decision
 __label__sst what are the benefits of service smart?
 __label__sst hello, can you tell me more information about sst?
 __label__sst what is service smart technology?
+__label__sst tell me more about this so called service smart technology?
 
 __label__computer computer stopped working
 __label__computer my pc is not working
@@ -1411,6 +1412,7 @@ __label__computer cpu is not responding
 __label__computer computer is not working the way it usually does, please help
 __label__computer my personal computer died this morning
 __label__computer why does my pc keep encountering a fatal error during startup?
+__label__computer computer does not want to power on
 
 __label__password what is my passcode?
 __label__password lost passphrase
@@ -1512,6 +1514,7 @@ __label__password i need to change my password
 __label__password how can i recover my passcode?
 __label__password what is my passphrase?
 __label__password reset my passcode
+__label__password what was my password again? I think i forgot it 
 
 __label__speed pc is not fast enough
 __label__speed i need help with my computer's performance
@@ -1613,6 +1616,7 @@ __label__speed improve speeds on my desktop
 __label__speed increasing laptop speed
 __label__speed how can i make my computer faster?
 __label__speed i need help with my laptop's performance
+__label__speed computer is soooo slow
 
 __label__printer i need help with my inkjet
 __label__printer inkjet won't work
@@ -1714,6 +1718,7 @@ __label__printer printer issue
 __label__printer my printer does not print in color
 __label__printer inkjet configuration
 __label__printer there is a problem with my inkjet
+__label__printer I need help troubleshooting my printer 
 
 __label__internet internet is slow during online gaming
 __label__internet internet access
@@ -1815,6 +1820,7 @@ __label__internet i need faster connection
 __label__internet internet troubleshooting
 __label__internet why can't i connect to the internet?
 __label__internet how to fix slow internet?
+__label__internet need to throubleshoot my internet please 
 
 __label__files lost file
 __label__files how can i restore a deleted folder?
