@@ -1,507 +1,505 @@
-__label__non-tech hello
-__label__non-tech howdy
-__label__non-tech hola
-__label__non-tech holla
-__label__non-tech hello
-__label__non-tech hiya
-__label__non-tech greetings
-__label__non-tech sup
-__label__non-tech s'up
-__label__non-tech hello
-__label__non-tech howdy
-__label__non-tech hola
-__label__non-tech holla
-__label__non-tech hello
-__label__non-tech hiya
-__label__non-tech greetings
-__label__non-tech how are you doing?
-__label__non-tech how you doing?
-__label__non-tech hey there
-__label__non-tech hello sir
-__label__non-tech wassup
-__label__non-tech hi
-__label__non-tech hey
-__label__non-tech doing okay?
-__label__non-tech hey man
-__label__non-tech hey lady
+__label__non-tech hi there bot!
+__label__non-tech hey, good evening
+__label__non-tech ey there
 __label__non-tech sup dude
-__label__non-tech hello dude
-__label__non-tech hello dear sir
-__label__non-tech are you doing okay today?
-__label__non-tech hi there
-__label__non-tech hello, how are you doin
-__label__non-tech hey, how are you doin?
-__label__non-tech how are you doing today?
-__label__non-tech hello there, can you tell me how are you doing today?
-__label__non-tech good afternoon
-__label__non-tech good morning
-__label__non-tech good evening
-__label__non-tech good morning sir
-__label__non-tech good evening sir
-__label__non-tech good afternoon sir
-__label__non-tech good morning, how are you doing?
-__label__non-tech good evening, how are you doing?
-__label__non-tech good afternoon, how are you doing?
-__label__non-tech morning!
-__label__non-tech afternoon!
 __label__non-tech evening!
 __label__non-tech how are you doing this morning?
-__label__non-tech how are you doing this afternoon?
-__label__non-tech how are you doing this evening?
-__label__non-tech hello there, good morning
-__label__non-tech hello there, good afternoon
-__label__non-tech hello there, good evening
-__label__non-tech hi there, good morning
-__label__non-tech hi there, good afternoon
-__label__non-tech hi there, good evening
-__label__non-tech hello, how is your morning going?
-__label__non-tech hello, how is your afternoon going?
-__label__non-tech hello, how is your evening going?
-__label__non-tech hey, good morning
-__label__non-tech hey! good morning!
-__label__non-tech hey, good afternoon
-__label__non-tech hey! good afternoon!
-__label__non-tech hey, good evening
-__label__non-tech hey! good evening!
-__label__non-tech howdy cowboy
-__label__non-tech hola amigo
-__label__non-tech hey there bot!
-__label__non-tech hi there bot!
-__label__non-tech hello there bot!
-__label__non-tech how are you doing bot?
-__label__non-tech how are you doing today bot?
-__label__non-tech hey there
-__label__non-tech yo
 __label__non-tech ey
-__label__non-tech what's up?
-__label__non-tech ey there
-__label__non-tech mornin'
-__label__non-tech evenin'
-__label__non-tech how are you today?
-__label__non-tech how are you this fine day?
-__label__non-tech how are you this fine morning?
-__label__non-tech how are you this fine afternoon?
-__label__non-tech how are you this fine evening?
 __label__non-tech how do you do?
-__label__non-tech salutations
 __label__non-tech hello me, meet the real me
-__label__non-tech good day
-__label__non-tech hey man
-__label__non-tech good to see you
+__label__non-tech howdy
+__label__non-tech good evening, how are you doing?
+__label__non-tech greetings
+__label__non-tech hiya
+__label__non-tech what's up?
+__label__non-tech salutations
+__label__non-tech hey, good afternoon
+__label__non-tech hey there
+__label__non-tech hi
+__label__non-tech holla
+__label__non-tech morning!
+__label__non-tech how are you this fine morning?
+__label__non-tech hey, good morning
+__label__non-tech yo
+__label__non-tech hello there, good morning
 __label__non-tech it's a pleasure to meet you
-__label__non-tech heya
-__label__non-tech hello hello
-__label__non-tech hi hi
-__label__non-tech ey man
+__label__non-tech hey! good evening!
+__label__non-tech good morning sir
 __label__non-tech what's up my guy
+__label__non-tech good morning, how are you doing?
+__label__non-tech how are you doing bot?
+__label__non-tech howdy cowboy
+__label__non-tech how are you doing this afternoon?
+__label__non-tech good afternoon, how are you doing?
+__label__non-tech hey! good morning!
+__label__non-tech how are you doing?
+__label__non-tech hello, how is your morning going?
+__label__non-tech hi there, good evening
+__label__non-tech hello
+__label__non-tech heya
+__label__non-tech hola amigo
+__label__non-tech evenin'
+__label__non-tech are you doing okay today?
+__label__non-tech s'up
+__label__non-tech hello sir
+__label__non-tech hello hello
+__label__non-tech hi there, good morning
+__label__non-tech hello, how is your evening going?
+__label__non-tech hey, how are you doin?
+__label__non-tech howdy
+__label__non-tech how are you doing today bot?
+__label__non-tech afternoon!
+__label__non-tech good morning
+__label__non-tech good afternoon
+__label__non-tech how are you doing today?
+__label__non-tech hey lady
+__label__non-tech hello dude
+__label__non-tech mornin'
+__label__non-tech ey man
+__label__non-tech greetings
+__label__non-tech how are you today?
+__label__non-tech hola
+__label__non-tech good to see you
+__label__non-tech hi there
+__label__non-tech hey there bot!
+__label__non-tech hiya
+__label__non-tech hi there, good afternoon
+__label__non-tech hello, how are you doin
+__label__non-tech hello
+__label__non-tech good afternoon sir
+__label__non-tech good day
+__label__non-tech how are you this fine day?
+__label__non-tech hey man
+__label__non-tech hi hi
+__label__non-tech doing okay?
+__label__non-tech wassup
+__label__non-tech hey
+__label__non-tech hello
+__label__non-tech good evening
+__label__non-tech hey there
+__label__non-tech hey! good afternoon!
+__label__non-tech hello dear sir
+__label__non-tech hola
+__label__non-tech good evening sir
+__label__non-tech hello, how is your afternoon going?
+__label__non-tech hello
+__label__non-tech how you doing?
+__label__non-tech hello there, good afternoon
+__label__non-tech how are you doing this evening?
+__label__non-tech hello there, can you tell me how are you doing today?
+__label__non-tech holla
+__label__non-tech how are you this fine afternoon?
 __label__non-tech what's up my dude
+__label__non-tech hello there bot!
+__label__non-tech hey man
+__label__non-tech sup
+__label__non-tech hello there, good evening
+__label__non-tech how are you this fine evening?
 
-__label__non-tech holidays this year
-__label__non-tech holiday schedule
-__label__non-tech company holidays this year
-__label__non-tech company holiday schedule
-__label__non-tech corporate holidays this year
-__label__non-tech corporate holiday schedule
-__label__non-tech show me a list of holidays
-__label__non-tech show me a list of company holidays
-__label__non-tech show me a list of corporate holidays
-__label__non-tech show me the company holidays
-__label__non-tech show me the corporate holidays
-__label__non-tech what’s the holiday calendar this year?
+__label__non-tech show me vacations!
 __label__non-tech what is the company holiday schedule?
-__label__non-tech what is the corporate holiday schedule?
-__label__non-tech can you give me a list of this year’s holidays?
-__label__non-tech can you show me today’s calendar with holidays?
+__label__non-tech company holidays this year
 __label__non-tech what are our days off?
-__label__non-tech what are my days off?
-__label__non-tech when do we get off?
-__label__non-tech when do i get off?
-__label__non-tech what days do we get off this year?
-__label__non-tech what days do i get off this year?
-__label__non-tech what days do we get off?
+__label__non-tech please tell me my paid days off
+__label__non-tech can you give me a list of this year’s holidays?
+__label__non-tech look up when I have time off
+__label__non-tech when do i go off to vacation?
 __label__non-tech what days do i get off?
-__label__non-tech what holidays do we get off?
-__label__non-tech what holidays do i get off?
-__label__non-tech when don't i have to be here?
-__label__non-tech when don't we have to be here?
-__label__non-tech why don't we get more holidays?
-__label__non-tech what are the paid holidays?
-__label__non-tech do we get christmas day off?
-__label__non-tech do we get off for halloween?
-__label__non-tech is ground hog’s day a holiday?
-__label__non-tech is groundhog day a holiday?
-__label__non-tech is memorial day a holiday?
+__label__non-tech show me the corporate holidays
+__label__non-tech what days do we get off?
+__label__non-tech what days are holidays?
 __label__non-tech is veteran's day a holiday?
-__label__non-tech is veteran day a holiday?
-__label__non-tech is july 4 a holiday?
-__label__non-tech is july fourth a holiday?
-__label__non-tech is july 4th a holiday?
+__label__non-tech is ground hog’s day a holiday?
+__label__non-tech how much paid time off do I have this year?
+__label__non-tech show me when I have days off
 __label__non-tech are we off on the 4th of july?
 __label__non-tech are we off on the fourth of july?
-__label__non-tech do we get off on the fourth of july?
-__label__non-tech what are the company paid holidays?
-__label__non-tech is memorial day a paid holiday?
-__label__non-tech how many paid holidays do we have this year?
-__label__non-tech how many days off do we have this year?
-__label__non-tech holidays
-__label__non-tech vacations
-__label__non-tech vacation this year
-__label__non-tech company holidays
-__label__non-tech time off
-__label__non-tech resting time
-__label__non-tech paid vacation
-__label__non-tech is the lunar new year a holiday?
-__label__non-tech is donut day a holiday?
-__label__non-tech is my birthday a holiday?
-__label__non-tech days off
-__label__non-tech free days
-__label__non-tech vacation days
-__label__non-tech when do i go off to vacation?
-__label__non-tech what days are holidays?
-__label__non-tech show me vacations!
-__label__non-tech hello, i want to know about vacations
-__label__non-tech hello, what are my vacations?
-__label__non-tech could i please know what are the holidays?
-__label__non-tech tell me holidays
-__label__non-tech explain holidays
-__label__non-tech tell me vacations
-__label__non-tech explain vacations
-__label__non-tech when do i get a break from work?
-__label__non-tech when do i get free from work?
-__label__non-tech free
-__label__non-tech break
-__label__non-tech hello, when do i get to rest?
-__label__non-tech time off, when do I have it?
-__label__non-tech time off, when is it?
-__label__non-tech vacation, when do I have it?
-__label__non-tech vacation, when is it?
-__label__non-tech vacation days, when are they?
-__label__non-tech vacation days, when do I have them?
-__label__non-tech when are my days off?
-__label__non-tech what are my vacation days this year?
-__label__non-tech look up my days off
-__label__non-tech look up when I have time off
-__label__non-tech look up when I have days off
-__label__non-tech show me when I have time off
-__label__non-tech show me when I have days off
-__label__non-tech what are my paid holidays this year?
-__label__non-tech what are my paid vacation days this year?
-__label__non-tech please tell me my paid vacation days
-__label__non-tech please tell me my paid time off this year
+__label__non-tech is july 4th a holiday?
 __label__non-tech please tell me my paid days off this year
-__label__non-tech please tell me my paid days off
-__label__non-tech what are the days I have off this year?
+__label__non-tech when do i get off?
+__label__non-tech time off
+__label__non-tech is donut day a holiday?
+__label__non-tech holiday schedule
+__label__non-tech what holidays do i get off?
+__label__non-tech explain vacations
+__label__non-tech time off, when do I have it?
+__label__non-tech what holidays do we get off?
+__label__non-tech is july fourth a holiday?
+__label__non-tech vacation days, when do I have them?
+__label__non-tech is veteran day a holiday?
+__label__non-tech what are the company paid holidays?
+__label__non-tech please tell me my paid vacation days
+__label__non-tech when do i get free from work?
+__label__non-tech vacation days
+__label__non-tech what is the corporate holiday schedule?
+__label__non-tech show me a list of corporate holidays
+__label__non-tech is the lunar new year a holiday?
+__label__non-tech what’s the holiday calendar this year?
+__label__non-tech when don't i have to be here?
+__label__non-tech do we get off on the fourth of july?
+__label__non-tech free days
 __label__non-tech what are my paid holidays this year?
-__label__non-tech how many days do I have off this year?
+__label__non-tech vacation days, when are they?
+__label__non-tech hello, i want to know about vacations
+__label__non-tech holidays this year
+__label__non-tech when are my days off?
+__label__non-tech tell me holidays
+__label__non-tech when don't we have to be here?
+__label__non-tech vacations
+__label__non-tech is memorial day a paid holiday?
+__label__non-tech look up my days off
+__label__non-tech corporate holiday schedule
+__label__non-tech is memorial day a holiday?
+__label__non-tech vacation, when do I have it?
+__label__non-tech break
+__label__non-tech company holiday schedule
+__label__non-tech what are my paid holidays this year?
+__label__non-tech company holidays
+__label__non-tech what are my paid vacation days this year?
+__label__non-tech show me a list of holidays
+__label__non-tech why don't we get more holidays?
+__label__non-tech time off, when is it?
+__label__non-tech could i please know what are the holidays?
+__label__non-tech what days do we get off this year?
+__label__non-tech can you show me today’s calendar with holidays?
+__label__non-tech do we get christmas day off?
+__label__non-tech what are my days off?
+__label__non-tech is groundhog day a holiday?
+__label__non-tech how many days off do we have this year?
+__label__non-tech what are my vacation days this year?
+__label__non-tech show me a list of company holidays
+__label__non-tech holidays
+__label__non-tech do we get off for halloween?
+__label__non-tech vacation this year
+__label__non-tech when do i get a break from work?
+__label__non-tech tell me vacations
+__label__non-tech how many paid holidays do we have this year?
 __label__non-tech how many paid holidays do I have off this year?
-__label__non-tech how much paid time off do I have this year?
-__label__non-tech i need help with learning more about my holidays
+__label__non-tech please tell me my paid time off this year
+__label__non-tech free
+__label__non-tech what days do i get off this year?
+__label__non-tech what are the days I have off this year?
+__label__non-tech look up when I have days off
+__label__non-tech how many days do I have off this year?
+__label__non-tech resting time
+__label__non-tech explain holidays
+__label__non-tech is my birthday a holiday?
+__label__non-tech show me the company holidays
+__label__non-tech is july 4 a holiday?
+__label__non-tech corporate holidays this year
+__label__non-tech when do we get off?
+__label__non-tech days off
+__label__non-tech hello, when do i get to rest?
+__label__non-tech what are the paid holidays?
+__label__non-tech hello, what are my vacations?
+__label__non-tech show me when I have time off
+__label__non-tech vacation, when is it?
+__label__non-tech paid vacation
 
-
-__label__non-tech what is sunview's corporate contact information?
-__label__non-tech what is sunview software's corporate contact information?
-__label__non-tech how can i reach sunview software?
-__label__non-tech how can i reach sunview?
-__label__non-tech what is sunview software's phone number?
-__label__non-tech what is sunview's phone number?
-__label__non-tech how can i get ahold of sunview?
-__label__non-tech how can i get a hold of sunview?
-__label__non-tech how can i get ahold of sunview software?
-__label__non-tech how can i get a hold of sunview software?
-__label__non-tech what is sunview's contact info?
-__label__non-tech what is sunview software's contact info?
-__label__non-tech how do we contact sunview?
-__label__non-tech how do we contact sunview software?
-__label__non-tech what is the best way to contact sunview?
-__label__non-tech what is the best way to contact sunview software?
-__label__non-tech where can i find sunview's corporate contact information?
-__label__non-tech where can i find sunview software's corporate contact information?
-__label__non-tech what is the easiest way to contact sunview?
-__label__non-tech what is the easiest way to contact sunview software?
-__label__non-tech how can i find sunview's contact information in your website?
-__label__non-tech how can i find sunview software's contact information in your website?
-__label__non-tech what is sunview's e-mail address?
-__label__non-tech what is sunview software's e-mail address?
-__label__non-tech what is sunview's address?
-__label__non-tech what is sunview software's address?
-__label__non-tech what is sunview's web address?
-__label__non-tech what is sunview software's web address?
-__label__non-tech what is sunview's web site?
-__label__non-tech what is sunview software's web site?
-__label__non-tech sunview contact information
-__label__non-tech sunview information
-__label__non-tech how do i contact sunview software
-__label__non-tech what is sunview's phone number?
-__label__non-tech contact information for sunview software
-__label__non-tech where is sunview software?
-__label__non-tech address of sunview software
-__label__non-tech location of sunview software
-__label__non-tech please communicate me with sunview software
-__label__non-tech i would like to talk to sunview software
-__label__non-tech contact sunview
-__label__non-tech can i have the url for sunview software?
-__label__non-tech i want to speak to sunview
-__label__non-tech connect me with sunview!
-__label__non-tech how do i reach sunview software?
-__label__non-tech tell me about sunview
-__label__non-tech tell me about sun view
-__label__non-tech tell me about sunview software
-__label__non-tech tell me about sun view software
-__label__non-tech hello, i want to know more about sunview
-__label__non-tech hello, i want to know more about sunview software
-__label__non-tech hello, i want to know more about sun view
-__label__non-tech hello, i want to know more about sun view software
-__label__non-tech hello, i want to know more about sunview software company
-__label__non-tech hello, i want to know more about sun view software company
-__label__non-tech hello, please tell me about sunview
-__label__non-tech hello, please tell me about sun view
-__label__non-tech hello, please tell me about sunview software
-__label__non-tech hello, please tell me about sun view software
-__label__non-tech hello, please tell me about sunview company
-__label__non-tech hello, please tell me about sun view company
-__label__non-tech hello, please tell me about sunview software company
-__label__non-tech hello, please tell me about sun view software company
-__label__non-tech sunview company
-__label__non-tech sun view company
-__label__non-tech sunview software company
-__label__non-tech sun view software company
-__label__non-tech sunview software
-__label__non-tech sun view software
-__label__non-tech take me to sunview software
-__label__non-tech what is sunview softare?
-__label__non-tech who created this bot?
-__label__non-tech who is the inventor of this bot?
-__label__non-tech who developed this system?
-__label__non-tech sunview software company information
-__label__non-tech how do I get in touch with sunview?
-__label__non-tech where can I contact sunview?
-__label__non-tech sunview, tell me about it
-__label__non-tech sunview software, tell me about it
-__label__non-tech what do you know about sunview software?
-__label__non-tech please connect me to sunview software
-__label__non-tech tell me what you know about sunview software
-__label__non-tech what does sunview software do?
-__label__non-tech sunview software, what do they do?
-__label__non-tech sunview, what do they do?
 __label__non-tech help me contact sunview software
+__label__non-tech location of sunview software
+__label__non-tech hello, please tell me about sun view
+__label__non-tech hello, i want to know more about sunview software company
+__label__non-tech how can i get ahold of sunview software?
+__label__non-tech i would like to talk to sunview software
+__label__non-tech i want to speak to sunview
+__label__non-tech what is sunview software's web site?
+__label__non-tech sun view company
+__label__non-tech tell me what you know about sunview software
+__label__non-tech sun view software company
+__label__non-tech hello, i want to know more about sun view software company
+__label__non-tech how can i get ahold of sunview?
+__label__non-tech tell me about sunview software
+__label__non-tech what does sunview software do?
+__label__non-tech hello, please tell me about sun view software company
+__label__non-tech what is sunview software's corporate contact information?
+__label__non-tech tell me about sun view
+__label__non-tech i would like to contact sunview software
+__label__non-tech address of sunview software
+__label__non-tech hello, i want to know more about sunview software
+__label__non-tech hello, i want to know more about sunview
+__label__non-tech hello, please tell me about sun view company
+__label__non-tech what is the best way to contact sunview?
+__label__non-tech hello, please tell me about sunview software
+__label__non-tech i would like to contact sunview
+__label__non-tech take me to sunview software
+__label__non-tech what do you know about sunview software?
+__label__non-tech where can i find sunview software's corporate contact information?
+__label__non-tech how can i get a hold of sunview software?
+__label__non-tech what is the best way to contact sunview software?
+__label__non-tech sunview software
 __label__non-tech where can i visit sunview software?
-__label__non-tech what is sunview software's website?
+__label__non-tech where can i find sunview's corporate contact information?
+__label__non-tech how do i contact sunview software
+__label__non-tech what is sunview's corporate contact information?
+__label__non-tech what is sunview software's web address?
+__label__non-tech hello, please tell me about sunview
+__label__non-tech where can I contact sunview?
+__label__non-tech sunview software company
+__label__non-tech what is sunview's web address?
+__label__non-tech what is sunview software's address?
+__label__non-tech tell me about sun view software
+__label__non-tech sunview software, what is their website?
+__label__non-tech inform me about sunview
+__label__non-tech sunview software, what do they do?
+__label__non-tech how do we contact sunview?
+__label__non-tech sunview, tell me about it
 __label__non-tech what is sunview's website?
 __label__non-tech help me contact sunview
-__label__non-tech help me contact sunview software
-__label__non-tech i would like to contact sunview
-__label__non-tech i would like to contact sunview software
-__label__non-tech inform me about sunview software
-__label__non-tech inform me about sunview
-__label__non-tech sunview software, what is their website?
-__label__non-tech sunview software, how do I contact them?
-__label__non-tech sunview software, what is their address?
+__label__non-tech how do i reach sunview software?
+__label__non-tech who created this bot?
+__label__non-tech please communicate me with sunview software
+__label__non-tech what is the easiest way to contact sunview software?
+__label__non-tech what is sunview's phone number?
+__label__non-tech what is sunview software's website?
+__label__non-tech tell me about sunview
+__label__non-tech what is sunview software's phone number?
+__label__non-tech what is sunview's phone number?
+__label__non-tech what is sunview's e-mail address?
+__label__non-tech sunview, what do they do?
+__label__non-tech what is sunview softare?
 __label__non-tech sunview software, where are they located?
+__label__non-tech sun view software
+__label__non-tech what is sunview software's contact info?
+__label__non-tech please connect me to sunview software
+__label__non-tech how can i get a hold of sunview?
+__label__non-tech help me contact sunview software
+__label__non-tech can i have the url for sunview software?
+__label__non-tech who is the inventor of this bot?
+__label__non-tech sunview software, tell me about it
+__label__non-tech how can i reach sunview?
+__label__non-tech who developed this system?
+__label__non-tech what is sunview's contact info?
+__label__non-tech inform me about sunview software
+__label__non-tech how can i reach sunview software?
+__label__non-tech sunview software company information
+__label__non-tech where is sunview software?
+__label__non-tech sunview information
+__label__non-tech sunview company
+__label__non-tech connect me with sunview!
+__label__non-tech hello, please tell me about sunview company
 __label__non-tech sunview software, what is their phone number?
+__label__non-tech sunview contact information
+__label__non-tech contact information for sunview software
+__label__non-tech hello, i want to know more about sun view software
+__label__non-tech what is sunview's web site?
+__label__non-tech how do we contact sunview software?
+__label__non-tech what is sunview's address?
+__label__non-tech what is sunview software's e-mail address?
+__label__non-tech hello, please tell me about sunview software company
+__label__non-tech hello, i want to know more about sun view
+__label__non-tech sunview software, how do I contact them?
+__label__non-tech how do I get in touch with sunview?
+__label__non-tech how can i find sunview software's contact information in your website?
+__label__non-tech how can i find sunview's contact information in your website?
+__label__non-tech hello, please tell me about sun view software
+__label__non-tech sunview software, what is their address?
+__label__non-tech what is the easiest way to contact sunview?
+__label__non-tech contact sunview
 
-__label__non-tech show me recent announcements
-__label__non-tech i want to see recent announcements
-__label__non-tech what are the recent announcements?
-__label__non-tech any announcements?
-__label__non-tech what is happening?
-__label__non-tech are there any recent announcements?
-__label__non-tech what are some of the recent announcements?
-__label__non-tech what are some recent announcements?
-__label__non-tech what’s new?
-__label__non-tech what is the state of things?
-__label__non-tech what is the latest news?
-__label__non-tech can you show me the most recent announcements?
-__label__non-tech can you show me some announcements?
-__label__non-tech is there anything new?
-__label__non-tech what's happening?
-__label__non-tech any new announcements?
-__label__non-tech something new?
-__label__non-tech anything new happened?
-__label__non-tech announcements
-__label__non-tech work news
-__label__non-tech announcements at work
-__label__non-tech what happened?
-__label__non-tech anything new?
-__label__non-tech what is going on right now?
-__label__non-tech can you please tell me the news?
-__label__non-tech please share new announcements with me
-__label__non-tech has something recent happened?
-__label__non-tech are there any recent announcements?
-__label__non-tech is there anything to be announced?
-__label__non-tech is there any announcement?
-__label__non-tech is there anything recent to be announced?
-__label__non-tech is there any recent announcement?
-__label__non-tech hello, are there any new announcements?
-__label__non-tech hey, are there any new announcements?
-__label__non-tech hi, are there any new announcements?
-__label__non-tech hello there, are there any new announcements?
-__label__non-tech hey there, are there any new announcements?
-__label__non-tech hi there, are there any new announcements?
-__label__non-tech hello, tell me the latest announcements
-__label__non-tech hey, tell me the latest announcements
-__label__non-tech hi, tell me the latest announcements
-__label__non-tech any recent news within the company?
-__label__non-tech any recent announcements within the company?
-__label__non-tech any announcements within the company?
-__label__non-tech any news within the company?
-__label__non-tech hello, could you please brief me on announcements?
-__label__non-tech hey, could you please brief me on announcements?
-__label__non-tech hi, could you please brief me on announcements?
-__label__non-tech i want to know the recent announcements
-__label__non-tech i want to know the most recent announcements
-__label__non-tech i want to know the company's news
-__label__non-tech i want to know the company's recent news
-__label__non-tech i want to know the company's most recent news
-__label__non-tech please, announcements
-__label__non-tech please, company news
-__label__non-tech please, news within the company
-__label__non-tech please, news about the company
-__label__non-tech hello, anything new going on today?
-__label__non-tech hey, anything new going on today?
-__label__non-tech hi, anything new going on today?
-__label__non-tech hi there, anything new going on today?
-__label__non-tech tell me announcements
-__label__non-tech tell me news related to the company
-__label__non-tech tell me the most recent announcements
-__label__non-tech tell me the latest announcements
-__label__non-tech latest announcements
-__label__non-tech most recent announcements
-__label__non-tech do me a favor and tell me the recent announcements
-__label__non-tech do me a favor and tell me the latest announcements
-__label__non-tech did the ceo announce anything today?
-__label__non-tech did the cto announce anything today?
-__label__non-tech did the cfo announce anything today?
 __label__non-tech did anyone from the company's leadership announce anything?
-__label__non-tech has management announced anything today?
-__label__non-tech has management announced anything recently?
 __label__non-tech has management announced anything lately?
-__label__non-tech has there been any news today?
-__label__non-tech has there been any news recently?
-__label__non-tech has there been any news lately?
-__label__non-tech announcements, show me them
-__label__non-tech recent announcements, show me them
-__label__non-tech announcements, tell me about them
-__label__non-tech recent announcements show me them
-__label__non-tech what are the most recent announcements?
-__label__non-tech have there been any statements recently?
-__label__non-tech have there been any statements lately?
-__label__non-tech were there any statements made today?
-__label__non-tech did the company make a statement today?
-__label__non-tech did the company make an announcement today?
-__label__non-tech did the company make a statement recently?
-__label__non-tech did the company make an announcement recently?
-__label__non-tech has the company made a statement lately?
-__label__non-tech has the company made an announcement lately?
-__label__non-tech what are the most recent announcements?
-__label__non-tech has anything happened lately?
-__label__non-tech has anything happened recently?
+__label__non-tech can you show me some announcements?
+__label__non-tech anything new?
+__label__non-tech hi, anything new going on today?
+__label__non-tech show me recent announcements
+__label__non-tech hi, could you please brief me on announcements?
+__label__non-tech any announcements within the company?
+__label__non-tech what are some recent announcements?
+__label__non-tech hi there, anything new going on today?
 __label__non-tech has anything happened today?
+__label__non-tech hi, are there any new announcements?
+__label__non-tech please, news about the company
+__label__non-tech has the company made a statement lately?
+__label__non-tech are there any recent announcements?
+__label__non-tech any new announcements?
+__label__non-tech please, announcements
+__label__non-tech has there been any news recently?
+__label__non-tech has something recent happened?
+__label__non-tech hey, anything new going on today?
+__label__non-tech announcements, show me them
+__label__non-tech what happened?
+__label__non-tech recent announcements show me them
+__label__non-tech has there been any news lately?
+__label__non-tech announcements at work
+__label__non-tech did the cfo announce anything today?
+__label__non-tech hi, tell me the latest announcements
+__label__non-tech has management announced anything recently?
+__label__non-tech have there been any statements lately?
 __label__non-tech were any announcements posted today?
 __label__non-tech were any announcements posted recently?
+__label__non-tech do me a favor and tell me the recent announcements
+__label__non-tech did the ceo announce anything today?
+__label__non-tech tell me the latest announcements
+__label__non-tech anything new happened?
+__label__non-tech i want to know the recent announcements
+__label__non-tech i want to know the company's news
+__label__non-tech do me a favor and tell me the latest announcements
+__label__non-tech something new?
+__label__non-tech has anything happened lately?
+__label__non-tech what’s new?
+__label__non-tech is there any recent announcement?
 __label__non-tech were any announcements posted lately?
+__label__non-tech please, news within the company
+__label__non-tech have there been any statements recently?
+__label__non-tech tell me the most recent announcements
+__label__non-tech hi there, are there any new announcements?
+__label__non-tech hey there, are there any new announcements?
+__label__non-tech is there anything to be announced?
+__label__non-tech can you please tell me the news?
+__label__non-tech were there any statements made today?
+__label__non-tech any announcements?
+__label__non-tech what is happening?
+__label__non-tech announcements, tell me about them
+__label__non-tech hey, are there any new announcements?
+__label__non-tech any news within the company?
+__label__non-tech is there anything new?
+__label__non-tech what are the recent announcements?
+__label__non-tech has there been any news today?
+__label__non-tech has management announced anything today?
+__label__non-tech i want to know the company's most recent news
+__label__non-tech recent announcements, show me them
+__label__non-tech hey, tell me the latest announcements
+__label__non-tech please share new announcements with me
+__label__non-tech did the company make a statement today?
+__label__non-tech did the company make an announcement recently?
+__label__non-tech are there any recent announcements?
+__label__non-tech any recent announcements within the company?
+__label__non-tech what are the most recent announcements?
+__label__non-tech i want to know the most recent announcements
+__label__non-tech what is going on right now?
+__label__non-tech hey, could you please brief me on announcements?
+__label__non-tech i want to see recent announcements
+__label__non-tech what's happening?
+__label__non-tech what is the latest news?
+__label__non-tech work news
+__label__non-tech is there anything recent to be announced?
+__label__non-tech what are the most recent announcements?
+__label__non-tech what is the state of things?
+__label__non-tech latest announcements
+__label__non-tech has anything happened recently?
+__label__non-tech hello, tell me the latest announcements
+__label__non-tech did the cto announce anything today?
+__label__non-tech has the company made an announcement lately?
+__label__non-tech please, company news
+__label__non-tech hello, anything new going on today?
+__label__non-tech any recent news within the company?
+__label__non-tech most recent announcements
+__label__non-tech hello, could you please brief me on announcements?
+__label__non-tech i want to know the company's recent news
+__label__non-tech tell me news related to the company
+__label__non-tech did the company make an announcement today?
+__label__non-tech can you show me the most recent announcements?
+__label__non-tech announcements
+__label__non-tech is there any announcement?
+__label__non-tech did the company make a statement recently?
+__label__non-tech hello there, are there any new announcements?
+__label__non-tech hello, are there any new announcements?
+__label__non-tech tell me announcements
+__label__non-tech what are some of the recent announcements?
 
-__label__non-tech what is support's email?
-__label__non-tech i need to contact support?
-__label__non-tech what is the support email?
-__label__non-tech how can we contact support?
-__label__non-tech what are the support work hours?
-__label__non-tech what is the support email?
-__label__non-tech how can we contact support?
-__label__non-tech what are the support work hours?
-__label__non-tech where can i send my questions about change gear product?
-__label__non-tech where can i send an email or call for customer support?
-__label__non-tech who do i call for support?
-__label__non-tech what is the support number?
-__label__non-tech how do i contact technical support?
-__label__non-tech what is technical support's email?
-__label__non-tech i need to contact technical support?
-__label__non-tech what is the technical support email?
-__label__non-tech how can we contact technical support?
-__label__non-tech what are the technical support work hours?
-__label__non-tech what is the technical support email?
-__label__non-tech how can we contact technical support?
-__label__non-tech what are the technical support work hours?
-__label__non-tech where can i send an email or call for technical support?
-__label__non-tech who do i call for technical support?
-__label__non-tech what is the technical support number?
-__label__non-tech i need help
-__label__non-tech can someone please help me?
-__label__non-tech help me!
-__label__non-tech i would like some help
-__label__non-tech i need to contact customer support
-__label__non-tech please help me fix this
-__label__non-tech i have questions
-__label__non-tech phone number for support
-__label__non-tech i need support
-__label__non-tech who can help me?
-__label__non-tech link me with customer support
-__label__non-tech when does technical support work?
-__label__non-tech can i talk to a technician?
-__label__non-tech where can i receive help?
-__label__non-tech where can i send my questions about a product?
-__label__non-tech i need to talk to support
-__label__non-tech i need to talk to technical support
-__label__non-tech could you please put me in touch with support?
-__label__non-tech could you please put me in touch with technical support?
-__label__non-tech put me in touch with support
-__label__non-tech put me in touch with technical support
-__label__non-tech take me to support
-__label__non-tech take me to technical support
-__label__non-tech i need support to help me
-__label__non-tech i need someone to help
-__label__non-tech i need help with something
+__label__non-tech i need tech support
 __label__non-tech i need help with something technical
-__label__non-tech i need a technician
-__label__non-tech please send a technician
-__label__non-tech hello, i need technical support
-__label__non-tech hello, send a technician
-__label__non-tech hello, i need support
-__label__non-tech hello, please help me
-__label__non-tech hello, help me
-__label__non-tech hi there, please help me
-__label__non-tech hi there, help me
+__label__non-tech hello help
+__label__non-tech customer service, where can I reach them?
+__label__non-tech what are the support work hours?
+__label__non-tech what is the support email?
+__label__non-tech customer service, get me in touch with them
+__label__non-tech where can i send my questions about change gear product?
+__label__non-tech what is the technical support email?
+__label__non-tech i need to contact technical support?
+__label__non-tech i don't know what to do i need support
+__label__non-tech how can we contact support?
+__label__non-tech where can i send my questions about a product?
+__label__non-tech get me in touch with tech support
 __label__non-tech hello, i need technical help from someone
 __label__non-tech hello, do you know someone who can help me?
-__label__non-tech hey, i need your help
-__label__non-tech hey, please help me
-__label__non-tech hey, help me
-__label__non-tech hi help
-__label__non-tech hello help
-__label__non-tech hey help
-__label__non-tech i really need your help, please
-__label__non-tech i really need someone to help me, thank you
-__label__non-tech please send someone to help me
-__label__non-tech i am stuck i need help
-__label__non-tech i don't know what to do i need support
-__label__non-tech i don't know what to do i need technical support
-__label__non-tech i don't know what to do i need help
+__label__non-tech when does technical support work?
 __label__non-tech support, get me in touch with them
-__label__non-tech support, how do I contact them?
-__label__non-tech customer service, get me in touch with them
-__label__non-tech customer service, how do I contact them?
-__label__non-tech get me in touch with customer service
-__label__non-tech get me in touch with support
-__label__non-tech support, what is their email?
-__label__non-tech support, where can I reach them?
-__label__non-tech customer service, what is their email?
-__label__non-tech what is the customer service email?
-__label__non-tech customer service, where can I reach them?
-__label__non-tech what is the tech support email?
-__label__non-tech tech support, get me in touch with them
-__label__non-tech tech support, how do I reach them?
-__label__non-tech tech support, what is their email?
 __label__non-tech tech support, where can I reach them?
-__label__non-tech tech support, how do I contact them?
-__label__non-tech please get me in touch with tech support
-__label__non-tech where can I reach tech support?
-__label__non-tech i need help, connect me to tech support
-__label__non-tech please connect me to tech support
-__label__non-tech get me in touch with tech support
-__label__non-tech get me in contact with tech support
-__label__non-tech i need tech support
-__label__non-tech tech support
+__label__non-tech tech support, what is their email?
+__label__non-tech i don't know what to do i need technical support
+__label__non-tech i need support
+__label__non-tech hi help
+__label__non-tech i need someone to help
 __label__non-tech i require technical assistance
+__label__non-tech can i talk to a technician?
+__label__non-tech tech support
+__label__non-tech where can i receive help?
+__label__non-tech what is the support email?
+__label__non-tech i need to contact customer support
+__label__non-tech put me in touch with support
+__label__non-tech where can i send an email or call for technical support?
+__label__non-tech tech support, how do I contact them?
+__label__non-tech take me to support
+__label__non-tech please help me fix this
+__label__non-tech what is the customer service email?
+__label__non-tech tech support, how do I reach them?
+__label__non-tech i have questions
+__label__non-tech where can i send an email or call for customer support?
+__label__non-tech hello, i need technical support
+__label__non-tech what is technical support's email?
+__label__non-tech support, what is their email?
+__label__non-tech who do i call for support?
+__label__non-tech support, how do I contact them?
+__label__non-tech get me in touch with support
+__label__non-tech how can we contact support?
+__label__non-tech i need help, connect me to tech support
+__label__non-tech hello, help me
+__label__non-tech hello, please help me
+__label__non-tech what is the tech support email?
+__label__non-tech what are the technical support work hours?
+__label__non-tech hey, please help me
+__label__non-tech hey help
+__label__non-tech i need support to help me
+__label__non-tech who can help me?
+__label__non-tech please send a technician
+__label__non-tech customer service, how do I contact them?
+__label__non-tech could you please put me in touch with technical support?
+__label__non-tech i need help
+__label__non-tech could you please put me in touch with support?
+__label__non-tech please get me in touch with tech support
+__label__non-tech hey, help me
+__label__non-tech take me to technical support
+__label__non-tech how do i contact technical support?
+__label__non-tech what is support's email?
+__label__non-tech tech support, get me in touch with them
+__label__non-tech how can we contact technical support?
+__label__non-tech please send someone to help me
 __label__non-tech i need help with a tech problem
+__label__non-tech i need to contact support?
+__label__non-tech i need help with something
+__label__non-tech help me!
+__label__non-tech where can I reach tech support?
+__label__non-tech hello, i need support
+__label__non-tech i would like some help
+__label__non-tech what are the technical support work hours?
+__label__non-tech put me in touch with technical support
+__label__non-tech hi there, please help me
+__label__non-tech phone number for support
+__label__non-tech i don't know what to do i need help
+__label__non-tech i really need your help, please
+__label__non-tech what is the technical support number?
+__label__non-tech support, where can I reach them?
+__label__non-tech link me with customer support
+__label__non-tech i am stuck i need help
+__label__non-tech i really need someone to help me, thank you
+__label__non-tech i need to talk to technical support
+__label__non-tech i need to talk to support
+__label__non-tech what are the support work hours?
+__label__non-tech can someone please help me?
+__label__non-tech who do i call for technical support?
+__label__non-tech i need a technician
+__label__non-tech hello, send a technician
+__label__non-tech hi there, help me
+__label__non-tech hey, i need your help
+__label__non-tech customer service, what is their email?
+__label__non-tech get me in touch with customer service
+__label__non-tech what is the technical support email?
+__label__non-tech get me in contact with tech support
+__label__non-tech how can we contact technical support?
+__label__non-tech what is the support number?
+__label__non-tech please connect me to tech support
 
 __label__tech i have a question about insurance open enrollment.
 __label__tech what is open enrollment?
@@ -578,31 +576,31 @@ __label__tech tell me how much i am covered for
 __label__tech how much is my coverage
 __label__tech please help me enroll in insurance
 __label__tech hello, i need help enrolling in insurance
-__label__non-tech what is my insurance premium?
-__label__non-tech what is my insurance deductible?
-__label__non-tech insurance, tell me about it
-__label__non-tech insurance, tell me about my plan
-__label__non-tech insurance, tell me about my coverage
-__label__non-tech insurance, tell me about my benefits
-__label__non-tech help me figure out my insurance plan
-__label__non-tech health insurance, tell me about it
-__label__non-tech health insurance, tell me about my plan
-__label__non-tech health insurance, tell me about my coverage
-__label__non-tech health insurance, tell me about my coverage
-__label__non-tech what does my health insurance cover?
-__label__non-tech does my health insurance cover preexisting conditions?
-__label__non-tech who is my insurance provider?
-__label__non-tech who issues my insurance?
-__label__non-tech who is my health insurance provider?
-__label__non-tech who issues my health insurance?
-__label__non-tech tell me about my insurance coverage
-__label__non-tech tell me about my health insurance coverage
-__label__non-tech tell me about my family's health insurance coverage
-__label__non-tech tell me about my family's insurance coverage
-__label__non-tech who in my family is covered by my health insurance?
-__label__non-tech tell me about preexisting condition insurance
-__label__non-tech insurance for preexisting conditions
-__label__non-tech does my insurance cover preexisting conditions?
+__label__tech what is my insurance premium?
+__label__tech what is my insurance deductible?
+__label__tech insurance, tell me about it
+__label__tech insurance, tell me about my plan
+__label__tech insurance, tell me about my coverage
+__label__tech insurance, tell me about my benefits
+__label__tech help me figure out my insurance plan
+__label__tech health insurance, tell me about it
+__label__tech health insurance, tell me about my plan
+__label__tech health insurance, tell me about my coverage
+__label__tech health insurance, tell me about my coverage
+__label__tech what does my health insurance cover?
+__label__tech does my health insurance cover preexisting conditions?
+__label__tech who is my insurance provider?
+__label__tech who issues my insurance?
+__label__tech who is my health insurance provider?
+__label__tech who issues my health insurance?
+__label__tech tell me about my insurance coverage
+__label__tech tell me about my health insurance coverage
+__label__tech tell me about my family's health insurance coverage
+__label__tech tell me about my family's insurance coverage
+__label__tech who in my family is covered by my health insurance?
+__label__tech tell me about preexisting condition insurance
+__label__tech insurance for preexisting conditions
+__label__tech does my insurance cover preexisting conditions?
 
 __label__non-tech i want to know how to call you
 __label__non-tech what is your first name
@@ -1210,40 +1208,42 @@ __label__non-tech explain changegear
 __label__non-tech when was changegear developed
 __label__non-tech why cg
 
-__label__non-tech tell me about service smart technology
+__label__non-tech who do i need to speak to regarding sst?
+__label__non-tech service smart tech usefulness
+__label__non-tech service smart technology advantages
+__label__non-tech what is the structure of smart service tech?
+__label__non-tech i do not know what smart service technology I should pick for my company, can you help?
+__label__non-tech sst?
+__label__non-tech why is service smart good?
+__label__non-tech service smart perks
 __label__non-tech service smart help
-__label__non-tech service smart
-__label__non-tech what is service smart technology?
-__label__non-tech what can i use service smart technology for?
-__label__non-tech how can i use service smart technology?
-__label__non-tech service smart technology
+__label__non-tech sst, what is this service from sunview?
+__label__non-tech Hmm, I need more information about what smart service tech is
 __label__non-tech using service smart technology
-__label__non-tech i need help with service smart technology
 __label__non-tech service smart technology
-__label__non-tech service smart technology help
-__label__non-tech service smart technology uses
-__label__non-tech service smart technology information
-__label__non-tech give me information on service smart technology
-__label__non-tech what can you tell me about service smart technology?
-__label__non-tech do you know about service smart technology?
-__label__non-tech what do you know about service smart technology?
-__label__non-tech what is service smart tech?
-__label__non-tech tell me about service smart
-__label__non-tech define service smart technology
-__label__non-tech what can you say about service smart technology?
-__label__non-tech how does changegear use ai for making service smart technology?
-__label__non-tech how will service smart tech help my company?
-__label__non-tech what are the benefits of service smart technology?
-__label__non-tech how useful is service smart technology?
+__label__non-tech just how epansive is implementing sst?
 __label__non-tech service smart uses
-__label__non-tech service smart information
+__label__non-tech define service smart
+__label__non-tech service smart tech perks
 __label__non-tech service smart ai
+__label__non-tech using service smart
+__label__non-tech do you offer sst to your customer free of charge?
+__label__non-tech how useful is service smart technology?
+__label__non-tech can you connect me to the rep for smart service techonolgy?
+__label__non-tech how useful is service smart techn?
 __label__non-tech service smart benefits
-__label__non-tech service smart usefulness
-__label__non-tech service smart technology benefits
+__label__non-tech what can i use service smart for?
+__label__non-tech how will service smart help my company?
 __label__non-tech service smart technology usefulness
-__label__non-tech service smart tech
+__label__non-tech What types of packages do you offer for sst?
+__label__non-tech Do you offer different packages for smart service technology?
+__label__non-tech service smart advantages
+__label__non-tech how is smart service tech revolutionary?
+__label__non-tech why is service smart tech good?
+__label__non-tech service smart technology
+__label__non-tech what can you tell me about service smart tech?
 __label__non-tech service smart tech help
+<<<<<<< HEAD
 __label__non-tech service smart tech uses
 __label__non-tech service smart tech information
 __label__non-tech service smart tech ai
@@ -1252,99 +1252,170 @@ __label__non-tech service smart tech usefulness
 __label__non-tech service smart technology ai
 __label__non-tech using service smart tech
 __label__non-tech using service smart
-__label__non-tech tell me about service smart tech
-__label__non-tech what is service smart?
-__label__non-tech give me information on service smart
-__label__non-tech what can you tell me about service smart?
-__label__non-tech do you know about service smart?
-__label__non-tech what do you know about service smart?
-__label__non-tech define service smart
-__label__non-tech what can you say about service smart?
-__label__non-tech how does changegear use ai for making service smart?
-__label__non-tech how will service smart help my company?
-__label__non-tech what are the benefits of service smart?
-__label__non-tech how useful is service smart?
-__label__non-tech give me information on service smart tech
-__label__non-tech what can you tell me about service smart tech?
+=======
 __label__non-tech do you know about service smart tech?
-__label__non-tech what do you know about service smart tech?
-__label__non-tech define service smart tech
-__label__non-tech what can you say about service smart techn?
-__label__non-tech how does changegear use ai for making service smart tech?
-__label__non-tech how will service smart tech help my company?
-__label__non-tech what are the benefits of service smart tech?
-__label__non-tech how useful is service smart techn?
-__label__non-tech service smart perks
-__label__non-tech service smart technology perks
-__label__non-tech service smart tech perks
-__label__non-tech service smart advantages
-__label__non-tech service smart tech advantages
-__label__non-tech service smart technology advantages
-__label__non-tech why is service smart good?
-__label__non-tech why is service smart tech good?
+>>>>>>> cefac38237b26cbbc056610214de63eb7f7ab552
+__label__non-tech tell me about service smart tech
+__label__non-tech service smart technology help
+__label__non-tech what is service smart?
+__label__non-tech define service smart technology
 __label__non-tech why is service smart technology good?
-__label__non-tech what can i use service smart for?
+__label__non-tech service smart technology benefits
+__label__non-tech sst, what is it and how does it compare to other related services?
+__label__non-tech I do not have any clue what SST is, can you please explain it better?
+__label__non-tech service smart
+__label__non-tech I am having trouble with my smart service tech package
+__label__non-tech service smart technology perks
+__label__non-tech smart service technology, is it worth the cost?
+__label__non-tech what can you tell me about service smart?
+__label__non-tech i need help with service smart technology
+__label__non-tech I am not too sure which sst package is best fitted for my company, can you help me?
+__label__non-tech service smart usefulness
+__label__non-tech what do you know about service smart?
+__label__non-tech define service smart tech
+__label__non-tech what do you know about service smart tech?
+__label__non-tech service smart technology information
+__label__non-tech give me information on service smart
+__label__non-tech tell me about service smart
+__label__non-tech how useful is service smart?
+__label__non-tech what do you know about service smart technology?
+__label__non-tech how can i use service smart technology?
+__label__non-tech I am having trouble understanding what SST is?
+__label__non-tech service smart technology uses
+__label__non-tech what can i use service smart technology for?
+__label__non-tech how can i use service smart?
+__label__non-tech service smart technology ai
+__label__non-tech what can you say about service smart techn?
+__label__non-tech what can you say about service smart technology?
+__label__non-tech give me information on service smart technology
+__label__non-tech service smart information
+__label__non-tech smart service tech, is this worth the cost?
+__label__non-tech SST vs other smart service technologies?
+__label__non-tech how does changegear use ai for making service smart tech?
+__label__non-tech service smart tech uses
+__label__non-tech what are the benefits of service smart technology?
 __label__non-tech what can i use service smart tech for?
 __label__non-tech how can i use service smart tech?
-__label__non-tech how can i use service smart?
+__label__non-tech tell me about service smart technology
+__label__non-tech smart service tech vs other smart services?
+__label__non-tech using service smart tech
+__label__non-tech service smart tech information
+__label__non-tech do you know about service smart technology?
+__label__non-tech service smart tech
+__label__non-tech service smart tech benefits
+__label__non-tech what is service smart tech?
+__label__non-tech help me understand how sst can benefit my company please
+__label__non-tech what are the benefits of service smart tech?
+__label__non-tech service smart tech ai
+__label__non-tech how does changegear use ai for making service smart technology?
+__label__non-tech service smart tech advantages
+__label__non-tech what can you say about service smart?
+__label__non-tech how will service smart tech help my company?
+__label__non-tech what can you tell me about service smart technology?
+__label__non-tech do you know about service smart?
+__label__non-tech how will service smart tech help my company?
+__label__non-tech give me information on service smart tech
+__label__non-tech hi, i need help understand smart service technology
+__label__non-tech I need more information about sst in order to make a decision
+__label__non-tech what are the benefits of service smart?
+__label__non-tech how does changegear use ai for making service smart?
+__label__non-tech hello, can you tell me more information about sst?
+__label__non-tech what is service smart technology?
 
-__label__tech computer crashed
-__label__tech windows crashed
-__label__tech pc crashed
-__label__tech laptop crashed
-__label__tech windows error message
-__label__tech pc error message
-__label__tech laptop error message
-__label__tech windows error
-__label__tech pc error
-__label__tech laptop error
-__label__tech what does this error mean?
-__label__tech why do i get this error message?
-__label__tech why do i see this error message?
-__label__tech computer keeps showing this error
-__label__tech always get this error
 __label__tech computer stopped working
-__label__tech fatal error
-__label__tech computer rebooted itself
-__label__tech computer stopped running
-__label__tech i am getting an error
-__label__tech my computer keeps crashing
-__label__tech blue screen of death
-__label__tech what causes this error message?
-__label__tech what is happening to my computer?
-__label__tech why is this happening to my computer?
-__label__tech how can i fix my computer?
-__label__tech how can i stopped this error from happening?
-__label__tech how to avoid crash?
-__label__tech what causes crashes?
-__label__tech what could be crashing my computer?
-__label__tech crash
-__label__tech cpu crashed
-__label__tech windows crashed
-__label__tech computer error message
-__label__tech computer error
+__label__tech my pc is not working
+__label__tech computer keeps showing this error
 __label__tech error message
-__label__tech fatal crash
-__label__tech prevent crash
-__label__tech pc stopped working
+__label__tech windows crashed
+__label__tech always get this error
+__label__tech macOS error
 __label__tech windows stopped working
-__label__tech laptop stopped working
-__label__tech cpu stopped working
-__label__tech screen frozen
-__label__tech my screen froze
-__label__tech causes for frozen screen
-__label__tech blue screen of death
-__label__tech why is my screen frozen?
+__label__tech prevent crash
+__label__tech my computer crashes when i load specific programs
 __label__tech how can i fix my laptop?
-__label__tech how can i fix my cpu?
-__label__tech laptop shows an error
-__label__tech windows is not responding
+__label__tech laptop crashed
+__label__tech what causes crashes?
+__label__tech fatal error
+__label__tech windows crashed
+__label__tech windows is failing
+__label__tech PC keeps freezing on me
+__label__tech is there a guide to fixing computer errors
+__label__tech why is this happening to my computer?
+__label__tech what information can you provide about computer errors
+__label__tech laptop error message
+__label__tech what are the different types of computer errors
+__label__tech my laptop is not working
 __label__tech computer is not responding
-__label__tech laptop is not responding
-__label__tech cpu is not responding
+__label__tech laptop errors in loading programs
+__label__tech computer error
+__label__tech i am getting an error
+__label__tech pc error message
+__label__tech why do i get this error message?
+__label__tech how to avoid crash?
 __label__tech pc is not responding
+__label__tech computer is failing
+__label__tech windows error message
+__label__tech windows froze
+__label__tech my windows machine keeps freezing during startup
+__label__tech pc stopped working
+__label__tech my notebook computer will not startup
+__label__tech cpu crashed
+__label__tech windows is not responding
+__label__tech causes for frozen screen
+__label__tech computer stopped running
+__label__tech it seems that my pc decided not to work today, can you help me
+__label__tech computer froze
+__label__tech my cpu is not working
+__label__tech computer crashed
+__label__tech laptop is not responding
+__label__tech laptop stopped working
+__label__tech what is happening to my computer?
+__label__tech i am encountering fatal errors in my pc, please help
+__label__tech windows error
+__label__tech screen frozen
+__label__tech computer error message
+__label__tech what causes this error message?
+__label__tech laptop error
+__label__tech my pc died today
+__label__tech pc rebooted itself
+__label__tech my computer has suddenly stopped working
+__label__tech pc is failing
+__label__tech computer is slow and producing some errors
+__label__tech laptop rebooted itself
+__label__tech what could be crashing my laptop?
+__label__tech laptop froze
+__label__tech pc crashed
+__label__tech cpu stopped working
+__label__tech windows error
+__label__tech laptop shows an error
+__label__tech PC error
+__label__tech blue screen of death
+__label__tech fatal crash
+__label__tech why is my screen frozen?
+__label__tech pc error
+__label__tech how can i fix my cpu?
+__label__tech my screen froze
+__label__tech pc froze
+__label__tech why do i see this error message?
+__label__tech windows is not working
+__label__tech notebook error during startup
+__label__tech crash
+__label__tech blue screen of death
+__label__tech why does my computer keep displaying error messages
+__label__tech computer does not load my programs
+__label__tech computer rebooted itself
+__label__tech what could be crashing my computer?
+__label__tech my computer is not working
+__label__tech keep getting dangar messages on computer
+__label__tech how can i stopped this error from happening?
+__label__tech what could be crashing my pc?
+__label__tech my laptop is crashing everytime i power it on
+__label__tech laptop is failing
 __label__tech how can i fix my pc?
+__label__tech it seems that my computer is not working properly
+__label__tech what does this error mean?
 __label__tech what could be crashing windows?
+<<<<<<< HEAD
 __label__tech what could be crashing my pc?
 __label__tech what could be crashing my laptop?
 __label__tech computer froze
@@ -1352,346 +1423,424 @@ __label__tech laptop froze
 __label__tech pc froze
 __label__tech windows froze
 __label__tech pc rebooted itself
+=======
+__label__tech how can i fix my computer?
+>>>>>>> cefac38237b26cbbc056610214de63eb7f7ab552
 __label__tech windows rebooted itself
-__label__tech laptop rebooted itself
-__label__tech computer is failing
-__label__tech pc is failing
-__label__tech laptop is failing
-__label__tech windows is failing
-__label__tech my computer is not working
-__label__tech my laptop is not working
-__label__tech my pc is not working
-__label__tech windows is not working
-__label__tech my cpu is not working
+__label__tech notebook error
+__label__tech my computer keeps crashing
+__label__tech cpu is not responding
+__label__tech computer is not working the way it usally does, please help
+__label__tech my personal computer died this morning
+__label__tech why does my pc keep encountering a fatal error during startup?
 
-__label__tech i forgot my password
-__label__tech password help
+__label__tech what is my passcode?
+__label__tech lost passphrase
+__label__tech recovery process to make a new password for logins
+__label__tech i forgot my passphrase
+__label__tech password reset
+__label__tech password needs to be reset
+__label__tech i do not remmember my credentials
+__label__tech how can i reset my passcode?
+__label__tech help me with my passcode
+__label__tech how can i access my account without using my password
+__label__tech password lost
+__label__tech i need to change my log in information
+__label__tech reset account credentials
+__label__tech i can not login to my account
+__label__tech i lost all of my passwords
+__label__tech can i setup multiple passwords on my account
+__label__tech can't access account
+__label__tech i can't remember my passphrase
+__label__tech can you reset my passphrase?
 __label__tech how can i change my password?
-__label__tech lost password
-__label__tech what is my password?
-__label__tech i need to change my password
-__label__tech how can i change my password?
-__label__tech i can't remember my password
-__label__tech password recovery
-__label__tech recover password
-__label__tech change password
+__label__tech is there a easy way to manage my passwords?
+__label__tech how can i recover my passphrase?
 __label__tech how can i recover my password?
-__label__tech i can't remember my password
+__label__tech reset the password to login
+__label__tech passphrase won't work
+__label__tech windows login password does not work
+__label__tech change passcode
+__label__tech the login password is wrong
+__label__tech passcode help
+__label__tech how can i reset my password?
+__label__tech password recovery
+__label__tech passcode recovery
+__label__tech i can't remember my passphrase
+__label__tech need a new passphrase
+__label__tech delete my old password
+__label__tech how can i reset my passphrase?
+__label__tech passcode troubleshooting
+__label__tech password help
+__label__tech recover password
+__label__tech passphrase recovery
 __label__tech reset my password
 __label__tech please reset my password
-__label__tech can you reset my password?
-__label__tech how can i reset my password?
-__label__tech need a new password
-__label__tech password won't work
-__label__tech i can't log in
-__label__tech windows won't let me log in
-__label__tech network won't let me log in
-__label__tech password reset
-__label__tech i need my password reset
-__label__tech log in help
-__label__tech password troubleshooting
 __label__tech help me with my password
-__label__tech i need help logging in
-__label__tech i need to change my log in information
-__label__tech how to change log in information?
-__label__tech i forgot my passcode
-__label__tech passcode help
-__label__tech how can i change my passcode?
-__label__tech lost passcode
-__label__tech what is my passcode?
-__label__tech i need to change my passcode
-__label__tech how can i change my passcode?
-__label__tech i can't remember my passcode
-__label__tech passcode recovery
-__label__tech recover passcode
-__label__tech change passcode
-__label__tech how can i recover my passcode?
-__label__tech i can't remember my passcode
-__label__tech reset my passcode
-__label__tech please reset my passcode
-__label__tech can you reset my passcode?
-__label__tech how can i reset my passcode?
-__label__tech need a new passcode
-__label__tech passcode won't work
-__label__tech passcode troubleshooting
-__label__tech help me with my passcode
-__label__tech i forgot my passphrase
-__label__tech passphrase help
-__label__tech how can i change my passphrase?
-__label__tech lost passphrase
-__label__tech what is my passphrase?
-__label__tech i need to change my passphrase
-__label__tech how can i change my passphrase?
-__label__tech i can't remember my passphrase
-__label__tech passphrase recovery
-__label__tech recover passphrase
-__label__tech change passphrase
-__label__tech how can i recover my passphrase?
-__label__tech i can't remember my passphrase
-__label__tech reset my passphrase
-__label__tech please reset my passphrase
-__label__tech can you reset my passphrase?
-__label__tech how can i reset my passphrase?
-__label__tech need a new passphrase
-__label__tech passphrase won't work
-__label__tech passphrase troubleshooting
-__label__tech help me with my passphrase
 __label__tech can't access network
-__label__tech can't access account
+__label__tech login password is not the same anymore
+__label__tech how to change log in information?
+__label__tech can you reset my password?
+__label__tech i can't remember my password
+__label__tech new password to access account
+__label__tech lost passcode
+__label__tech recover passphrase
+__label__tech how can i change my passphrase?
+__label__tech i can't remember my passcode
+__label__tech reset my passphrase
+__label__tech network won't let me log in
+__label__tech set a new password and delete the old one
+__label__tech can you reset my passcode?
+__label__tech lost password
+__label__tech passphrase help
+__label__tech how can i change my passcode?
+__label__tech reset credentials for account
+__label__tech i need my password reset
+__label__tech i need to change my passcode
+__label__tech change password
+__label__tech i seem to have forgotteen my account credentials
 __label__tech can't access windows
+__label__tech passcode recovery process
+__label__tech log in help
+__label__tech help me with my passphrase
+__label__tech need a new password
+__label__tech i need to change my passphrase
+__label__tech i do not know what is my account password
+__label__tech how can i change my passphrase?
+__label__tech please reset my passcode
+__label__tech please reset my passphrase
+__label__tech i can't remember my password
+__label__tech change passphrase
+__label__tech need a new passcode
+__label__tech windows won't let me log in
+__label__tech i lost access
+__label__tech password troubleshooting
+__label__tech passphrase troubleshooting
+__label__tech can you reset my password for me please
+__label__tech where can i set a password for my account
+__label__tech password recovery process
+__label__tech i can't log in
+__label__tech how can i change my password?
+__label__tech recover passcode
+__label__tech passcode won't work
+__label__tech i forgot my passcode
+__label__tech i forgot my password
+__label__tech i need help logging in
+__label__tech what is my password?
+__label__tech password won't work
+__label__tech do i need to provide any information to set a new password
+__label__tech i can't remember my passcode
+__label__tech how can i change my passcode?
+__label__tech i need to change my password
+__label__tech how can i recover my passcode?
+__label__tech what is my passphrase?
+__label__tech reset my passcode
 
-__label__tech why is my computer so slow?
-__label__tech my computer is slow
-__label__tech my computer is lagging
-__label__tech computer slowdown
-__label__tech computer speedup
-__label__tech how can i make my computer faster?
-__label__tech how to increase computer speed?
-__label__tech increasing computer speed
-__label__tech why is my computer lagging?
-__label__tech how to make my computer run faster?
-__label__tech what causes computer slowdown?
-__label__tech how to fix computer slowdown?
-__label__tech how to fix computer lag?
-__label__tech windows is slow
-__label__tech computer takes forever
-__label__tech computer is not fast enough
-__label__tech computer optimization
-__label__tech what is making my computer slow?
-__label__tech causes of slow computer
-__label__tech causes of computer lag
-__label__tech what is making my computer lag?
-__label__tech getting rid of computer lag
-__label__tech making my computer faster
-__label__tech speeding up my computer
-__label__tech i need help with my computer's performance
-__label__tech improving computer performance
-__label__tech how to fix poor computer performance?
-__label__tech how to improve computer performance?
-__label__tech improving computer speed
-__label__tech my computer is running at low speed
-__label__tech why is my pc so slow?
-__label__tech my pc is slow
-__label__tech my pc is lagging
-__label__tech pc slowdown
-__label__tech pc speedup
-__label__tech how can i make my pc faster?
-__label__tech how to increase pc speed?
-__label__tech increasing pc speed
-__label__tech why is my pc lagging?
-__label__tech how to make my pc run faster?
-__label__tech what causes pc slowdown?
-__label__tech how to fix pc slowdown?
-__label__tech how to fix pc lag?
-__label__tech pc is slow
-__label__tech pc takes forever
 __label__tech pc is not fast enough
-__label__tech pc optimization
-__label__tech what is making my pc slow?
-__label__tech causes of slow pc
-__label__tech causes of pc lag
+__label__tech i need help with my computer's performance
 __label__tech what is making my pc lag?
-__label__tech getting rid of pc lag
-__label__tech making my pc faster
-__label__tech speeding up my pc
-__label__tech i need help with my pc's performance
-__label__tech improving pc performance
-__label__tech how to fix poor pc performance?
-__label__tech how to improve pc performance?
-__label__tech improving pc speed
-__label__tech my pc is running at low speed
-__label__tech why is my laptop so slow?
-__label__tech my laptop is slow
-__label__tech my laptop is lagging
-__label__tech laptop slowdown
-__label__tech laptop speedup
-__label__tech how can i make my laptop faster?
-__label__tech how to increase laptop speed?
-__label__tech increasing laptop speed
-__label__tech why is my laptop lagging?
-__label__tech how to make my laptop run faster?
-__label__tech what causes laptop slowdown?
+__label__tech computer is not fast enough
+__label__tech pc optimization
+__label__tech boost computation speeds
 __label__tech how to fix laptop slowdown?
-__label__tech how to fix laptop lag?
-__label__tech laptop is slow
-__label__tech laptop takes forever
 __label__tech laptop is not fast enough
-__label__tech laptop optimization
-__label__tech what is making my laptop slow?
-__label__tech causes of slow laptop
-__label__tech causes of laptop lag
-__label__tech what is making my laptop lag?
-__label__tech getting rid of laptop lag
-__label__tech making my laptop faster
-__label__tech speeding up my laptop
-__label__tech i need help with my laptop's performance
+__label__tech how to increase laptop speed?
+__label__tech my computer is slow
+__label__tech how to fix poor computer performance?
 __label__tech improving laptop performance
-__label__tech how to fix poor laptop performance?
-__label__tech how to improve laptop performance?
-__label__tech improving laptop speed
-__label__tech my laptop is running at low speed
-__label__tech lag
+__label__tech what causes pc slowdown?
+__label__tech what causes slow speeds
+__label__tech my pc is slow
+__label__tech improving computer performance
+__label__tech my pc is lagging
+__label__tech computer speedup
+__label__tech causes of slow laptop
+__label__tech improving pc speed
+__label__tech help boost my computer speeds
 __label__tech slowdown
-__label__tech slow speed
+__label__tech i need help with my pc's performance
+__label__tech how to fix poor pc performance?
+__label__tech computer takes forever
+__label__tech how can i make my laptop faster?
+__label__tech causes of slow pc
+__label__tech causes of laptop lag
+__label__tech what is making my computer lag?
+__label__tech pc speedup
+__label__tech how to fix computer lag?
+__label__tech causes of computer lag
+__label__tech speeding up my laptop
+__label__tech my pc is running at low speed
+__label__tech laptop takes forever
 __label__tech lagging
+__label__tech computer optimization
+__label__tech my computer is lagging
+__label__tech improving computer speed
+__label__tech how to improve computer performance?
+__label__tech why is my computer lagging?
+__label__tech getting rid of computer lag
+__label__tech how to improve laptop performance?
+__label__tech what causes computer slowdown?
+__label__tech how to make my pc run faster?
+__label__tech improving laptop speed
+__label__tech causes of slow computer
+__label__tech causes of pc lag
+__label__tech improving pc performance
+__label__tech pc slowdown
+__label__tech my laptop is slow
+__label__tech slow speed
+__label__tech how to increase pc speed?
+__label__tech what is making my laptop lag?
+__label__tech how to make my laptop run faster?
+__label__tech speeding up my pc
+__label__tech increasing computer speed
+__label__tech how to increase computer speed?
+__label__tech how to fix computer slowdown?
+__label__tech how to fix laptop lag?
+__label__tech what is making my laptop slow?
+__label__tech lag
+__label__tech increasing pc speed
+__label__tech making my pc faster
+__label__tech making my laptop faster
+__label__tech windows is slow
+__label__tech why is my computer so slow?
+__label__tech my laptop is lagging
+__label__tech how to make my computer run faster?
+__label__tech why does my laptop run so slow, how to increase speed
+__label__tech how to fix pc slowdown?
+__label__tech my computer is running at low speed
+__label__tech why is my pc lagging?
+__label__tech laptop is slow
+__label__tech why is my laptop so slow?
+__label__tech making my computer faster
+__label__tech pc is slow
+__label__tech my laptop is running at low speed
+__label__tech prevent slow downs on my computer
+__label__tech computer slowdown
+__label__tech why is my laptop lagging?
+__label__tech speeding up my computer
+__label__tech how to avoid computer slowing down
+__label__tech what causes laptop slowdown?
+__label__tech why is my pc so slow?
+__label__tech laptop optimization
+__label__tech how to fix pc lag?
+__label__tech laptop speedup
+__label__tech what is making my computer slow?
+__label__tech pc takes forever
+__label__tech getting rid of pc lag
+__label__tech how to fix poor laptop performance?
+__label__tech how can i make my pc faster?
+__label__tech laptop slowdown
+__label__tech what is making my pc slow?
+__label__tech how to improve pc performance?
+__label__tech getting rid of laptop lag
+__label__tech improve speeds on my desktop
+__label__tech increasing laptop speed
+__label__tech how can i make my computer faster?
+__label__tech i need help with my laptop's performance
 
-__label__tech why can't i print?
-__label__tech i can't print
-__label__tech what is wrong with my printer?
-__label__tech printer
-__label__tech printer help
-__label__tech my printer is not working
-__label__tech how to fix printer?
-__label__tech how can i fix my printer?
-__label__tech what is wrong with my printer?
+__label__tech i need help with my inkjet
+__label__tech inkjet won't work
+__label__tech inkjet is not working 100%
 __label__tech printer troubleshooting
-__label__tech i need help to print
-__label__tech i need help with my printer
-__label__tech there is something wrong with my printer
+__label__tech how can i fix my inkjet?
+__label__tech printer failure
 __label__tech there is a problem with my printer
-__label__tech i am not able to print
-__label__tech broken printer
-__label__tech printer won't work
-__label__tech printer is not responding
-__label__tech tried to print but nothing comes out
-__label__tech printer problems
-__label__tech why is my printer not working?
-__label__tech can you help me with printer problems?
-__label__tech printer issue
+__label__tech printer help
 __label__tech printing issue
-__label__tech printer error
-__label__tech printer offline
-__label__tech why does it say my printer is offline?
-__label__tech printer setup
+__label__tech why does it say my inkjet is offline?
+__label__tech document failed to print
+__label__tech what is wrong with my printer?
+__label__tech how to fix printer?
 __label__tech printer configuration
+__label__tech i am missing pages when i print
+__label__tech paper tray empty error in printer
+__label__tech there is something wrong with my inkjet
+__label__tech my inkjet is not working
+__label__tech inkjet problems
+__label__tech tried to use inkjet but nothing comes out
+__label__tech i don't see my inkjet
+__label__tech why is my inkjet not working?
+__label__tech printer problems
+__label__tech how can i fix my printer?
+__label__tech how to use an inkjet?
+__label__tech i am not able to print
+__label__tech missing pages from printed documents
+__label__tech how to setup an inkjet?
+__label__tech inkjet is not responding
+__label__tech inkjet troubleshooting
+__label__tech inkjet offline
+__label__tech my printer is not working
+__label__tech help configure my printer
+__label__tech printer
+__label__tech printer won't work
+__label__tech how do I print two-sided pages
+__label__tech how to fix inkjet?
+__label__tech i am not able to use my inkjet
 __label__tech why can't i use my inkjet?
+__label__tech my printer is giving my trouble
+__label__tech printed pages are very hard to see, low ink
+__label__tech i need help to print
+__label__tech printer offline
+__label__tech printer is not printing the correct set of papers
+__label__tech how to setup a printer?
+__label__tech my inkjet is giving my trouble
+__label__tech what is wrong with my printer?
+__label__tech why is my printer not working?
+__label__tech broken inkjet
+__label__tech there is something wrong with my printer
+__label__tech how to load paper tray in printer
+__label__tech can you help me with inkjet problems?
+__label__tech common problems with inkjet
+__label__tech i don't see my printer
+__label__tech how do i know my printer is working?
+__label__tech can you help me with printer problems?
+__label__tech change printer settings
+__label__tech print test for printer
+__label__tech why does it say my printer is offline?
+__label__tech printer error
 __label__tech i can't use my inkjet
+__label__tech faulty inkjet
+__label__tech why can't i print?
+__label__tech printer is not connected correctly
 __label__tech what is wrong with my inkjet?
 __label__tech inkjet
-__label__tech inkjet help
-__label__tech my inkjet is not working
-__label__tech how to fix inkjet?
-__label__tech how can i fix my inkjet?
-__label__tech what is wrong with my inkjet?
-__label__tech inkjet troubleshooting
-__label__tech i need help to use my inkjet
-__label__tech i need help with my inkjet
-__label__tech there is something wrong with my inkjet
-__label__tech there is a problem with my inkjet
-__label__tech i am not able to use my inkjet
-__label__tech broken inkjet
-__label__tech inkjet won't work
-__label__tech inkjet is not responding
-__label__tech tried to use inkjet but nothing comes out
-__label__tech inkjet problems
-__label__tech why is my inkjet not working?
-__label__tech can you help me with inkjet problems?
-__label__tech inkjet issue
-__label__tech inkjet error
-__label__tech inkjet offline
-__label__tech why does it say my inkjet is offline?
-__label__tech inkjet setup
-__label__tech inkjet configuration
-__label__tech how to use a printer?
-__label__tech how to use an inkjet?
-__label__tech i don't see my printer
-__label__tech i don't see my inkjet
-__label__tech fixing a printer
-__label__tech fixing an inkjet
-__label__tech how to setup a printer?
-__label__tech how to setup an inkjet?
-__label__tech how do i know my printer is working?
 __label__tech how do i know my inkjet is working?
+__label__tech missing pages
+__label__tech i need help to use my inkjet
+__label__tech i need help with my printer
+__label__tech how to use a printer?
+__label__tech inkjet issue
+__label__tech tried to print but nothing comes out
+__label__tech inkjet failure
 __label__tech common problems with printer
-__label__tech common problems with inkjet
-__label__tech faulty printer
-__label__tech faulty inkjet
-__label__tech my printer is giving my trouble
+__label__tech inkjet setup
+__label__tech printer prints backwards
+__label__tech what is wrong with my inkjet?
 __label__tech my printer is giving my issues
-__label__tech my inkjet is giving my trouble
+__label__tech fixing a printer
+__label__tech printer is not responding
 __label__tech my inkjet is giving my issues
+__label__tech i can't print
+__label__tech printer setup
+__label__tech how to configure inkjet
+__label__tech broken printer
+__label__tech fixing an inkjet
+__label__tech inkjet error
+__label__tech why are my pages only printing in black and white
+__label__tech faulty printer
+__label__tech printer is not printing all of my pages
+__label__tech how to change paper size in printer
+__label__tech inkjet help
+__label__tech error messages when printing documents
+__label__tech where are the settings for my printer
+__label__tech printer configuration
+__label__tech i am experiencing problems printing only specific number of pages
+__label__tech printer issue
+__label__tech my printer does not print in color
+__label__tech inkjet configuration
+__label__tech there is a problem with my inkjet
 
-__label__tech internet troubleshooting
-__label__tech what is wrong with my internet?
-__label__tech why is my connection slow?
-__label__tech how to fix slow internet?
-__label__tech is there something wrong with the internet?
-__label__tech how to speed up internet connection?
-__label__tech i need faster internet
-__label__tech can't connect to the internet
-__label__tech can't connect to the web
-__label__tech cannot connect to the internet
+__label__tech internet is slow during online gaming
+__label__tech internet access
+__label__tech how to speed up web connection?
+__label__tech wifi is not working
+__label__tech wifi internet failing
+__label__tech internet connection help
+__label__tech why can't i access the internet?
 __label__tech cannot connect to the web
+__label__tech connection troubleshooting
+__label__tech network error
+__label__tech internet is slow
+__label__tech no internet
+__label__tech can't use the web
+__label__tech web browser not loading
+__label__tech internet browser not loading
+__label__tech application is not connecting to the cloud
+__label__tech how to fix slow network connection?
+__label__tech web help
 __label__tech internet connection
 __label__tech web connection
-__label__tech browser not working
-__label__tech web browser not working
-__label__tech browser error
-__label__tech web browser error
-__label__tech internet error
-__label__tech slow internet
-__label__tech slow web
-__label__tech internet is slow
-__label__tech web is slow
-__label__tech why can't i connect to the web?
-__label__tech why can't i connect to the internet?
-__label__tech web troubleshooting
-__label__tech internet help
-__label__tech web help
-__label__tech what is wrong with the web?
-__label__tech how to speed up the web?
+__label__tech why is my network connection slow?
+__label__tech why is my connection slow?
+__label__tech can't connect to the internet
+__label__tech wi-fi connection is weaker than wired
 __label__tech faster internet
-__label__tech web troubleshooting
-__label__tech web connectivity troubleshooting
-__label__tech connection troubleshooting
-__label__tech what is wrong with my network?
-__label__tech what is wrong with my connection?
-__label__tech why is my web connection slow?
-__label__tech why is my Internet slow?
-__label__tech how to fix slow web connection?
-__label__tech how to fix slow connection?
-__label__tech is there something wrong with the web?
-__label__tech how to speed up web connection?
-__label__tech i need faster connection
-__label__tech can't use the internet
-__label__tech can't find network
-__label__tech can't use the web
-__label__tech cannot use the internet
+__label__tech wifi connection failed
 __label__tech cannot use the web
-__label__tech cannot establish web connection
-__label__tech connection to the web
-__label__tech internet access
-__label__tech web access
-__label__tech cannot establish web connection
-__label__tech no internet
-__label__tech no internet connection
-__label__tech no web connection
-__label__tech web connection not working
-__label__tech web not connecting
-__label__tech internet browser not working
-__label__tech internet browser not connecting
-__label__tech browser not connecting
-__label__tech web browser not connecting
-__label__tech internet browser not loading
-__label__tech browser not loading
-__label__tech web browser not loading
+__label__tech can't use the internet
+__label__tech why is my Internet slow?
+__label__tech how to speed up the web?
+__label__tech internet firewall is blocking pages
 __label__tech internet browser error
-__label__tech internet error
-__label__tech web error
-__label__tech web connection error
+__label__tech web troubleshooting
+__label__tech web browser error
+__label__tech browser error
+__label__tech cannot use the internet
+__label__tech is there something wrong with the web?
+__label__tech network not working
+__label__tech wired internet connection not working
+__label__tech what is wrong with my network?
+__label__tech internet not working with wifi
+__label__tech web connectionhelp
+__label__tech web browser not working
+__label__tech internet help
+__label__tech cannot find network
+__label__tech web not working with wifi
+__label__tech online browsing is slow
+__label__tech how to speed up internet connection?
+__label__tech cannot connect to the internet
+__label__tech faster network connection
+__label__tech what is wrong with the web?
+__label__tech wifi network is not connecting
+__label__tech browser not loading
+__label__tech no network connection
+__label__tech no web connection
+__label__tech browser not working
+__label__tech slow web
+__label__tech internet connection is slow
+__label__tech can't connect to the web
+__label__tech how to speed up the web connection?
+__label__tech how to connect using wi-fi to internet
+__label__tech web connection is slow
+__label__tech wifi connection error with internet
+__label__tech faster internet connection
+__label__tech slow internet
+__label__tech web access
+__label__tech web is slow
+__label__tech web browser is not displaying pages
+__label__tech google chrome web browser not working
+__label__tech network not connecting
 __label__tech slow internet connection
 __label__tech slow web connection
-__label__tech internet connection is slow
-__label__tech web connection is slow
+__label__tech internet browser not working
+__label__tech is there something wrong with the internet?
+__label__tech network access
+__label__tech web error
+__label__tech i need faster internet
+__label__tech internet error
+__label__tech can't find network
+__label__tech internet browser not connecting
+__label__tech what is wrong with my internet?
+__label__tech no internet connection
 __label__tech why can't i access the web?
-__label__tech why can't i access the internet?
-__label__tech web connection troubleshooting
-__label__tech internet connection help
-__label__tech web connection help
+__label__tech what is wrong with my connection?
+__label__tech web troubleshooting
+__label__tech browser not connecting
+__label__tech wi-fi error
+__label__tech network troubleshooting
 __label__tech what is wrong with the web connection?
-__label__tech how to speed up the web connection?
-__label__tech faster internet connection
-__label__tech faster web connection
+__label__tech wi-fi is not connected
+__label__tech network troubleshooting
+__label__tech how to setup wi-fi for internet connection
+__label__tech how to fix slow connection?
+__label__tech web browser not connecting
+__label__tech why can't i connect to the web?
+__label__tech internet error
+__label__tech sharing internet connection
+__label__tech i need faster connection
+__label__tech internet troubleshooting
+__label__tech why can't i connect to the internet?
+__label__tech how to fix slow internet?
 
 __label__tech i need help recovering a file
 __label__tech i have deleted a file. help
