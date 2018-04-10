@@ -917,7 +917,7 @@ __label__itsm can i get help with managing my information technology services?
 __label__itsm do you offer any information management software
 __label__itsm how can i benefit from itsm?
 __label__itsm information technology?
-__label__itsm tell me about information techonologies in the future
+__label__itsm tell me about information technologies in the future
 __label__itsm i want to know more about information technology service management
 __label__itsm i need the best information manager out there
 __label__itsm what is the upcoming role of itsm?
@@ -1223,7 +1223,7 @@ __label__sst sst, what is this service from sunview?
 __label__sst Hmm, I need more information about what smart service tech is
 __label__sst using service smart technology
 __label__sst service smart technology
-__label__sst just how epansive is implementing sst?
+__label__sst just how expensive is implementing sst?
 __label__sst service smart uses
 __label__sst define service smart
 __label__sst service smart tech perks
@@ -1231,7 +1231,7 @@ __label__sst service smart ai
 __label__sst using service smart
 __label__sst do you offer sst to your customer free of charge?
 __label__sst how useful is service smart technology?
-__label__sst can you connect me to the rep for smart service techonolgy?
+__label__sst can you connect me to the rep for smart service technolgy?
 __label__sst how useful is service smart techn?
 __label__sst service smart benefits
 __label__sst what can i use service smart for?
@@ -1282,7 +1282,6 @@ __label__sst give me information on service smart technology
 __label__sst service smart information
 __label__sst smart service tech, is this worth the cost?
 __label__sst SST vs other smart service technologies?
-__label__sst how does changegear use ai for making service smart tech?
 __label__sst service smart tech uses
 __label__sst what are the benefits of service smart technology?
 __label__sst what can i use service smart tech for?
@@ -1309,7 +1308,6 @@ __label__sst give me information on service smart tech
 __label__sst hi, i need help understand smart service technology
 __label__sst I need more information about sst in order to make a decision
 __label__sst what are the benefits of service smart?
-__label__sst how does changegear use ai for making service smart?
 __label__sst hello, can you tell me more information about sst?
 __label__sst what is service smart technology?
 
@@ -1397,7 +1395,7 @@ __label__computer computer does not load my programs
 __label__computer computer rebooted itself
 __label__computer what could be crashing my computer?
 __label__computer my computer is not working
-__label__computer keep getting dangar messages on computer
+__label__computer keep getting danger messages on computer
 __label__computer how can i stopped this error from happening?
 __label__computer what could be crashing my pc?
 __label__computer my laptop is crashing everytime i power it on
@@ -1408,10 +1406,9 @@ __label__computer what does this error mean?
 __label__computer what could be crashing windows?
 __label__computer how can i fix my computer?
 __label__computer windows rebooted itself
-__label__computer notebook error
 __label__computer my computer keeps crashing
 __label__computer cpu is not responding
-__label__computer computer is not working the way it usally does, please help
+__label__computer computer is not working the way it usually does, please help
 __label__computer my personal computer died this morning
 __label__computer why does my pc keep encountering a fatal error during startup?
 
@@ -1421,7 +1418,7 @@ __label__password recovery process to make a new password for logins
 __label__password i forgot my passphrase
 __label__password password reset
 __label__password password needs to be reset
-__label__password i do not remmember my credentials
+__label__password i do not remember my credentials
 __label__password how can i reset my passcode?
 __label__password help me with my passcode
 __label__password how can i access my account without using my password
@@ -1479,10 +1476,9 @@ __label__password reset credentials for account
 __label__password i need my password reset
 __label__password i need to change my passcode
 __label__password change password
-__label__password i seem to have forgotteen my account credentials
+__label__password i seem to have forgotten my account credentials
 __label__password can't access windows
 __label__password passcode recovery process
-__label__password log in help
 __label__password help me with my passphrase
 __label__password need a new password
 __label__password i need to change my passphrase
@@ -1537,7 +1533,7 @@ __label__speed my pc is lagging
 __label__speed computer speedup
 __label__speed causes of slow laptop
 __label__speed improving pc speed
-__label__speed help boost my computer speeds
+__label__speed help boost my computer's speed
 __label__speed slowdown
 __label__speed i need help with my pc's performance
 __label__speed how to fix poor pc performance?
@@ -1595,7 +1591,6 @@ __label__speed why is my laptop so slow?
 __label__speed making my computer faster
 __label__speed pc is slow
 __label__speed my laptop is running at low speed
-__label__speed prevent slow downs on my computer
 __label__speed computer slowdown
 __label__speed why is my laptop lagging?
 __label__speed speeding up my computer
@@ -1686,7 +1681,6 @@ __label__printer printer is not connected correctly
 __label__printer what is wrong with my inkjet?
 __label__printer inkjet
 __label__printer how do i know my inkjet is working?
-__label__printer missing pages
 __label__printer i need help to use my inkjet
 __label__printer i need help with my printer
 __label__printer how to use a printer?
@@ -1749,7 +1743,7 @@ __label__internet faster internet
 __label__internet wifi connection failed
 __label__internet cannot use the web
 __label__internet can't use the internet
-__label__internet why is my Internet slow?
+__label__internet why is my internet slow?
 __label__internet how to speed up the web?
 __label__internet internet firewall is blocking pages
 __label__internet internet browser error
@@ -1762,12 +1756,11 @@ __label__internet network not working
 __label__internet wired internet connection not working
 __label__internet what is wrong with my network?
 __label__internet internet not working with wifi
-__label__internet web connectionhelp
+__label__internet web connection help
 __label__internet web browser not working
 __label__internet internet help
 __label__internet cannot find network
 __label__internet web not working with wifi
-__label__internet online browsing is slow
 __label__internet how to speed up internet connection?
 __label__internet cannot connect to the internet
 __label__internet faster network connection
@@ -2073,7 +2066,7 @@ __label__website how to access blocked link
 __label__website how to access blocked url
 __label__website unblock site
 __label__website unblock website
-__label__website how to request access to blocked siteh
+__label__website how to request access to blocked site
 __label__website how to request access to blocked url
 __label__website how to request access to blocked website
 __label__website how to request access to blocked link
@@ -2201,7 +2194,7 @@ __label__voicemail voicemail troubleshooting
 __label__voicemail voicemail password troubleshooting
 __label__voicemail voicemail access denied
 __label__voicemail i need help with my voicemail password
-__label__voicemail voicemail passsword is not working
+__label__voicemail voicemail password is not working
 __label__voicemail wrong voicemail password
 __label__voicemail help login in to voicemail
 __label__voicemail resetting voicemail
