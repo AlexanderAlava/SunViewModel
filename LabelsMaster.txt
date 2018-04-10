@@ -198,6 +198,7 @@ __label__holidays free
 __label__holidays how many days do I have off this year?
 __label__holidays how much paid time off do I have this year?
 __label__holidays is the lunar new year a holiday?
+__label__holidays i need some help with learning about my holidays
 
 __label__sunview contact information for sunview software
 __label__sunview where can I contact sunview?
@@ -471,7 +472,6 @@ __label__support get me in touch with support
 __label__support could you please put me in touch with technical support?
 __label__support i need help with something
 __label__support tech support, what is their email?
-__label__support i would like some help
 __label__support what are the technical support work hours?
 __label__support please help me fix this
 __label__support i need help with a tech problem
@@ -486,7 +486,6 @@ __label__support support, get me in touch with them
 __label__support tech support, how do I reach them?
 __label__support hi there, please help me
 __label__support support, how do I contact them?
-__label__support i need help
 __label__support hello, do you know someone who can help me?
 __label__support could you please put me in touch with support?
 __label__support i need support
