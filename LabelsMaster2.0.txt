@@ -1058,619 +1058,618 @@ __label__non-tech why would i choose cg over the alternative
 __label__non-tech why is it better to pick changegear
 __label__non-tech is changegear the best product out in the market
 
-__label__non-tech tell me about service smart technology
-__label__non-tech service smart help
-__label__non-tech service smart
-__label__non-tech what is service smart technology?
-__label__non-tech what can i use service smart technology for?
-__label__non-tech how can i use service smart technology?
-__label__non-tech service smart technology
-__label__non-tech using service smart technology
-__label__non-tech i need help with service smart technology
-__label__non-tech service smart technology
-__label__non-tech service smart technology help
-__label__non-tech service smart technology uses
-__label__non-tech service smart technology information
-__label__non-tech give me information on service smart technology
-__label__non-tech what can you tell me about service smart technology?
-__label__non-tech do you know about service smart technology?
-__label__non-tech what do you know about service smart technology?
-__label__non-tech what is service smart tech?
-__label__non-tech tell me about service smart
-__label__non-tech define service smart technology
-__label__non-tech what can you say about service smart technology?
-__label__non-tech how does changegear use ai for making service smart technology?
-__label__non-tech how will service smart tech help my company?
-__label__non-tech what are the benefits of service smart technology?
-__label__non-tech how useful is service smart technology?
-__label__non-tech service smart uses
-__label__non-tech service smart information
-__label__non-tech service smart ai
-__label__non-tech service smart benefits
-__label__non-tech service smart usefulness
-__label__non-tech service smart technology benefits
-__label__non-tech service smart technology usefulness
-__label__non-tech service smart tech
-__label__non-tech service smart tech help
-__label__non-tech service smart tech uses
-__label__non-tech service smart tech information
-__label__non-tech service smart tech ai
-__label__non-tech service smart tech benefits
-__label__non-tech service smart tech usefulness
-__label__non-tech service smart technology ai
-__label__non-tech using service smart tech
-__label__non-tech using service smart 
-__label__non-tech tell me about service smart tech
-__label__non-tech what is service smart?
-__label__non-tech give me information on service smart
-__label__non-tech what can you tell me about service smart?
-__label__non-tech do you know about service smart?
-__label__non-tech what do you know about service smart?
-__label__non-tech define service smart
-__label__non-tech what can you say about service smart?
-__label__non-tech how does changegear use ai for making service smart?
-__label__non-tech how will service smart help my company?
-__label__non-tech what are the benefits of service smart?
-__label__non-tech how useful is service smart?
-__label__non-tech give me information on service smart tech
-__label__non-tech what can you tell me about service smart tech?
-__label__non-tech do you know about service smart tech?
-__label__non-tech what do you know about service smart tech?
-__label__non-tech define service smart tech
-__label__non-tech what can you say about service smart techn?
-__label__non-tech how does changegear use ai for making service smart tech?
-__label__non-tech how will service smart tech help my company?
-__label__non-tech what are the benefits of service smart tech?
-__label__non-tech how useful is service smart techn?
-__label__non-tech service smart perks
-__label__non-tech service smart technology perks
-__label__non-tech service smart tech perks
-__label__non-tech service smart advantages
-__label__non-tech service smart tech advantages
-__label__non-tech service smart technology advantages
-__label__non-tech why is service smart good?
-__label__non-tech why is service smart tech good?
-__label__non-tech why is service smart technology good?
-__label__non-tech what can i use service smart for?
-__label__non-tech what can i use service smart tech for?
-__label__non-tech how can i use service smart tech?
-__label__non-tech how can i use service smart?
-__label__non-tech sst, what is it and how does it compare to other related services?
-__label__non-tech smart service technology, is it worth the cost?
-__label__non-tech do you offer sst to your customer free of charge?
 __label__non-tech who do i need to speak to regarding sst?
-__label__non-tech can you connect me to the rep for smart service techonolgy?
-__label__non-tech SST vs other smart service technologies?
-__label__non-tech how is smart service tech revolutionary?
-__label__non-tech sst, what is this service from sunview?
-__label__non-tech I need more information about sst in order to make a decision
-__label__non-tech hello, can you tell me more information about sst?
-__label__non-tech hi, i need help understand smart service technology
-__label__non-tech help me understand how sst can benefit my company please 
-__label__non-tech smart service tech, is this worth the cost?
-__label__non-tech just how epansive is implementing sst? 
-__label__non-tech smart service tech vs other smart services?
-__label__non-tech i do not know what smart service technology I should pick for my company, can you help?
-__label__non-tech I am not too sure which sst package is best fitted for my company, can you help me?
+__label__non-tech service smart tech usefulness
+__label__non-tech service smart technology advantages
 __label__non-tech what is the structure of smart service tech?
+__label__non-tech i do not know what smart service technology I should pick for my company, can you help?
 __label__non-tech sst?
-__label__non-tech I am having trouble understanding what SST is?
-__label__non-tech I am having trouble with my smart service tech package
+__label__non-tech why is service smart good?
+__label__non-tech service smart perks
+__label__non-tech service smart help
+__label__non-tech sst, what is this service from sunview?
+__label__non-tech Hmm, I need more information about what smart service tech is
+__label__non-tech using service smart technology
+__label__non-tech service smart technology
+__label__non-tech just how epansive is implementing sst? 
+__label__non-tech service smart uses
+__label__non-tech define service smart
+__label__non-tech service smart tech perks
+__label__non-tech service smart ai
+__label__non-tech using service smart
+__label__non-tech do you offer sst to your customer free of charge?
+__label__non-tech how useful is service smart technology?
+__label__non-tech can you connect me to the rep for smart service techonolgy?
+__label__non-tech how useful is service smart techn?
+__label__non-tech service smart benefits
+__label__non-tech what can i use service smart for?
+__label__non-tech how will service smart help my company?
+__label__non-tech service smart technology usefulness
 __label__non-tech What types of packages do you offer for sst?
 __label__non-tech Do you offer different packages for smart service technology?
-__label__non-tech Hmm, I need more information about what smart service tech is
+__label__non-tech service smart advantages
+__label__non-tech how is smart service tech revolutionary?
+__label__non-tech why is service smart tech good?
+__label__non-tech service smart technology
+__label__non-tech what can you tell me about service smart tech?
+__label__non-tech service smart tech help
+__label__non-tech do you know about service smart tech?
+__label__non-tech tell me about service smart tech
+__label__non-tech service smart technology help
+__label__non-tech what is service smart?
+__label__non-tech define service smart technology
+__label__non-tech why is service smart technology good?
+__label__non-tech service smart technology benefits
+__label__non-tech sst, what is it and how does it compare to other related services?
 __label__non-tech I do not have any clue what SST is, can you please explain it better?
+__label__non-tech service smart
+__label__non-tech I am having trouble with my smart service tech package
+__label__non-tech service smart technology perks
+__label__non-tech smart service technology, is it worth the cost?
+__label__non-tech what can you tell me about service smart?
+__label__non-tech i need help with service smart technology
+__label__non-tech I am not too sure which sst package is best fitted for my company, can you help me?
+__label__non-tech service smart usefulness
+__label__non-tech what do you know about service smart?
+__label__non-tech define service smart tech
+__label__non-tech what do you know about service smart tech?
+__label__non-tech service smart technology information
+__label__non-tech give me information on service smart
+__label__non-tech tell me about service smart
+__label__non-tech how useful is service smart?
+__label__non-tech what do you know about service smart technology?
+__label__non-tech how can i use service smart technology?
+__label__non-tech I am having trouble understanding what SST is?
+__label__non-tech service smart technology uses
+__label__non-tech what can i use service smart technology for?
+__label__non-tech how can i use service smart?
+__label__non-tech service smart technology ai
+__label__non-tech what can you say about service smart techn?
+__label__non-tech what can you say about service smart technology?
+__label__non-tech give me information on service smart technology
+__label__non-tech service smart information
+__label__non-tech smart service tech, is this worth the cost?
+__label__non-tech SST vs other smart service technologies?
+__label__non-tech how does changegear use ai for making service smart tech?
+__label__non-tech service smart tech uses
+__label__non-tech what are the benefits of service smart technology?
+__label__non-tech what can i use service smart tech for?
+__label__non-tech how can i use service smart tech?
+__label__non-tech tell me about service smart technology
+__label__non-tech smart service tech vs other smart services?
+__label__non-tech using service smart tech
+__label__non-tech service smart tech information
+__label__non-tech do you know about service smart technology?
+__label__non-tech service smart tech
+__label__non-tech service smart tech benefits
+__label__non-tech what is service smart tech?
+__label__non-tech help me understand how sst can benefit my company please 
+__label__non-tech what are the benefits of service smart tech?
+__label__non-tech service smart tech ai
+__label__non-tech how does changegear use ai for making service smart technology?
+__label__non-tech service smart tech advantages
+__label__non-tech what can you say about service smart?
+__label__non-tech how will service smart tech help my company?
+__label__non-tech what can you tell me about service smart technology?
+__label__non-tech do you know about service smart?
+__label__non-tech how will service smart tech help my company?
+__label__non-tech give me information on service smart tech
+__label__non-tech hi, i need help understand smart service technology
+__label__non-tech I need more information about sst in order to make a decision
+__label__non-tech what are the benefits of service smart?
+__label__non-tech how does changegear use ai for making service smart?
+__label__non-tech hello, can you tell me more information about sst?
+__label__non-tech what is service smart technology?
 
-__label__tech computer crashed
-__label__tech windows crashed
-__label__tech pc crashed
-__label__tech laptop crashed
-__label__tech windows error message
-__label__tech pc error message
-__label__tech laptop error message
-__label__tech windows error
-__label__tech pc error
-__label__tech laptop error
-__label__tech what does this error mean?
-__label__tech why do i get this error message?
-__label__tech why do i see this error message?
-__label__tech computer keeps showing this error
-__label__tech always get this error
 __label__tech computer stopped working
-__label__tech fatal error
-__label__tech computer rebooted itself
-__label__tech computer stopped running
-__label__tech i am getting an error
-__label__tech my computer keeps crashing
-__label__tech blue screen of death
-__label__tech what causes this error message?
-__label__tech what is happening to my computer?
-__label__tech why is this happening to my computer?
-__label__tech how can i fix my computer?
-__label__tech how can i stopped this error from happening?
-__label__tech how to avoid crash?
-__label__tech what causes crashes?
-__label__tech what could be crashing my computer?
-__label__tech crash
-__label__tech cpu crashed
-__label__tech windows crashed
-__label__tech computer error message
-__label__tech computer error
-__label__tech error message
-__label__tech fatal crash
-__label__tech prevent crash
-__label__tech pc stopped working
-__label__tech windows stopped working
-__label__tech laptop stopped working
-__label__tech cpu stopped working
-__label__tech screen frozen
-__label__tech my screen froze
-__label__tech causes for frozen screen
-__label__tech blue screen of death
-__label__tech why is my screen frozen?
-__label__tech how can i fix my laptop?
-__label__tech how can i fix my cpu?
-__label__tech laptop shows an error
-__label__tech windows is not responding
-__label__tech computer is not responding
-__label__tech laptop is not responding
-__label__tech cpu is not responding
-__label__tech pc is not responding
-__label__tech how can i fix my pc?
-__label__tech what could be crashing windows?
-__label__tech what could be crashing my pc?
-__label__tech what could be crashing my laptop?
-__label__tech computer froze
-__label__tech laptop froze 
-__label__tech pc froze
-__label__tech windows froze
-__label__tech pc rebooted itself
-__label__tech windows rebooted itself
-__label__tech laptop rebooted itself
-__label__tech computer is failing
-__label__tech pc is failing
-__label__tech laptop is failing
-__label__tech windows is failing
-__label__tech my computer is not working
-__label__tech my laptop is not working
 __label__tech my pc is not working
-__label__tech windows is not working
-__label__tech my cpu is not working
-__label__tech my computer has suddenly stopped working
-__label__tech computer is not working the way it usally does, please help
-__label__tech it seems that my pc decided not to work today, can you help me
-__label__tech my pc died today
-__label__tech my personal computer died this morning
-__label__tech i am encountering fatal errors in my pc, please help
-__label__tech my notebook computer will not startup 
-__label__tech my laptop is crashing everytime i power it on
-__label__tech why does my computer keep displaying error messages 
-__label__tech is there a guide to fixing computer errors 
-__label__tech what are the different types of computer errors
-__label__tech my windows machine keeps freezing during startup
-__label__tech PC keeps freezing on me 
-__label__tech computer is slow and producing some errors 
-__label__tech notebook error during startup
-__label__tech laptop errors in loading programs
-__label__tech computer does not load my programs 
-__label__tech my computer crashes when i load specific programs 
-__label__tech why does my pc keep encountering a fatal error during startup?
-__label__tech what information can you provide about computer errors
-__label__tech it seems that my computer is not working properly 
-__label__tech PC error 
-__label__tech notebook error 
-__label__tech windows error 
+__label__tech computer keeps showing this error
+__label__tech error message
+__label__tech windows crashed
+__label__tech always get this error
 __label__tech macOS error
-__label__tech keep getting dangar messages on computer  
+__label__tech windows stopped working
+__label__tech prevent crash
+__label__tech my computer crashes when i load specific programs 
+__label__tech how can i fix my laptop?
+__label__tech laptop crashed
+__label__tech what causes crashes?
+__label__tech fatal error
+__label__tech windows crashed
+__label__tech windows is failing
+__label__tech PC keeps freezing on me 
+__label__tech is there a guide to fixing computer errors 
+__label__tech why is this happening to my computer?
+__label__tech what information can you provide about computer errors
+__label__tech laptop error message
+__label__tech what are the different types of computer errors
+__label__tech my laptop is not working
+__label__tech computer is not responding
+__label__tech laptop errors in loading programs
+__label__tech computer error
+__label__tech i am getting an error
+__label__tech pc error message
+__label__tech why do i get this error message?
+__label__tech how to avoid crash?
+__label__tech pc is not responding
+__label__tech computer is failing
+__label__tech windows error message
+__label__tech windows froze
+__label__tech my windows machine keeps freezing during startup
+__label__tech pc stopped working
+__label__tech my notebook computer will not startup 
+__label__tech cpu crashed
+__label__tech windows is not responding
+__label__tech causes for frozen screen
+__label__tech computer stopped running
+__label__tech it seems that my pc decided not to work today, can you help me
+__label__tech computer froze
+__label__tech my cpu is not working
+__label__tech computer crashed
+__label__tech laptop is not responding
+__label__tech laptop stopped working
+__label__tech what is happening to my computer?
+__label__tech i am encountering fatal errors in my pc, please help
+__label__tech windows error
+__label__tech screen frozen
+__label__tech computer error message
+__label__tech what causes this error message?
+__label__tech laptop error
+__label__tech my pc died today
+__label__tech pc rebooted itself
+__label__tech my computer has suddenly stopped working
+__label__tech pc is failing
+__label__tech computer is slow and producing some errors 
+__label__tech laptop rebooted itself
+__label__tech what could be crashing my laptop?
+__label__tech laptop froze
+__label__tech pc crashed
+__label__tech cpu stopped working
+__label__tech windows error 
+__label__tech laptop shows an error
+__label__tech PC error 
+__label__tech blue screen of death
+__label__tech fatal crash
+__label__tech why is my screen frozen?
+__label__tech pc error
+__label__tech how can i fix my cpu?
+__label__tech my screen froze
+__label__tech pc froze
+__label__tech why do i see this error message?
+__label__tech windows is not working
+__label__tech notebook error during startup
+__label__tech crash
+__label__tech blue screen of death
+__label__tech why does my computer keep displaying error messages 
+__label__tech computer does not load my programs 
+__label__tech computer rebooted itself
+__label__tech what could be crashing my computer?
+__label__tech my computer is not working
+__label__tech keep getting dangar messages on computer 
+__label__tech how can i stopped this error from happening?
+__label__tech what could be crashing my pc?
+__label__tech my laptop is crashing everytime i power it on
+__label__tech laptop is failing
+__label__tech how can i fix my pc?
+__label__tech it seems that my computer is not working properly 
+__label__tech what does this error mean?
+__label__tech what could be crashing windows?
+__label__tech how can i fix my computer?
+__label__tech windows rebooted itself
+__label__tech notebook error 
+__label__tech my computer keeps crashing
+__label__tech cpu is not responding
+__label__tech computer is not working the way it usally does, please help
+__label__tech my personal computer died this morning
+__label__tech why does my pc keep encountering a fatal error during startup?
 
-
-__label__tech i forgot my password
-__label__tech password help
+__label__tech what is my passcode?
+__label__tech lost passphrase
+__label__tech recovery process to make a new password for logins
+__label__tech i forgot my passphrase
+__label__tech password reset
+__label__tech password needs to be reset
+__label__tech i do not remmember my credentials
+__label__tech how can i reset my passcode?
+__label__tech help me with my passcode
+__label__tech how can i access my account without using my password
+__label__tech password lost 
+__label__tech i need to change my log in information
+__label__tech reset account credentials
+__label__tech i can not login to my account 
+__label__tech i lost all of my passwords 
+__label__tech can i setup multiple passwords on my account 
+__label__tech can't access account
+__label__tech i can't remember my passphrase
+__label__tech can you reset my passphrase?
 __label__tech how can i change my password?
-__label__tech lost password
-__label__tech what is my password?
-__label__tech i need to change my password
-__label__tech how can i change my password?
-__label__tech i can't remember my password
-__label__tech password recovery
-__label__tech recover password
-__label__tech change password
+__label__tech is there a easy way to manage my passwords? 
+__label__tech how can i recover my passphrase?
 __label__tech how can i recover my password?
-__label__tech i can't remember my password
+__label__tech reset the password to login 
+__label__tech passphrase won't work
+__label__tech windows login password does not work 
+__label__tech change passcode
+__label__tech the login password is wrong
+__label__tech passcode help
+__label__tech how can i reset my password?
+__label__tech password recovery
+__label__tech passcode recovery
+__label__tech i can't remember my passphrase
+__label__tech need a new passphrase
+__label__tech delete my old password 
+__label__tech how can i reset my passphrase?
+__label__tech passcode troubleshooting
+__label__tech password help
+__label__tech recover password
+__label__tech passphrase recovery
 __label__tech reset my password
 __label__tech please reset my password
-__label__tech can you reset my password?
-__label__tech how can i reset my password?
-__label__tech need a new password
-__label__tech password won't work
-__label__tech i can't log in
-__label__tech windows won't let me log in
-__label__tech network won't let me log in
-__label__tech password reset
-__label__tech i need my password reset
-__label__tech log in help
-__label__tech password troubleshooting
 __label__tech help me with my password
-__label__tech i need help logging in
-__label__tech i need to change my log in information
-__label__tech how to change log in information?
-__label__tech i forgot my passcode
-__label__tech passcode help
-__label__tech how can i change my passcode?
-__label__tech lost passcode
-__label__tech what is my passcode?
-__label__tech i need to change my passcode
-__label__tech how can i change my passcode?
-__label__tech i can't remember my passcode
-__label__tech passcode recovery
-__label__tech recover passcode
-__label__tech change passcode
-__label__tech how can i recover my passcode?
-__label__tech i can't remember my passcode
-__label__tech reset my passcode
-__label__tech please reset my passcode
-__label__tech can you reset my passcode?
-__label__tech how can i reset my passcode?
-__label__tech need a new passcode
-__label__tech passcode won't work
-__label__tech passcode troubleshooting
-__label__tech help me with my passcode
-__label__tech i forgot my passphrase
-__label__tech passphrase help
-__label__tech how can i change my passphrase?
-__label__tech lost passphrase
-__label__tech what is my passphrase?
-__label__tech i need to change my passphrase
-__label__tech how can i change my passphrase?
-__label__tech i can't remember my passphrase
-__label__tech passphrase recovery
-__label__tech recover passphrase
-__label__tech change passphrase
-__label__tech how can i recover my passphrase?
-__label__tech i can't remember my passphrase
-__label__tech reset my passphrase
-__label__tech please reset my passphrase
-__label__tech can you reset my passphrase?
-__label__tech how can i reset my passphrase?
-__label__tech need a new passphrase
-__label__tech passphrase won't work
-__label__tech passphrase troubleshooting
-__label__tech help me with my passphrase
 __label__tech can't access network
-__label__tech can't access account
-__label__tech can't access windows
-__label__tech i can not login to my account 
-__label__tech i seem to have forgotteen my account credentials
-__label__tech can you reset my password for me please 
-__label__tech reset credentials for account 
-__label__tech i do not remmember my credentials
-__label__tech reset account credentials
-__label__tech where can i set a password for my account
-__label__tech can i setup multiple passwords on my account  
-__label__tech i lost all of my passwords 
-__label__tech i lost access 
-__label__tech how can i access my account without using my password
-__label__tech do i need to provide any information to set a new password 
-__label__tech set a new password and delete the old one 
-__label__tech delete my old password 
-__label__tech new password to access account
-__label__tech windows login password does not work 
 __label__tech login password is not the same anymore 
-__label__tech the login password is wrong
-__label__tech i do not know what is my account password 
-__label__tech reset the password to login 
-__label__tech password needs to be reset
-__label__tech password recovery process 
+__label__tech how to change log in information?
+__label__tech can you reset my password?
+__label__tech i can't remember my password
+__label__tech new password to access account
+__label__tech lost passcode
+__label__tech recover passphrase
+__label__tech how can i change my passphrase?
+__label__tech i can't remember my passcode
+__label__tech reset my passphrase
+__label__tech network won't let me log in
+__label__tech set a new password and delete the old one 
+__label__tech can you reset my passcode?
+__label__tech lost password
+__label__tech passphrase help
+__label__tech how can i change my passcode?
+__label__tech reset credentials for account 
+__label__tech i need my password reset
+__label__tech i need to change my passcode
+__label__tech change password
+__label__tech i seem to have forgotteen my account credentials
+__label__tech can't access windows
 __label__tech passcode recovery process
-__label__tech recovery process to make a new password for logins
-__label__tech is there a easy way to manage my passwords?  
-__label__tech password lost 
+__label__tech log in help
+__label__tech help me with my passphrase
+__label__tech need a new password
+__label__tech i need to change my passphrase
+__label__tech i do not know what is my account password 
+__label__tech how can i change my passphrase?
+__label__tech please reset my passcode
+__label__tech please reset my passphrase
+__label__tech i can't remember my password
+__label__tech change passphrase
+__label__tech need a new passcode
+__label__tech windows won't let me log in
+__label__tech i lost access 
+__label__tech password troubleshooting
+__label__tech passphrase troubleshooting
+__label__tech can you reset my password for me please 
+__label__tech where can i set a password for my account
+__label__tech password recovery process 
+__label__tech i can't log in
+__label__tech how can i change my password?
+__label__tech recover passcode
+__label__tech passcode won't work
+__label__tech i forgot my passcode
+__label__tech i forgot my password
+__label__tech i need help logging in
+__label__tech what is my password?
+__label__tech password won't work
+__label__tech do i need to provide any information to set a new password 
+__label__tech i can't remember my passcode
+__label__tech how can i change my passcode?
+__label__tech i need to change my password
+__label__tech how can i recover my passcode?
+__label__tech what is my passphrase?
+__label__tech reset my passcode
 
-__label__tech why is my computer so slow?
-__label__tech my computer is slow
-__label__tech my computer is lagging
-__label__tech computer slowdown
-__label__tech computer speedup
-__label__tech how can i make my computer faster?
-__label__tech how to increase computer speed?
-__label__tech increasing computer speed
-__label__tech why is my computer lagging?
-__label__tech how to make my computer run faster?
-__label__tech what causes computer slowdown?
-__label__tech how to fix computer slowdown?
-__label__tech how to fix computer lag?
-__label__tech windows is slow
-__label__tech computer takes forever
-__label__tech computer is not fast enough
-__label__tech computer optimization
-__label__tech what is making my computer slow?
-__label__tech causes of slow computer
-__label__tech causes of computer lag
-__label__tech what is making my computer lag?
-__label__tech getting rid of computer lag
-__label__tech making my computer faster
-__label__tech speeding up my computer
-__label__tech i need help with my computer's performance
-__label__tech improving computer performance
-__label__tech how to fix poor computer performance?
-__label__tech how to improve computer performance?
-__label__tech improving computer speed
-__label__tech my computer is running at low speed
-__label__tech why is my pc so slow?
-__label__tech my pc is slow
-__label__tech my pc is lagging
-__label__tech pc slowdown
-__label__tech pc speedup
-__label__tech how can i make my pc faster?
-__label__tech how to increase pc speed?
-__label__tech increasing pc speed
-__label__tech why is my pc lagging?
-__label__tech how to make my pc run faster?
-__label__tech what causes pc slowdown?
-__label__tech how to fix pc slowdown?
-__label__tech how to fix pc lag?
-__label__tech pc is slow
-__label__tech pc takes forever
 __label__tech pc is not fast enough
-__label__tech pc optimization
-__label__tech what is making my pc slow?
-__label__tech causes of slow pc
-__label__tech causes of pc lag
+__label__tech i need help with my computer's performance
 __label__tech what is making my pc lag?
-__label__tech getting rid of pc lag
-__label__tech making my pc faster
-__label__tech speeding up my pc
-__label__tech i need help with my pc's performance
-__label__tech improving pc performance
-__label__tech how to fix poor pc performance?
-__label__tech how to improve pc performance?
-__label__tech improving pc speed
-__label__tech my pc is running at low speed
-__label__tech why is my laptop so slow?
-__label__tech my laptop is slow
-__label__tech my laptop is lagging
-__label__tech laptop slowdown
-__label__tech laptop speedup
-__label__tech how can i make my laptop faster?
-__label__tech how to increase laptop speed?
-__label__tech increasing laptop speed
-__label__tech why is my laptop lagging?
-__label__tech how to make my laptop run faster?
-__label__tech what causes laptop slowdown?
-__label__tech how to fix laptop slowdown?
-__label__tech how to fix laptop lag?
-__label__tech laptop is slow
-__label__tech laptop takes forever
-__label__tech laptop is not fast enough
-__label__tech laptop optimization
-__label__tech what is making my laptop slow?
-__label__tech causes of slow laptop
-__label__tech causes of laptop lag
-__label__tech what is making my laptop lag?
-__label__tech getting rid of laptop lag
-__label__tech making my laptop faster
-__label__tech speeding up my laptop
-__label__tech i need help with my laptop's performance
-__label__tech improving laptop performance
-__label__tech how to fix poor laptop performance?
-__label__tech how to improve laptop performance?
-__label__tech improving laptop speed
-__label__tech my laptop is running at low speed
-__label__tech lag
-__label__tech slowdown
-__label__tech slow speed
-__label__tech lagging
+__label__tech computer is not fast enough
+__label__tech pc optimization
 __label__tech boost computation speeds
-__label__tech help boost my computer speeds
-__label__tech why does my laptop run so slow, how to increase speed
-__label__tech improve speeds on my desktop 
+__label__tech how to fix laptop slowdown?
+__label__tech laptop is not fast enough
+__label__tech how to increase laptop speed?
+__label__tech my computer is slow
+__label__tech how to fix poor computer performance?
+__label__tech improving laptop performance
+__label__tech what causes pc slowdown?
 __label__tech what causes slow speeds
-__label__tech how to avoid computer slowing down
+__label__tech my pc is slow
+__label__tech improving computer performance
+__label__tech my pc is lagging
+__label__tech computer speedup
+__label__tech causes of slow laptop
+__label__tech improving pc speed
+__label__tech help boost my computer speeds
+__label__tech slowdown
+__label__tech i need help with my pc's performance
+__label__tech how to fix poor pc performance?
+__label__tech computer takes forever
+__label__tech how can i make my laptop faster?
+__label__tech causes of slow pc
+__label__tech causes of laptop lag
+__label__tech what is making my computer lag?
+__label__tech pc speedup
+__label__tech how to fix computer lag?
+__label__tech causes of computer lag
+__label__tech speeding up my laptop
+__label__tech my pc is running at low speed
+__label__tech laptop takes forever
+__label__tech lagging
+__label__tech computer optimization
+__label__tech my computer is lagging
+__label__tech improving computer speed
+__label__tech how to improve computer performance?
+__label__tech why is my computer lagging?
+__label__tech getting rid of computer lag
+__label__tech how to improve laptop performance?
+__label__tech what causes computer slowdown?
+__label__tech how to make my pc run faster?
+__label__tech improving laptop speed
+__label__tech causes of slow computer
+__label__tech causes of pc lag
+__label__tech improving pc performance
+__label__tech pc slowdown
+__label__tech my laptop is slow
+__label__tech slow speed
+__label__tech how to increase pc speed?
+__label__tech what is making my laptop lag?
+__label__tech how to make my laptop run faster?
+__label__tech speeding up my pc
+__label__tech increasing computer speed
+__label__tech how to increase computer speed?
+__label__tech how to fix computer slowdown?
+__label__tech how to fix laptop lag?
+__label__tech what is making my laptop slow?
+__label__tech lag
+__label__tech increasing pc speed
+__label__tech making my pc faster
+__label__tech making my laptop faster
+__label__tech windows is slow
+__label__tech why is my computer so slow?
+__label__tech my laptop is lagging
+__label__tech how to make my computer run faster?
+__label__tech why does my laptop run so slow, how to increase speed
+__label__tech how to fix pc slowdown?
+__label__tech my computer is running at low speed
+__label__tech why is my pc lagging?
+__label__tech laptop is slow
+__label__tech why is my laptop so slow?
+__label__tech making my computer faster
+__label__tech pc is slow
+__label__tech my laptop is running at low speed
 __label__tech prevent slow downs on my computer 
+__label__tech computer slowdown
+__label__tech why is my laptop lagging?
+__label__tech speeding up my computer
+__label__tech how to avoid computer slowing down
+__label__tech what causes laptop slowdown?
+__label__tech why is my pc so slow?
+__label__tech laptop optimization
+__label__tech how to fix pc lag?
+__label__tech laptop speedup
+__label__tech what is making my computer slow?
+__label__tech pc takes forever
+__label__tech getting rid of pc lag
+__label__tech how to fix poor laptop performance?
+__label__tech how can i make my pc faster?
+__label__tech laptop slowdown
+__label__tech what is making my pc slow?
+__label__tech how to improve pc performance?
+__label__tech getting rid of laptop lag
+__label__tech improve speeds on my desktop 
+__label__tech increasing laptop speed
+__label__tech how can i make my computer faster?
+__label__tech i need help with my laptop's performance
 
-__label__tech why can't i print?
-__label__tech i can't print
-__label__tech what is wrong with my printer?
-__label__tech printer
-__label__tech printer help
-__label__tech my printer is not working
-__label__tech how to fix printer?
-__label__tech how can i fix my printer?
-__label__tech what is wrong with my printer?
+__label__tech i need help with my inkjet
+__label__tech inkjet won't work
+__label__tech inkjet is not working 100%
 __label__tech printer troubleshooting
-__label__tech i need help to print
-__label__tech i need help with my printer
-__label__tech there is something wrong with my printer
+__label__tech how can i fix my inkjet?
+__label__tech printer failure 
 __label__tech there is a problem with my printer
-__label__tech i am not able to print
-__label__tech broken printer
-__label__tech printer won't work
-__label__tech printer is not responding
-__label__tech tried to print but nothing comes out
-__label__tech printer problems
-__label__tech why is my printer not working?
-__label__tech can you help me with printer problems?
-__label__tech printer issue
+__label__tech printer help
 __label__tech printing issue
-__label__tech printer error
-__label__tech printer offline
-__label__tech why does it say my printer is offline?
-__label__tech printer setup
+__label__tech why does it say my inkjet is offline?
+__label__tech document failed to print 
+__label__tech what is wrong with my printer?
+__label__tech how to fix printer?
 __label__tech printer configuration
+__label__tech i am missing pages when i print 
+__label__tech paper tray empty error in printer 
+__label__tech there is something wrong with my inkjet
+__label__tech my inkjet is not working
+__label__tech inkjet problems
+__label__tech tried to use inkjet but nothing comes out
+__label__tech i don't see my inkjet
+__label__tech why is my inkjet not working?
+__label__tech printer problems
+__label__tech how can i fix my printer?
+__label__tech how to use an inkjet?
+__label__tech i am not able to print
+__label__tech missing pages from printed documents 
+__label__tech how to setup an inkjet?
+__label__tech inkjet is not responding
+__label__tech inkjet troubleshooting
+__label__tech inkjet offline
+__label__tech my printer is not working
+__label__tech help configure my printer 
+__label__tech printer
+__label__tech printer won't work
+__label__tech how do I print two-sided pages 
+__label__tech how to fix inkjet?
+__label__tech i am not able to use my inkjet
 __label__tech why can't i use my inkjet?
+__label__tech my printer is giving my trouble
+__label__tech printed pages are very hard to see, low ink
+__label__tech i need help to print
+__label__tech printer offline
+__label__tech printer is not printing the correct set of papers
+__label__tech how to setup a printer?
+__label__tech my inkjet is giving my trouble
+__label__tech what is wrong with my printer?
+__label__tech why is my printer not working?
+__label__tech broken inkjet
+__label__tech there is something wrong with my printer
+__label__tech how to load paper tray in printer 
+__label__tech can you help me with inkjet problems?
+__label__tech common problems with inkjet
+__label__tech i don't see my printer
+__label__tech how do i know my printer is working?
+__label__tech can you help me with printer problems?
+__label__tech change printer settings 
+__label__tech print test for printer 
+__label__tech why does it say my printer is offline?
+__label__tech printer error
 __label__tech i can't use my inkjet
+__label__tech faulty inkjet
+__label__tech why can't i print?
+__label__tech printer is not connected correctly 
 __label__tech what is wrong with my inkjet?
 __label__tech inkjet
-__label__tech inkjet help
-__label__tech my inkjet is not working
-__label__tech how to fix inkjet?
-__label__tech how can i fix my inkjet?
-__label__tech what is wrong with my inkjet?
-__label__tech inkjet troubleshooting
-__label__tech i need help to use my inkjet
-__label__tech i need help with my inkjet
-__label__tech there is something wrong with my inkjet
-__label__tech there is a problem with my inkjet
-__label__tech i am not able to use my inkjet
-__label__tech broken inkjet
-__label__tech inkjet won't work
-__label__tech inkjet is not responding
-__label__tech tried to use inkjet but nothing comes out
-__label__tech inkjet problems
-__label__tech why is my inkjet not working?
-__label__tech can you help me with inkjet problems?
-__label__tech inkjet issue
-__label__tech inkjet error
-__label__tech inkjet offline
-__label__tech why does it say my inkjet is offline?
-__label__tech inkjet setup
-__label__tech inkjet configuration
-__label__tech how to use a printer?
-__label__tech how to use an inkjet?
-__label__tech i don't see my printer
-__label__tech i don't see my inkjet
-__label__tech fixing a printer
-__label__tech fixing an inkjet
-__label__tech how to setup a printer?
-__label__tech how to setup an inkjet?
-__label__tech how do i know my printer is working?
 __label__tech how do i know my inkjet is working?
-__label__tech common problems with printer
-__label__tech common problems with inkjet
-__label__tech faulty printer
-__label__tech faulty inkjet
-__label__tech my printer is giving my trouble
-__label__tech my printer is giving my issues
-__label__tech my inkjet is giving my trouble
-__label__tech my inkjet is giving my issues
-__label__tech i am missing pages when i print 
-__label__tech missing pages from printed documents 
-__label__tech printer is not printing all of my pages 
 __label__tech missing pages 
-__label__tech printed pages are very hard to see, low ink
-__label__tech my printer does not print in color 
-__label__tech why are my pages only printing in black and white 
-__label__tech printer is not connected correctly 
-__label__tech printer failure 
+__label__tech i need help to use my inkjet
+__label__tech i need help with my printer
+__label__tech how to use a printer?
+__label__tech inkjet issue
+__label__tech tried to print but nothing comes out
 __label__tech inkjet failure
-__label__tech document failed to print 
-__label__tech printer is not printing the correct set of papers 
-__label__tech inkjet is not working 100%
-__label__tech i am experiencing problems printing only specific number of pages 
+__label__tech common problems with printer
+__label__tech inkjet setup
 __label__tech printer prints backwards 
-__label__tech how do I print two-sided pages 
-__label__tech where are the settings for my printer
-__label__tech change printer settings 
-__label__tech printer configuration 
-__label__tech help configure my printer 
+__label__tech what is wrong with my inkjet?
+__label__tech my printer is giving my issues
+__label__tech fixing a printer
+__label__tech printer is not responding
+__label__tech my inkjet is giving my issues
+__label__tech i can't print
+__label__tech printer setup
 __label__tech how to configure inkjet 
-__label__tech print test for printer 
+__label__tech broken printer
+__label__tech fixing an inkjet
+__label__tech inkjet error
+__label__tech why are my pages only printing in black and white
+__label__tech faulty printer
+__label__tech printer is not printing all of my pages 
 __label__tech how to change paper size in printer 
-__label__tech how to load paper tray in printer 
-__label__tech paper tray empty error in printer 
+__label__tech inkjet help
 __label__tech error messages when printing documents
+__label__tech where are the settings for my printer
+__label__tech printer configuration 
+__label__tech i am experiencing problems printing only specific number of pages 
+__label__tech printer issue
+__label__tech my printer does not print in color 
+__label__tech inkjet configuration
+__label__tech there is a problem with my inkjet
 
-__label__tech internet troubleshooting
-__label__tech what is wrong with my internet?
-__label__tech why is my connection slow?
-__label__tech how to fix slow internet?
-__label__tech is there something wrong with the internet?
-__label__tech how to speed up internet connection?
-__label__tech i need faster internet
-__label__tech can't connect to the internet
-__label__tech can't connect to the web
-__label__tech cannot connect to the internet
+__label__tech internet is slow during online gaming 
+__label__tech internet access
+__label__tech how to speed up web connection?
+__label__tech wifi is not working 
+__label__tech wifi internet failing 
+__label__tech internet connection help
+__label__tech why can't i access the internet?
 __label__tech cannot connect to the web
+__label__tech connection troubleshooting
+__label__tech network error
+__label__tech internet is slow
+__label__tech no internet
+__label__tech can't use the web
+__label__tech web browser not loading
+__label__tech internet browser not loading
+__label__tech application is not connecting to the cloud
+__label__tech how to fix slow network connection?
+__label__tech web help
 __label__tech internet connection
 __label__tech web connection
-__label__tech browser not working
-__label__tech web browser not working
-__label__tech browser error
-__label__tech web browser error
-__label__tech internet error
-__label__tech slow internet
-__label__tech slow web
-__label__tech internet is slow
-__label__tech web is slow
-__label__tech why can't i connect to the web?
-__label__tech why can't i connect to the internet?
-__label__tech web troubleshooting
-__label__tech internet help
-__label__tech web help
-__label__tech what is wrong with the web?
-__label__tech how to speed up the web?
+__label__tech why is my network connection slow?
+__label__tech why is my connection slow?
+__label__tech can't connect to the internet
+__label__tech wi-fi connection is weaker than wired 
 __label__tech faster internet
-__label__tech web troubleshooting
-__label__tech web connectivity troubleshooting
-__label__tech connection troubleshooting
-__label__tech what is wrong with my network?
-__label__tech what is wrong with my connection?
-__label__tech why is my web connection slow?
-__label__tech why is my Internet slow?
-__label__tech how to fix slow web connection?
-__label__tech how to fix slow connection?
-__label__tech is there something wrong with the web?
-__label__tech how to speed up web connection?
-__label__tech i need faster connection
-__label__tech can't use the internet
-__label__tech can't find network
-__label__tech can't use the web
-__label__tech cannot use the internet
+__label__tech wifi connection failed 
 __label__tech cannot use the web
-__label__tech cannot establish web connection
-__label__tech connection to the web
-__label__tech internet access
-__label__tech web access
-__label__tech cannot establish web connection
-__label__tech no internet
-__label__tech no internet connection
-__label__tech no web connection
-__label__tech web connection not working
-__label__tech web not connecting
-__label__tech internet browser not working
-__label__tech internet browser not connecting
-__label__tech browser not connecting
-__label__tech web browser not connecting
-__label__tech internet browser not loading
-__label__tech browser not loading
-__label__tech web browser not loading
+__label__tech can't use the internet
+__label__tech why is my Internet slow?
+__label__tech how to speed up the web?
+__label__tech internet firewall is blocking pages 
 __label__tech internet browser error
-__label__tech internet error
-__label__tech web error
-__label__tech web connection error
+__label__tech web troubleshooting
+__label__tech web browser error
+__label__tech browser error
+__label__tech cannot use the internet
+__label__tech is there something wrong with the web?
+__label__tech network not working
+__label__tech wired internet connection not working 
+__label__tech what is wrong with my network?
+__label__tech internet not working with wifi
+__label__tech web connectionhelp
+__label__tech web browser not working
+__label__tech internet help
+__label__tech cannot find network
+__label__tech web not working with wifi
+__label__tech online browsing is slow 
+__label__tech how to speed up internet connection?
+__label__tech cannot connect to the internet
+__label__tech faster network connection
+__label__tech what is wrong with the web?
+__label__tech wifi network is not connecting 
+__label__tech browser not loading
+__label__tech no network connection
+__label__tech no web connection
+__label__tech browser not working
+__label__tech slow web
+__label__tech internet connection is slow
+__label__tech can't connect to the web
+__label__tech how to speed up the web connection?
+__label__tech how to connect using wi-fi to internet 
+__label__tech web connection is slow
+__label__tech wifi connection error with internet 
+__label__tech faster internet connection
+__label__tech slow internet
+__label__tech web access
+__label__tech web is slow
+__label__tech web browser is not displaying pages 
+__label__tech google chrome web browser not working 
+__label__tech network not connecting
 __label__tech slow internet connection
 __label__tech slow web connection
-__label__tech internet connection is slow
-__label__tech web connection is slow
+__label__tech internet browser not working
+__label__tech is there something wrong with the internet?
+__label__tech network access
+__label__tech web error
+__label__tech i need faster internet
+__label__tech internet error
+__label__tech can't find network
+__label__tech internet browser not connecting
+__label__tech what is wrong with my internet?
+__label__tech no internet connection
 __label__tech why can't i access the web?
-__label__tech why can't i access the internet?
-__label__tech web connection troubleshooting
-__label__tech internet connection help
-__label__tech web connection help
-__label__tech what is wrong with the web connection?
-__label__tech how to speed up the web connection?
-__label__tech faster internet connection
-__label__tech faster web connection
-__label__tech wi-fi is not connected 
-__label__tech wi-fi connection is weaker than wired  
-__label__tech wired internet connection not working 
-__label__tech application is not connecting to the cloud
-__label__tech how to connect using wi-fi to internet 
-__label__tech web browser is not displaying pages 
-__label__tech internet is slow during online gaming 
-__label__tech internet firewall is blocking pages 
-__label__tech online browsing is slow 
-__label__tech google chrome web browser not working 
-__label__tech sharing internet connection 
-__label__tech how to setup wi-fi for internet connection 
+__label__tech what is wrong with my connection?
+__label__tech web troubleshooting
+__label__tech browser not connecting
 __label__tech wi-fi error 
-__label__tech wifi is not working 
-__label__tech wifi connection failed 
-__label__tech wifi internet failing 
-__label__tech web not working with wifi
-__label__tech internet not working with wifi
-__label__tech wifi network is not connecting 
-__label__tech wifi connection error with internet 
+__label__tech network troubleshooting
+__label__tech what is wrong with the web connection?
+__label__tech wi-fi is not connected 
+__label__tech network troubleshooting
+__label__tech how to setup wi-fi for internet connection 
+__label__tech how to fix slow connection?
+__label__tech web browser not connecting
+__label__tech why can't i connect to the web?
+__label__tech internet error
+__label__tech sharing internet connection 
+__label__tech i need faster connection
+__label__tech internet troubleshooting
+__label__tech why can't i connect to the internet?
+__label__tech how to fix slow internet?
 
 __label__tech i need help recovering a file
 __label__tech i have deleted a file. help
