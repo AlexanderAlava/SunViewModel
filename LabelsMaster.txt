@@ -198,6 +198,7 @@ __label__holidays what are my paid holidays this year?
 __label__holidays how many days do I have off this year?
 __label__holidays how many paid holidays do I have off this year?
 __label__holidays how much paid time off do I have this year?
+__label__holidays i need help with learning more about my holidays
 
 __label__sunview what is sunview's corporate contact information?
 __label__sunview what is sunview software's corporate contact information?
@@ -706,308 +707,308 @@ __label__name what is your name?
 __label__name are you a chatbot?
 __label__name tell me who are you?
 
-__label__human are you human?
-__label__human you are not human
-__label__human you are not a human
-__label__human you are not real
-__label__human you're not real
-__label__human you are not really alive
-__label__human are you real?
-__label__human are you alive?
-__label__human can you pass the turing test?
-__label__human do you pass the turing test?
-__label__human do you know about the turing test?
-__label__human have you passed the turing test?
-__label__human are you a person?
-__label__human you're fake?
-__label__human you are not a reality?
-__label__human false person?
-__label__human what is your true nature?
-__label__human you don't exist?
-__label__human do you have feelings?
-__label__human dead or alive?
-__label__human did you pass?
-__label__human did you overcome the test?
-__label__human did you succeed in the exam?
-__label__human so are you a real human or what
-__label__human do not tell me you are not human
-__label__human you better be human
-__label__human what are humans
-__label__human what is a human
-__label__human do you have any facts on humans
-__label__human provide me with facts about humans please
-__label__human tell me about the human race
-__label__human are you a living person
-__label__human a living person like you can talk right
-__label__human tell me what type of person are you
-__label__human if you are a human then you can talk right
-__label__human humans are nice
-__label__human humans are the living race on plant earth
-__label__human do humans live on earth
-__label__human are you a alien or a human
-__label__human i hope that you are not a alien
-__label__human i do not like aliens
-__label__human if you are a alien i do not want to talk to you
-__label__human aliens are scary
-__label__human did you take the turing test when you were born
-__label__human what was the turing test like
-__label__human was the turing test really hard or easy for you
-__label__human did you get a perfect score on the test
-__label__human if you passed the test that means you are human right
-__label__human you passed the turing test so you are a human
-__label__human only humans can pass the turing test you know that right
-__label__human do not lie to me and tell me you are human
-__label__human turing test is only for humans to take
-__label__human if you pass the test then you can be a human
-__label__human aliens do not take the turing test
 __label__human aliens are fake and humans are real right
-__label__human i hope that only humans like on earth and not aliens
-__label__human if you are a human then prove it to me
-__label__human only humans have feelings
-__label__human humans score perfect on the turing test
-__label__human tell me more about the turing test
-__label__human can i take the turing test when i turn 18
-__label__human do i need to pay to take the test
-__label__human if i pass the test do i become human
-__label__human i hope that only humans take the turing test
+__label__human can you provide me with facts that you are human?
+__label__human do you love like a person?
 __label__human what does the turing test have to do with humans anyway
-__label__human if humans made the turing test then how can you pass it
-__label__human if you pass the turing test then you are smarter than humans
-__label__human are humans better than you are the test
-__label__human show me why humans can not do as well as you can on the test
-__label__human why do you lie on the turing test
-__label__human aliens can not take the turing test right
-__label__human aliens can not pass the turing test
-__label__human only humans can take the turing test if you are not a alien
+__label__human do you dream like a person?
+__label__human humans are the living race on plant earth
+__label__human are you really not a person?
+__label__human you're not real
+__label__human how can i know if you are human?
+__label__human if you are a alien i do not want to talk to you
+__label__human you passed the turing test so you are a human
+__label__human humans are nice
+__label__human are you smarter than a person?
 __label__human turing test is the ultimate decider if you are human
+__label__human please proof me you are not human
+__label__human are you alive?
+__label__human do you eat like a human being?
+__label__human false person?
+__label__human are you a living person
+__label__human what is your true nature?
+__label__human aliens do not take the turing test
+__label__human you are not acting like a person
 __label__human turing test is tests if you are human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
-__label__human
+__label__human do you know about the turing test?
+__label__human aliens can not pass the turing test
+__label__human did you become a human being already?
+__label__human if you pass the turing test then you can be a human
+__label__human you're fake?
+__label__human did you take the turing test when you were born
+__label__human did you ever feel like you were a human?
+__label__human if humans made the turing test then how can you pass it
+__label__human if you are a human then prove it to me
+__label__human do you love like a human being?
+__label__human do you pass the turing test?
+__label__human do you breathe like a human being?
+__label__human only humans have feelings
+__label__human only humans can take the turing test if you are not a alien
+__label__human i hope that only humans take the turing test
+__label__human humans score perfect on the turing test
+__label__human tell me what type of person are you
+__label__human can you think like a human being?
+__label__human only humans can pass the turing test you know that right
+__label__human provide me with facts about humans please
+__label__human so are you a real human or what
+__label__human was the turing test really hard or easy for you
+__label__human do you have feelings?
+__label__human what are humans
+__label__human i hope that you are not a alien
+__label__human do not tell me you are not human
+__label__human do humans live on earth
+__label__human if you are a human then you can talk right
+__label__human dead or alive?
+__label__human are you a person?
+__label__human do not lie to me and tell me you are human
+__label__human aliens are scary
+__label__human you better be human
+__label__human a living person like you can talk right
+__label__human are you real?
+__label__human i do not like aliens
+__label__human are you a alien or a human
+__label__human did you ever feel passion?
+__label__human are you smarter than humans?
+__label__human tell me about the human race
+__label__human you are not a reality?
+__label__human you don't exist?
+__label__human show me why humans can not do as well as you can on the turing test
+__label__human did you get a perfect score on the test
+__label__human you are not a human
+__label__human if you pass the turing test then you are smarter than humans
+__label__human are humans better than you?
+__label__human i am sure you can't pass the turing test
+__label__human do you have any facts on humans
+__label__human are you really not a human?
+__label__human do you think you are human?
+__label__human what was the turing test like
+__label__human do you think you're human?
+__label__human you are not real
+__label__human i don't trust you, you are not a human
+__label__human how can i know if you are a person?
+__label__human what is a human
+__label__human can i take the turing test when i turn 18
+__label__human you cannot pass the turing test because you are not human
+__label__human you are not human
+__label__human are you human?
+__label__human are you part of humanity?
+__label__human can you think like a person?
+__label__human did you ever feel love?
+__label__human why do you lie on the turing test
+__label__human turing test is only for humans to take
+__label__human if you passed the test that means you are human right
+__label__human do you breathe like a person?
+__label__human proof me you are not human
+__label__human do you eat like a person?
+__label__human can you pass the turing test?
+__label__human you are not really alive
+__label__human tell me more about the turing test
+__label__human i hope that only humans like on earth and not aliens
+__label__human do you think you are a person?
+__label__human have you passed the turing test?
+__label__human aliens can not take the turing test right
 
-__label__bot what do you do?
-__label__bot what are you able to do?
-__label__bot what is your job?
-__label__bot how can you assist me?
-__label__bot how can you help me?
-__label__bot can you help me?
-__label__bot can you tell me some of the things you can do?
-__label__bot what are you capable of?
-__label__bot what are your capabilities?
-__label__bot your skills?
-__label__bot what can you do for me?
-__label__bot what is your career?
-__label__bot i need help
-__label__bot how can you satisfy my needs?
-__label__bot can you offer me some assistance?
-__label__bot what are some things you can do?
-__label__bot i need some assistance?
-__label__bot what are your pros and cons?
-__label__bot i am lost
-__label__bot can i ask you a question?
-__label__bot what are some of your abilities?
-__label__bot what makes you unique?
-__label__bot are you unique?
-__label__bot so what is you cool about you
-__label__bot is there something that makes you cool from the rest
-__label__bot tell me what are your skills
-__label__bot is there something that only you can do for me
-__label__bot i want to know what can you do for me
-__label__bot so what can a bot like you do for us
-__label__bot what type of bot are you
-__label__bot is there something you can do that will help me with my questions
-__label__bot what can a bot do to help me
-__label__bot is there anything a bot can do that a human can not do to help me
 __label__bot so tell me what skills do bots have
+__label__bot what makes you unique?
 __label__bot what is the best skill you have for us
-__label__bot are bots helpful
-__label__bot how helpful are you
-__label__bot so you are a bot, what can you do for me
+__label__bot what type of bot are you
+__label__bot dear chatbot please help me
+__label__bot what can you do for me?
+__label__bot are you unique?
+__label__bot how can you help me with my problems?
+__label__bot what do you actually do as a bot?
 __label__bot i need a bot's help
-__label__bot what are your strong and weak points bot
-__label__bot what are your strongest traits as a bot
-__label__bot what are you most unique traits as a bot
-__label__bot can you help me with your specific skill set
-__label__bot what are the capabilities of a bot
-__label__bot are your capabilities suitable for this project
-__label__bot can your capabilities satisfy my needs
-__label__bot tell me what your career is as a bot
-__label__bot what information can you share with me
-__label__bot i need a bot's assistance
-__label__bot i am having trouble with this, can a bot help me
-__label__bot i do not understand, i need someone who has the skills
-__label__bot i am not skilled as you
-__label__bot tell me what a bot can do for me in time of need
-__label__bot why do we need a bot
-__label__bot are bots the solution to my questions
-__label__bot if i need help who can i contact
-__label__bot what is the best contact for when i am lost
-__label__bot if i need to ask someone a question, who can i ask
-__label__bot do bots like to help others
-__label__bot if i need help with a question, do you have the answers
-__label__bot do your skills relate to those in need
-__label__bot i do not understand this question, i need a bot to help me
-__label__bot skills are very important for a bot
+__label__bot could you please help me
+__label__bot i need you to provide help
+__label__bot i need some assistance?
+__label__bot how can you satisfy my needs?
+__label__bot i will be happy if you help me
+__label__bot your skills?
 __label__bot are you able to determine my needs
-__label__bot can you really answer my questions
-__label__bot if a bot answers my questions, do they know the answer
-__label__bot i hear that you have the knowledge to help me
+__label__bot what are your strong and weak points bot
+__label__bot are bots the solution to my questions
+__label__bot what is your career?
+__label__bot dear bot please help me
+__label__bot can you help me with your specific skill set
 __label__bot i can not figure out how to answer this question
-__label__bot i do not know what is the correct answer to this question
-__label__bot i would like more information on this question
-__label__bot can you tell me the answer as a bot
-__label__bot do you know the correct response
+__label__bot what is your job?
+__label__bot is there something you can do that will help me with my questions
+__label__bot i need a bot's assistance
+__label__bot how helpful are you
+__label__bot please help me
 __label__bot do you have the correct response to my question
+__label__bot what are you capable of?
+__label__bot can your capabilities satisfy my needs
+__label__bot what are your capabilities?
+__label__bot if i need help with a question, do you have the answers
+__label__bot tell me what a bot can do for me in time of need
+__label__bot skills are very important for a bot
+__label__bot are your capabilities suitable for this project
+__label__bot what are your pros and cons?
+__label__bot do your skills relate to those in need
+__label__bot i would like more information on this question
+__label__bot can you help me?
+__label__bot is there something that only you can do for me
+__label__bot hey bot i need help
+__label__bot is there anything a bot can do that a human can not do to help me
+__label__bot if i need help who can i contact
+__label__bot can you tell me some of the things you can do?
+__label__bot are bots helpful
+__label__bot can you really answer my questions
+__label__bot do you know the correct response
+__label__bot what are you able to do?
+__label__bot what are you most unique traits as a bot
+__label__bot what are some things you can do?
+__label__bot if i need to ask someone a question, who can i ask
+__label__bot what are your strongest traits as a bot
+__label__bot i am lost
+__label__bot how can you help me with my issues?
+__label__bot i need you to please help me
+__label__bot can you offer me some assistance?
+__label__bot what do you actually do as a chatbot?
+__label__bot what are some of your abilities?
+__label__bot what can a bot do to help me
+__label__bot i need your assistance
+__label__bot what do you do?
+__label__bot do bots like to help others
+__label__bot what kind of skills do i need to become a bot?
+__label__bot if a bot answers my questions, do they know the answer
+__label__bot what can you do to help with my problem?
+__label__bot please provide me help
+__label__bot i need help
+__label__bot i really need your assistance
 __label__bot if you know the answer to my question then you are a helpful bot
+__label__bot i do not know what is the correct answer to this question
+__label__bot hey chatbot i need help
 __label__bot i need help bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
-__label__bot
+__label__bot so what can a bot like you do for us
+__label__bot i want to know what can you do for me
+__label__bot i will be happy if you give me some help
+__label__bot i do not understand this question, i need a bot to help me
+__label__bot i hear that you have the knowledge to help me
+__label__bot what does a bot actually do?
+__label__bot tell me what are your skills
+__label__bot do you as a bot constantly learn?
+__label__bot please i need help
+__label__bot can i ask you a question?
+__label__bot why do we need a bot
+__label__bot what information can you share with me
+__label__bot how can you assist me?
+__label__bot can you tell me the answer as a bot
+__label__bot what are the capabilities of a bot
+__label__bot what is the best contact for when i am lost
+__label__bot what can you do for me as a simple chatbot?
+__label__bot so you are a bot, what can you do for me
+__label__bot i am not skilled as you
+__label__bot is there something that makes you cool from the rest
+__label__bot tell me what your career is as a bot
+__label__bot what do you do?
+__label__bot provide me help
+__label__bot i am having trouble with this, can a bot help me
+__label__bot so what is you cool about you
+__label__bot how can you help me?
+__label__bot i do not understand, i need someone who has the skills
 
-__label__itsm what is the next generation of itsm?
-__label__itsm future of itsm?
-__label__itsm whats the future of istm?
-__label__itsm what is the best itsm software available?
-__label__itsm how will itsm look like in future?
-__label__itsm what is next gen itsm?
-__label__itsm what is the next itsm?
-__label__itsm itsm?
-__label__itsm what is itsm?
-__label__itsm best itsm out there?
-__label__itsm what does the future hold for itsm?
-__label__itsm next itsm update?
-__label__itsm what can itsm do for me?
-__label__itsm information technology?
-__label__itsm service management?
-__label__itsm it service?
-__label__itsm it service management?
-__label__itsm what is the upcoming role of itsm?
-__label__itsm is itsm better than the rest?
-__label__itsm what will itsm accomplish?
-__label__itsm can itsm be the future?
-__label__itsm is itsm right for me
-__label__itsm what is the pros and cons of using itsm
-__label__itsm is itsm the right choice for companies to take
-__label__itsm how does itsm help a company grow
-__label__itsm is itsm the best choice that i can take right now
-__label__itsm what is itsm and how does it relate to my company
-__label__itsm is itsm the only option that i have right now
-__label__itsm which itsm service is the best
-__label__itsm compare itsm to other services
-__label__itsm is itsm the future for all companies
-__label__itsm what is my options for itsm
-__label__itsm are there a lot of different types of itsm
-__label__itsm i do not know what is itsm, can you tell my what it is
-__label__itsm if i use itsm, how will my company grow
-__label__itsm tell me about information techonologies in the future
-__label__itsm is information management really important for my company
-__label__itsm who can good management of information help my company
-__label__itsm how does itsm help me manage my information
-__label__itsm is itsm safe to use
-__label__itsm is itsm the best option to keep my information safe
-__label__itsm i do not know what is the best option to manage my information
-__label__itsm if i buy itsm will it help me secure my information
-__label__itsm i need the best information manager out there
-__label__itsm can someone break into my information manager
-__label__itsm i am worry that my itsm is not secure enough
-__label__itsm tell me what are the pros and cons of using a information manager
-__label__itsm is using a information manager the right choice for my company
-__label__itsm what software should i buy in order to manage my information
-__label__itsm what different types of information software do you offer
-__label__itsm do you offer any information management software
-__label__itsm what is itsm software
 __label__itsm i do not want to buy itsm software, is there a way around information management
-__label__itsm information management is very important to protect a company right
-__label__itsm itsm software
-__label__itsm itsm is information management at its best
+__label__itsm whats the future of istm?
 __label__itsm where can i find a good itsm provider
-__label__itsm what are the best itsm providers
-__label__itsm information technology service management
-__label__itsm is information technology service management the future for all companies
-__label__itsm what information technology service management software is the best for me
+__label__itsm i want to know more about itsm
+__label__itsm it service?
+__label__itsm is itsm the only option that i have right now
+__label__itsm can i get help with managing my information technology services?
+__label__itsm do you offer any information management software
+__label__itsm how can i benefit from itsm?
+__label__itsm information technology?
+__label__itsm tell me about information techonologies in the future
+__label__itsm i want to know more about information technology service management
+__label__itsm i need the best information manager out there
+__label__itsm what is the upcoming role of itsm?
+__label__itsm i want more information about information technology service management
 __label__itsm what are the pros of using information technology service management
-__label__itsm are there any risks when using information technology service management
-__label__itsm do i need to buy a information technology service management software in order to protect my information
-__label__itsm how does a information technology service management software protect my info
-__label__itsm are information technology service managements safe to use
-__label__itsm can information technology service management protect my info
-__label__itsm what is information service management
-__label__itsm does information service management help protect my company
-__label__itsm what can information service management do for me as a individual
-__label__itsm is information service management the best choice to protect my info
+__label__itsm how can i properly manage my it services?
+__label__itsm if i buy itsm will it help me secure my information
+__label__itsm is itsm right for me
+__label__itsm what does the future hold for itsm?
+__label__itsm what can i do with information technology service management?
+__label__itsm what is my options for itsm
+__label__itsm how can i benefit from information technology service management?
+__label__itsm i need help managing my information technology services
+__label__itsm what are the best itsm providers
 __label__itsm information service management
-__label__itsm service management
+__label__itsm is using a information manager the right choice for my company
+__label__itsm what will itsm accomplish?
+__label__itsm what is the best itsm software available?
+__label__itsm information management is very important to protect a company right
+__label__itsm what can information technology service management achieve for me?
+__label__itsm who can good management of information help my company
+__label__itsm are there a lot of different types of itsm
+__label__itsm i need an itsm service provider
+__label__itsm is itsm the right choice for companies to take
+__label__itsm what can itsm do for me?
+__label__itsm what is next gen itsm?
+__label__itsm what is information service management
+__label__itsm which itsm service is the best
+__label__itsm best itsm out there?
+__label__itsm is information management really important for my company
+__label__itsm if i use itsm, how will my company grow
+__label__itsm i need help managing my it services
+__label__itsm i want more information about itsm
+__label__itsm what is the next generation of itsm?
+__label__itsm compare itsm to other services
+__label__itsm what information technology service management software is the best for me
+__label__itsm what is the pros and cons of using itsm
+__label__itsm is itsm the best choice that i can take right now
+__label__itsm what is the next itsm?
+__label__itsm please tell me more about information technology service management
+__label__itsm will information technology service management help me grow my company?
+__label__itsm how does itsm help a company grow
+__label__itsm i do not know what is itsm, can you tell my what it is
+__label__itsm itsm is information management at its best
+__label__itsm can information technology service management protect my info
+__label__itsm will itsm help me grow my company?
 __label__itsm management of information
+__label__itsm tell me what are the pros and cons of using a information manager
+__label__itsm what is itsm and how does it relate to my company
+__label__itsm is itsm the best option to keep my information safe
+__label__itsm are there any risks when using information technology service management
+__label__itsm i do not know what is the best option to manage my information
+__label__itsm what can i do with itsm?
+__label__itsm what can information service management do for me as a individual
+__label__itsm is information technology service management the future for all companies
+__label__itsm how does itsm help me manage my information
+__label__itsm what is itsm?
+__label__itsm what different types of information software do you offer
+__label__itsm can someone break into my information manager
+__label__itsm how will itsm look like in future?
+__label__itsm next itsm update?
+__label__itsm is itsm better than the rest?
+__label__itsm is itsm safe to use
+__label__itsm what is itsm software
+__label__itsm where can i find an itsm service provider?
+__label__itsm it service management?
+__label__itsm how does a information technology service management software protect my info
+__label__itsm what can itsm achieve for me?
+__label__itsm itsm?
+__label__itsm itsm software
+__label__itsm future of itsm?
+__label__itsm are information technology service managements safe to use
+__label__itsm service management?
+__label__itsm what tool can i use to manage my it services?
 __label__itsm management of technology information
-__label__itsm 
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
-__label__itsm
+__label__itsm is information service management the best choice to protect my info
+__label__itsm service management
+__label__itsm information technology service management
+__label__itsm i need help with itsm
+__label__itsm i want help with itsm
+__label__itsm can itsm be the future?
+__label__itsm what tool can i use to manage my information technology services?
+__label__itsm does information service management help protect my company
+__label__itsm what software should i buy in order to manage my information
+__label__itsm please tell me more about itsm
+__label__itsm i am worry that my itsm is not secure enough
+__label__itsm is itsm the future for all companies
+__label__itsm how can i properly manage my information technology services?
+__label__itsm do i need to buy a information technology service management software in order to protect my information
 
 __label__halloween is halloween your favorite?
 __label__halloween any ideas for cool halloween’s costumes?
@@ -1788,7 +1789,7 @@ __label__files is there a way to recover a deleted folder?
 __label__files is there a way to restore a deleted folder?
 __label__files i need help recovering a folder
 __label__files i need help restoring a folder
-__label__files help bring back a folder 
+__label__files help bring back a folder
 __label__files how can i recover a deleted folder?
 __label__files how can i restore a deleted folder?
 
@@ -2075,7 +2076,7 @@ __label__voicemail i need help with my voicemail password
 __label__voicemail voicemail passsword is not working
 __label__voicemail wrong voicemail password
 __label__voicemail help login in to voicemail
-__label__voicemail resetting voicemail 
+__label__voicemail resetting voicemail
 __label__voicemail resetting voicemail password
 __label__voicemail resetting voicemail log in information
 __label__voicemail changing voicemail log in information

@@ -195,6 +195,7 @@ __label__non-tech what are my paid holidays this year?
 __label__non-tech how many days do I have off this year?
 __label__non-tech how many paid holidays do I have off this year?
 __label__non-tech how much paid time off do I have this year?
+__label__non-tech i need help with learning more about my holidays
 
 
 __label__non-tech what is sunview's corporate contact information?
@@ -603,461 +604,611 @@ __label__non-tech tell me about preexisting condition insurance
 __label__non-tech insurance for preexisting conditions
 __label__non-tech does my insurance cover preexisting conditions?
 
-__label__non-tech what is your name?
-__label__non-tech what are you called?
-__label__non-tech what should we call you?
-__label__non-tech whats your name?
-__label__non-tech do you have a name?
-__label__non-tech how do you address you?
-__label__non-tech what should i call you?
-__label__non-tech what should we call you?
-__label__non-tech who are you?
-__label__non-tech what are you?
-__label__non-tech what should your name really be?
-__label__non-tech do you have a name?
-__label__non-tech how can i call you?
-__label__non-tech tell me about yourself
-__label__non-tech tell me about you
-__label__non-tech tell me a little more about yourself
-__label__non-tech name please?
-__label__non-tech you're?
-__label__non-tech what is your first and last name?
-__label__non-tech what do your parents call you?
-__label__non-tech what do you go by?
-__label__non-tech what is your preferred name?
-__label__non-tech you are?
-__label__non-tech contact info?
-__label__non-tech what kind are you?
-__label__non-tech are you a chatbot?
-__label__non-tech what do your friends call you?
-__label__non-tech personal information?
-__label__non-tech i don't know who you are!
-__label__non-tech where did you come from?
-__label__non-tech info about you
-__label__non-tech how did you get here?
-__label__non-tech tell me who are you?
-__label__non-tech i do not remember who you are
-__label__non-tech could you please tell me your name, because I do not remember
-__label__non-tech i really need to know what is your name please
-__label__non-tech what is your first and last name
-__label__non-tech do you have a name
-__label__non-tech name please
-__label__non-tech please tell me your name or else
-__label__non-tech i do not know your name
-__label__non-tech introduce yourself to me
-__label__non-tech introduce me your name
-__label__non-tech i command you to tell me your name
-__label__non-tech it will be nice to know your name
-__label__non-tech if only i knew your name
-__label__non-tech i forgot your name
-__label__non-tech do i know who you are
-__label__non-tech who are you
-__label__non-tech i do not remember who you are
-__label__non-tech my name is, what is your name
-__label__non-tech i am new here, what is your name
-__label__non-tech everyone should introduce themselves
-__label__non-tech will you be telling us your name today
-__label__non-tech please tell everyone your name
-__label__non-tech tell us who you really are
-__label__non-tech who are you really deep down
-__label__non-tech do you even have a real name
-__label__non-tech how can a bot like you have a name
-__label__non-tech tell me what your true identity is
-__label__non-tech what is your identity
-__label__non-tech identification please
-__label__non-tech provide me with your id please
-__label__non-tech where is your id
-__label__non-tech id
-__label__non-tech what is your identification number
-__label__non-tech report your name solider
-__label__non-tech give me your id please
-__label__non-tech do you have a id
-__label__non-tech is your name on your id
-__label__non-tech i hope your name matches your id
-__label__non-tech what is your full name
-__label__non-tech do you have a middle name
-__label__non-tech what is your last name
+__label__non-tech i want to know how to call you
 __label__non-tech what is your first name
+__label__non-tech will you be telling us your name today
+__label__non-tech how can i call you?
+__label__non-tech do you have a name?
+__label__non-tech what is your surname?
+__label__non-tech tell me what your true identity is
+__label__non-tech you're?
+__label__non-tech what do your friends call you?
+__label__non-tech do you have a name?
+__label__non-tech tell me about yourself
+__label__non-tech what are you?
+__label__non-tech report your name solider
+__label__non-tech it will be nice to know your name
+__label__non-tech give me your name
+__label__non-tech i want to know how should i address you
+__label__non-tech i command you to tell me your name
+__label__non-tech what is your first and last name?
+__label__non-tech whats your name?
+__label__non-tech i really need to know what is your name please
+__label__non-tech who are you
+__label__non-tech i want to know your name
+__label__non-tech do you have a name
+__label__non-tech info about you
+__label__non-tech where is your id
+__label__non-tech everyone should introduce themselves
+__label__non-tech how do they call you?
+__label__non-tech my name is, what is your name
+__label__non-tech what should your name really be?
+__label__non-tech do you have a id
+__label__non-tech can you please tell me your name?
+__label__non-tech can you tell me how to call you?
+__label__non-tech if only i knew your name
+__label__non-tech id
+__label__non-tech how can a bot like you have a name
+__label__non-tech how do others call you?
+__label__non-tech tell use who you really are
+__label__non-tech contact info?
+__label__non-tech introduce me your name
+__label__non-tech can you tell me how to address you?
+__label__non-tech please tell me your name or else
+__label__non-tech how should i reference you?
+__label__non-tech please give me your name
+__label__non-tech i do not remember who you are
+__label__non-tech do you even have a real name
+__label__non-tech what is your preferred name?
+__label__non-tech who are you?
+__label__non-tech i hope your name matches your id
+__label__non-tech what is your first and last name
+__label__non-tech please tell everyone your name
+__label__non-tech where did you come from?
+__label__non-tech is your name on your id
+__label__non-tech i forgot your name
+__label__non-tech how do i reference you?
+__label__non-tech name please?
+__label__non-tech what should i call you?
+__label__non-tech who are you really deep down
+__label__non-tech tell me about you
+__label__non-tech what should we call you?
+__label__non-tech please tell me your name
+__label__non-tech what do you go by?
+__label__non-tech what do your parents call you?
+__label__non-tech do you have a middle name
+__label__non-tech tell me a little more about yourself
+__label__non-tech could you please tell me your name, because I do not remember
+__label__non-tech what are you called?
+__label__non-tech how did you get here?
+__label__non-tech identification please
+__label__non-tech what is your last name
+__label__non-tech how do you address you?
+__label__non-tech how do people call you?
+__label__non-tech what kind are you?
+__label__non-tech please tell me how people call you
+__label__non-tech please tell me your surname
+__label__non-tech you are?
+__label__non-tech i do not know your name
+__label__non-tech how should i address you?
+__label__non-tech name please
+__label__non-tech what's your name?
+__label__non-tech what is your full name
+__label__non-tech how should i call you?
+__label__non-tech tell your name
+__label__non-tech please tell what name do you have
+__label__non-tech give me your id please
+__label__non-tech please tell me how do i call you
+__label__non-tech introduce yourself to me
+__label__non-tech i do not remember who you are
+__label__non-tech please tell me how do they call you
+__label__non-tech i want to know what is your name
+__label__non-tech i don't know who you are!
+__label__non-tech what is your identity
+__label__non-tech provide me with your id please
+__label__non-tech personal information?
+__label__non-tech do i know who you are
+__label__non-tech what should we call you?
+__label__non-tech i am new here, what is your name
+__label__non-tech what is your identification number
+__label__non-tech what is your name?
+__label__non-tech are you a chatbot?
+__label__non-tech tell me who are you?
 
-__label__non-tech are you human?
-__label__non-tech you are not human
-__label__non-tech you are not a human
-__label__non-tech you are not real
-__label__non-tech you're not real
-__label__non-tech you are not really alive
-__label__non-tech are you real?
-__label__non-tech are you alive?
-__label__non-tech can you pass the turing test?
-__label__non-tech do you pass the turing test?
-__label__non-tech do you know about the turing test?
-__label__non-tech have you passed the turing test?
-__label__non-tech are you a person?
-__label__non-tech you're fake?
-__label__non-tech you are not a reality?
-__label__non-tech false person?
-__label__non-tech what is your true nature?
-__label__non-tech you don't exist?
-__label__non-tech do you have feelings?
-__label__non-tech dead or alive?
-__label__non-tech did you pass?
-__label__non-tech did you overcome the test?
-__label__non-tech did you succeed in the exam?
-__label__non-tech so are you a real human or what
-__label__non-tech do not tell me you are not human
-__label__non-tech you better be human
-__label__non-tech what are humans
-__label__non-tech what is a human
-__label__non-tech do you have any facts on humans
-__label__non-tech provide me with facts about humans please
-__label__non-tech tell me about the human race
-__label__non-tech are you a living person
-__label__non-tech a living person like you can talk right
-__label__non-tech tell me what type of person are you
-__label__non-tech if you are a human then you can talk right
-__label__non-tech humans are nice
-__label__non-tech humans are the living race on plant earth
-__label__non-tech do humans live on earth
-__label__non-tech are you a alien or a human
-__label__non-tech i hope that you are not an alien
-__label__non-tech i do not like aliens
-__label__non-tech if you are an alien i do not want to talk to you
-__label__non-tech aliens are scary
-__label__non-tech did you take the turing test when you were born
-__label__non-tech what was the turing test like
-__label__non-tech was the turing test really hard or easy for you
-__label__non-tech did you get a perfect score on the test
-__label__non-tech if you passed the test that means you are human right
-__label__non-tech you passed the turing test so you are a human
-__label__non-tech only humans can pass the turing test you know that right
-__label__non-tech do not lie to me and tell me you are human
-__label__non-tech turing test is only for humans to take
-__label__non-tech if you pass the test then you can be a human
-__label__non-tech aliens do not take the turing test
 __label__non-tech aliens are fake and humans are real right
-__label__non-tech i hope that only humans like on earth and not aliens
-__label__non-tech if you are a human then prove it to me
-__label__non-tech only humans have feelings
-__label__non-tech humans score perfect on the turing test
-__label__non-tech tell me more about the turing test
-__label__non-tech can i take the turing test when i turn 18
-__label__non-tech do i need to pay to take the test
-__label__non-tech if i pass the test do i become human
-__label__non-tech i hope that only humans take the turing test
+__label__non-tech can you provide me with facts that you are human?
+__label__non-tech do you love like a person?
 __label__non-tech what does the turing test have to do with humans anyway
-__label__non-tech if humans made the turing test then how can you pass it
-__label__non-tech if you pass the turing test then you are smarter than humans
-__label__non-tech are humans better than you are the test
-__label__non-tech show me why humans can not do as well as you can on the test
-__label__non-tech why do you lie on the turing test
-__label__non-tech aliens can not take the turing test right
-__label__non-tech aliens can not pass the turing test
-__label__non-tech only humans can take the turing test if you are not a alien
+__label__non-tech do you dream like a person?
+__label__non-tech humans are the living race on plant earth
+__label__non-tech are you really not a person?
+__label__non-tech you're not real
+__label__non-tech how can i know if you are human?
+__label__non-tech if you are a alien i do not want to talk to you
+__label__non-tech you passed the turing test so you are a human
+__label__non-tech humans are nice
+__label__non-tech are you smarter than a person?
 __label__non-tech turing test is the ultimate decider if you are human
+__label__non-tech please proof me you are not human
+__label__non-tech are you alive?
+__label__non-tech do you eat like a human being?
+__label__non-tech false person?
+__label__non-tech are you a living person
+__label__non-tech what is your true nature?
+__label__non-tech aliens do not take the turing test
+__label__non-tech you are not acting like a person
 __label__non-tech turing test is tests if you are human
+__label__non-tech do you know about the turing test?
+__label__non-tech aliens can not pass the turing test
+__label__non-tech did you become a human being already?
+__label__non-tech if you pass the turing test then you can be a human
+__label__non-tech you're fake?
+__label__non-tech did you take the turing test when you were born
+__label__non-tech did you ever feel like you were a human?
+__label__non-tech if humans made the turing test then how can you pass it
+__label__non-tech if you are a human then prove it to me
+__label__non-tech do you love like a human being?
+__label__non-tech do you pass the turing test?
+__label__non-tech do you breathe like a human being?
+__label__non-tech only humans have feelings
+__label__non-tech only humans can take the turing test if you are not a alien
+__label__non-tech i hope that only humans take the turing test
+__label__non-tech humans score perfect on the turing test
+__label__non-tech tell me what type of person are you
+__label__non-tech can you think like a human being?
+__label__non-tech only humans can pass the turing test you know that right
+__label__non-tech provide me with facts about humans please
+__label__non-tech so are you a real human or what
+__label__non-tech was the turing test really hard or easy for you
+__label__non-tech do you have feelings?
+__label__non-tech what are humans
+__label__non-tech i hope that you are not a alien
+__label__non-tech do not tell me you are not human
+__label__non-tech do humans live on earth
+__label__non-tech if you are a human then you can talk right
+__label__non-tech dead or alive?
+__label__non-tech are you a person?
+__label__non-tech do not lie to me and tell me you are human
+__label__non-tech aliens are scary
+__label__non-tech you better be human
+__label__non-tech a living person like you can talk right
+__label__non-tech are you real?
+__label__non-tech i do not like aliens
+__label__non-tech are you a alien or a human
+__label__non-tech did you ever feel passion?
+__label__non-tech are you smarter than humans?
+__label__non-tech tell me about the human race
+__label__non-tech you are not a reality?
+__label__non-tech you don't exist?
+__label__non-tech show me why humans can not do as well as you can on the turing test
+__label__non-tech did you get a perfect score on the test
+__label__non-tech you are not a human
+__label__non-tech if you pass the turing test then you are smarter than humans
+__label__non-tech are humans better than you?
+__label__non-tech i am sure you can't pass the turing test
+__label__non-tech do you have any facts on humans
+__label__non-tech are you really not a human?
+__label__non-tech do you think you are human?
+__label__non-tech what was the turing test like
+__label__non-tech do you think you're human?
+__label__non-tech you are not real
+__label__non-tech i don't trust you, you are not a human
+__label__non-tech how can i know if you are a person?
+__label__non-tech what is a human
+__label__non-tech can i take the turing test when i turn 18
+__label__non-tech you cannot pass the turing test because you are not human
+__label__non-tech you are not human
+__label__non-tech are you human?
+__label__non-tech are you part of humanity?
+__label__non-tech can you think like a person?
+__label__non-tech did you ever feel love?
+__label__non-tech why do you lie on the turing test
+__label__non-tech turing test is only for humans to take
+__label__non-tech if you passed the test that means you are human right
+__label__non-tech do you breathe like a person?
+__label__non-tech proof me you are not human
+__label__non-tech do you eat like a person?
+__label__non-tech can you pass the turing test?
+__label__non-tech you are not really alive
+__label__non-tech tell me more about the turing test
+__label__non-tech i hope that only humans like on earth and not aliens
+__label__non-tech do you think you are a person?
+__label__non-tech have you passed the turing test?
+__label__non-tech aliens can not take the turing test right
 
-__label__non-tech what do you do?
-__label__non-tech what are you able to do?
-__label__non-tech what is your job?
-__label__non-tech how can you assist me?
-__label__non-tech how can you help me?
-__label__non-tech can you help me?
-__label__non-tech can you tell me some of the things you can do?
-__label__non-tech what are you capable of?
-__label__non-tech what are your capabilities?
-__label__non-tech your skills?
-__label__non-tech what can you do for me?
-__label__non-tech what is your career?
-__label__non-tech i need help
-__label__non-tech how can you satisfy my needs?
-__label__non-tech can you offer me some assistance?
-__label__non-tech what are some things you can do?
-__label__non-tech i need some assistance?
-__label__non-tech what are your pros and cons?
-__label__non-tech i am lost
-__label__non-tech can i ask you a question?
-__label__non-tech what are some of your abilities?
-__label__non-tech what makes you unique?
-__label__non-tech are you unique?
-__label__non-tech so what is you cool about you
-__label__non-tech is there something that makes you cool from the rest
-__label__non-tech tell me what are your skills
-__label__non-tech is there something that only you can do for me
-__label__non-tech i want to know what can you do for me
-__label__non-tech so what can a bot like you do for us
-__label__non-tech what type of bot are you
-__label__non-tech is there something you can do that will help me with my questions
-__label__non-tech what can a bot do to help me
-__label__non-tech is there anything a bot can do that a human can not do to help me
 __label__non-tech so tell me what skills do bots have
+__label__non-tech what makes you unique?
 __label__non-tech what is the best skill you have for us
-__label__non-tech are bots helpful
-__label__non-tech how helpful are you
-__label__non-tech so you are a bot, what can you do for me
+__label__non-tech what type of bot are you
+__label__non-tech dear chatbot please help me
+__label__non-tech what can you do for me?
+__label__non-tech are you unique?
+__label__non-tech how can you help me with my problems?
+__label__non-tech what do you actually do as a bot?
 __label__non-tech i need a bot's help
-__label__non-tech what are your strong and weak points bot
-__label__non-tech what are your strongest traits as a bot
-__label__non-tech what are you most unique traits as a bot
-__label__non-tech can you help me with your specific skill set
-__label__non-tech what are the capabilities of a bot
-__label__non-tech are your capabilities suitable for this project
-__label__non-tech can your capabilities satisfy my needs
-__label__non-tech tell me what your career is as a bot
-__label__non-tech what information can you share with me
-__label__non-tech i need a bot's assistance
-__label__non-tech i am having trouble with this, can a bot help me
-__label__non-tech i do not understand, i need someone who has the skills
-__label__non-tech i am not skilled as you
-__label__non-tech tell me what a bot can do for me in time of need
-__label__non-tech why do we need a bot
-__label__non-tech are bots the solution to my questions
-__label__non-tech if i need help who can i contact
-__label__non-tech what is the best contact for when i am lost
-__label__non-tech if i need to ask someone a question, who can i ask
-__label__non-tech do bots like to help others
-__label__non-tech if i need help with a question, do you have the answers
-__label__non-tech do your skills relate to those in need
-__label__non-tech i do not understand this question, i need a bot to help me
-__label__non-tech skills are very important for a bot
+__label__non-tech could you please help me
+__label__non-tech i need you to provide help
+__label__non-tech i need some assistance?
+__label__non-tech how can you satisfy my needs?
+__label__non-tech i will be happy if you help me
+__label__non-tech your skills?
 __label__non-tech are you able to determine my needs
-__label__non-tech can you really answer my questions
-__label__non-tech if a bot answers my questions, do they know the answer
-__label__non-tech i hear that you have the knowledge to help me
+__label__non-tech what are your strong and weak points bot
+__label__non-tech are bots the solution to my questions
+__label__non-tech what is your career?
+__label__non-tech dear bot please help me
+__label__non-tech can you help me with your specific skill set
 __label__non-tech i can not figure out how to answer this question
-__label__non-tech i do not know what is the correct answer to this question
-__label__non-tech i would like more information on this question
-__label__non-tech can you tell me the answer as a bot
-__label__non-tech do you know the correct response
+__label__non-tech what is your job?
+__label__non-tech is there something you can do that will help me with my questions
+__label__non-tech i need a bot's assistance
+__label__non-tech how helpful are you
+__label__non-tech please help me
 __label__non-tech do you have the correct response to my question
+__label__non-tech what are you capable of?
+__label__non-tech can your capabilities satisfy my needs
+__label__non-tech what are your capabilities?
+__label__non-tech if i need help with a question, do you have the answers
+__label__non-tech tell me what a bot can do for me in time of need
+__label__non-tech skills are very important for a bot
+__label__non-tech are your capabilities suitable for this project
+__label__non-tech what are your pros and cons?
+__label__non-tech do your skills relate to those in need
+__label__non-tech i would like more information on this question
+__label__non-tech can you help me?
+__label__non-tech is there something that only you can do for me
+__label__non-tech hey bot i need help
+__label__non-tech is there anything a bot can do that a human can not do to help me
+__label__non-tech if i need help who can i contact
+__label__non-tech can you tell me some of the things you can do?
+__label__non-tech are bots helpful
+__label__non-tech can you really answer my questions
+__label__non-tech do you know the correct response
+__label__non-tech what are you able to do?
+__label__non-tech what are you most unique traits as a bot
+__label__non-tech what are some things you can do?
+__label__non-tech if i need to ask someone a question, who can i ask
+__label__non-tech what are your strongest traits as a bot
+__label__non-tech i am lost
+__label__non-tech how can you help me with my issues?
+__label__non-tech i need you to please help me
+__label__non-tech can you offer me some assistance?
+__label__non-tech what do you actually do as a chatbot?
+__label__non-tech what are some of your abilities?
+__label__non-tech what can a bot do to help me
+__label__non-tech i need your assistance
+__label__non-tech what do you do?
+__label__non-tech do bots like to help others
+__label__non-tech what kind of skills do i need to become a bot?
+__label__non-tech if a bot answers my questions, do they know the answer
+__label__non-tech what can you do to help with my problem?
+__label__non-tech please provide me help
+__label__non-tech i need help
+__label__non-tech i really need your assistance
 __label__non-tech if you know the answer to my question then you are a helpful bot
+__label__non-tech i do not know what is the correct answer to this question
+__label__non-tech hey chatbot i need help
 __label__non-tech i need help bot
+__label__non-tech so what can a bot like you do for us
+__label__non-tech i want to know what can you do for me
+__label__non-tech i will be happy if you give me some help
+__label__non-tech i do not understand this question, i need a bot to help me
+__label__non-tech i hear that you have the knowledge to help me
+__label__non-tech what does a bot actually do?
+__label__non-tech tell me what are your skills
+__label__non-tech do you as a bot constantly learn?
+__label__non-tech please i need help
+__label__non-tech can i ask you a question?
+__label__non-tech why do we need a bot
+__label__non-tech what information can you share with me
+__label__non-tech how can you assist me?
+__label__non-tech can you tell me the answer as a bot
+__label__non-tech what are the capabilities of a bot
+__label__non-tech what is the best contact for when i am lost
+__label__non-tech what can you do for me as a simple chatbot?
+__label__non-tech so you are a bot, what can you do for me
+__label__non-tech i am not skilled as you
+__label__non-tech is there something that makes you cool from the rest
+__label__non-tech tell me what your career is as a bot
+__label__non-tech what do you do?
+__label__non-tech provide me help
+__label__non-tech i am having trouble with this, can a bot help me
+__label__non-tech so what is you cool about you
+__label__non-tech how can you help me?
+__label__non-tech i do not understand, i need someone who has the skills
 
-__label__non-tech what is the next generation of itsm?
-__label__non-tech future of itsm?
-__label__non-tech whats the future of istm?
-__label__non-tech what is the best itsm software available?
-__label__non-tech how will itsm look like in future?
-__label__non-tech what is next gen itsm?
-__label__non-tech what is the next itsm?
-__label__non-tech itsm?
-__label__non-tech what is itsm?
-__label__non-tech best itsm out there?
-__label__non-tech what does the future hold for itsm?
-__label__non-tech next itsm update?
-__label__non-tech what can itsm do for me?
-__label__non-tech information technology?
-__label__non-tech service management?
-__label__non-tech it service?
-__label__non-tech it service management?
-__label__non-tech what is the upcoming role of itsm?
-__label__non-tech is itsm better than the rest?
-__label__non-tech what will itsm accomplish?
-__label__non-tech can itsm be the future?
-__label__non-tech is itsm right for me
-__label__non-tech what is the pros and cons of using itsm
-__label__non-tech is itsm the right choice for companies to take
-__label__non-tech how does itsm help a company grow
-__label__non-tech is itsm the best choice that i can take right now
-__label__non-tech what is itsm and how does it relate to my company
-__label__non-tech is itsm the only option that i have right now
-__label__non-tech which itsm service is the best
-__label__non-tech compare itsm to other services
-__label__non-tech is itsm the future for all companies
-__label__non-tech what is my options for itsm
-__label__non-tech are there a lot of different types of itsm
-__label__non-tech i do not know what is itsm, can you tell my what it is
-__label__non-tech if i use itsm, how will my company grow
-__label__non-tech tell me about information techonologies in the future
-__label__non-tech is information management really important for my company
-__label__non-tech who can good management of information help my company
-__label__non-tech how does itsm help me manage my information
-__label__non-tech is itsm safe to use
-__label__non-tech is itsm the best option to keep my information safe
-__label__non-tech i do not know what is the best option to manage my information
-__label__non-tech if i buy itsm will it help me secure my information
-__label__non-tech i need the best information manager out there
-__label__non-tech can someone break into my information manager
-__label__non-tech i am worry that my itsm is not secure enough
-__label__non-tech tell me what are the pros and cons of using a information manager
-__label__non-tech is using a information manager the right choice for my company
-__label__non-tech what software should i buy in order to manage my information
-__label__non-tech what different types of information software do you offer
-__label__non-tech do you offer any information management software
-__label__non-tech what is itsm software
 __label__non-tech i do not want to buy itsm software, is there a way around information management
-__label__non-tech information management is very important to protect a company right
-__label__non-tech itsm software
-__label__non-tech itsm is information management at its best
+__label__non-tech whats the future of istm?
 __label__non-tech where can i find a good itsm provider
-__label__non-tech what are the best itsm providers
-__label__non-tech information technology service management
-__label__non-tech is information technology service management the future for all companies
-__label__non-tech what information technology service management software is the best for me
+__label__non-tech i want to know more about itsm
+__label__non-tech it service?
+__label__non-tech is itsm the only option that i have right now
+__label__non-tech can i get help with managing my information technology services?
+__label__non-tech do you offer any information management software
+__label__non-tech how can i benefit from itsm?
+__label__non-tech information technology?
+__label__non-tech tell me about information techonologies in the future
+__label__non-tech i want to know more about information technology service management
+__label__non-tech i need the best information manager out there
+__label__non-tech what is the upcoming role of itsm?
+__label__non-tech i want more information about information technology service management
 __label__non-tech what are the pros of using information technology service management
-__label__non-tech are there any risks when using information technology service management
-__label__non-tech do i need to buy a information technology service management software in order to protect my information
-__label__non-tech how does a information technology service management software protect my info
-__label__non-tech are information technology service managements safe to use
-__label__non-tech can information technology service management protect my info
-__label__non-tech what is information service management
-__label__non-tech does information service management help protect my company
-__label__non-tech what can information service management do for me as a individual
-__label__non-tech is information service management the best choice to protect my info
+__label__non-tech how can i properly manage my it services?
+__label__non-tech if i buy itsm will it help me secure my information
+__label__non-tech is itsm right for me
+__label__non-tech what does the future hold for itsm?
+__label__non-tech what can i do with information technology service management?
+__label__non-tech what is my options for itsm
+__label__non-tech how can i benefit from information technology service management?
+__label__non-tech i need help managing my information technology services
+__label__non-tech what are the best itsm providers
 __label__non-tech information service management
-__label__non-tech service management
+__label__non-tech is using a information manager the right choice for my company
+__label__non-tech what will itsm accomplish?
+__label__non-tech what is the best itsm software available?
+__label__non-tech information management is very important to protect a company right
+__label__non-tech what can information technology service management achieve for me?
+__label__non-tech who can good management of information help my company
+__label__non-tech are there a lot of different types of itsm
+__label__non-tech i need an itsm service provider
+__label__non-tech is itsm the right choice for companies to take
+__label__non-tech what can itsm do for me?
+__label__non-tech what is next gen itsm?
+__label__non-tech what is information service management
+__label__non-tech which itsm service is the best
+__label__non-tech best itsm out there?
+__label__non-tech is information management really important for my company
+__label__non-tech if i use itsm, how will my company grow
+__label__non-tech i need help managing my it services
+__label__non-tech i want more information about itsm
+__label__non-tech what is the next generation of itsm?
+__label__non-tech compare itsm to other services
+__label__non-tech what information technology service management software is the best for me
+__label__non-tech what is the pros and cons of using itsm
+__label__non-tech is itsm the best choice that i can take right now
+__label__non-tech what is the next itsm?
+__label__non-tech please tell me more about information technology service management
+__label__non-tech will information technology service management help me grow my company?
+__label__non-tech how does itsm help a company grow
+__label__non-tech i do not know what is itsm, can you tell my what it is
+__label__non-tech itsm is information management at its best
+__label__non-tech can information technology service management protect my info
+__label__non-tech will itsm help me grow my company?
 __label__non-tech management of information
+__label__non-tech tell me what are the pros and cons of using a information manager
+__label__non-tech what is itsm and how does it relate to my company
+__label__non-tech is itsm the best option to keep my information safe
+__label__non-tech are there any risks when using information technology service management
+__label__non-tech i do not know what is the best option to manage my information
+__label__non-tech what can i do with itsm?
+__label__non-tech what can information service management do for me as a individual
+__label__non-tech is information technology service management the future for all companies
+__label__non-tech how does itsm help me manage my information
+__label__non-tech what is itsm?
+__label__non-tech what different types of information software do you offer
+__label__non-tech can someone break into my information manager
+__label__non-tech how will itsm look like in future?
+__label__non-tech next itsm update?
+__label__non-tech is itsm better than the rest?
+__label__non-tech is itsm safe to use
+__label__non-tech what is itsm software
+__label__non-tech where can i find an itsm service provider?
+__label__non-tech it service management?
+__label__non-tech how does a information technology service management software protect my info
+__label__non-tech what can itsm achieve for me?
+__label__non-tech itsm?
+__label__non-tech itsm software
+__label__non-tech future of itsm?
+__label__non-tech are information technology service managements safe to use
+__label__non-tech service management?
+__label__non-tech what tool can i use to manage my it services?
 __label__non-tech management of technology information
+__label__non-tech is information service management the best choice to protect my info
+__label__non-tech service management
+__label__non-tech information technology service management
+__label__non-tech i need help with itsm
+__label__non-tech i want help with itsm
+__label__non-tech can itsm be the future?
+__label__non-tech what tool can i use to manage my information technology services?
+__label__non-tech does information service management help protect my company
+__label__non-tech what software should i buy in order to manage my information
+__label__non-tech please tell me more about itsm
+__label__non-tech i am worry that my itsm is not secure enough
+__label__non-tech is itsm the future for all companies
+__label__non-tech how can i properly manage my information technology services?
+__label__non-tech do i need to buy a information technology service management software in order to protect my information
 
-__label__non-tech what did you go as for halloween?
-__label__non-tech what was your halloween costume?
-__label__non-tech what is your halloween costume?
-__label__non-tech what is your favorite halloween costume?
-__label__non-tech do you have a special costume for halloween?
-__label__non-tech any ideas for cool halloween’s costumes?
-__label__non-tech  what is your plan for halloween?
-__label__non-tech what costume are you wearing for halloween?
-__label__non-tech do you have a special costume for halloween?
-__label__non-tech what holiday do you celebrate in october?
-__label__non-tech what is your scary costume for halloween?
-__label__non-tech did you go shopping for your halloween costume?
-__label__non-tech are you going to the halloween party?
-__label__non-tech there are lots of halloween savings
-__label__non-tech do you like halloween?
-__label__non-tech what was your last halloween costume?
 __label__non-tech is halloween your favorite?
-__label__non-tech does halloween scare you?
-__label__non-tech what you dressing up as for halloween?
-__label__non-tech did you dress up for halloween?
-__label__non-tech any dress-up ideas for halloween?
-__label__non-tech did you buy your halloween makeup?
-__label__non-tech what is your favorite halloween character?
-__label__non-tech what monster are you for halloween?
-__label__non-tech what store will you buy your halloween costume at
-__label__non-tech are you going to get you costume for halloween next week
+__label__non-tech any ideas for cool halloween’s costumes?
+__label__non-tech i have been invited to a halloween party!
+__label__non-tech are you going to the halloween party?
+__label__non-tech describe your halloween costume
+__label__non-tech how's your costume?
 __label__non-tech let me know when you will be getting your halloween costume so i can go with you
-__label__non-tech please tell me what monster you will be in halloween
-__label__non-tech is halloween the best part of October
-__label__non-tech i love halloween, how about you
 __label__non-tech i wish that halloween was everyday
-__label__non-tech i want to be a scary monster on halloween
-__label__non-tech halloween night is going to be so much fun
-__label__non-tech did you buy any makeup for halloween
-__label__non-tech are you going to use any makeup on your halloween costume
-__label__non-tech if you are going to buy a halloween costume i suggest you go when they are on sale
-__label__non-tech let me know which monster you picked to be for halloween
-__label__non-tech i love dressing up for halloween
-__label__non-tech i love using makeup for special effects on halloween
-__label__non-tech halloween costumes are expensive
-__label__non-tech there are so many different choices for halloween costumes
-__label__non-tech i want a costume that looks realistic for halloween
-__label__non-tech do you like halloween movies
-__label__non-tech halloween movies are the best to watch alone
-__label__non-tech i hate scary movies during halloween
-__label__non-tech halloween movies are really scary
-__label__non-tech i wonder what you will be on halloween
-__label__non-tech so will you go to the halloween party
-__label__non-tech i hope that a lot of people show up at the halloween party
-__label__non-tech it will be fun to go to a halloween party tomorrow night
-__label__non-tech i hope that halloween horror nights is open
-__label__non-tech halloween horror nights at orlando is so much fun
-__label__non-tech how much does halloween horror nights costs
-__label__non-tech is halloween horror nights expansive
-__label__non-tech can my kids go to halloween horror nights
-__label__non-tech what age do you need to be to go to halloween horror nights
-__label__non-tech have you ever been to orlando halloween horror nights
-__label__non-tech halloween season is near
-__label__non-tech time to take out my halloween costume for the season
-__label__non-tech will you be attending halloween
+__label__non-tech what is your favorite halloween costume?
 __label__non-tech will you be attending any haunted houses on halloween
-__label__non-tech haunted houses during halloween are so scary
-__label__non-tech i can not afford to buy my costume on halloween
-__label__non-tech halloween costumes come in all shapes and sizes
-__label__non-tech please tell me what is the best halloween costume to buy
-__label__non-tech where can i get scary halloween costumes
+__label__non-tech can my kids go to halloween horror nights
+__label__non-tech are you going to use any makeup on your halloween costume
+__label__non-tech do you like halloween movies
+__label__non-tech what store will you buy your halloween costume at
+__label__non-tech what age do you need to be to go to halloween horror nights
+__label__non-tech explain to me what is your favorite halloween candy
+__label__non-tech how much should i spend on my halloween costume?
 __label__non-tech what is a halloween costume
-__label__non-tech do kids like to go trick or treating on halloween
-__label__non-tech i love trick or treating on halloween
-__label__non-tech why do people knock on houses during halloween
-__label__non-tech halloween candy is the best type of candy ever
+__label__non-tech halloween season is near
+__label__non-tech please tell me what is the best halloween costume to buy
+__label__non-tech describe your costume
+__label__non-tech tell me about your favorite halloween candy
+__label__non-tech time to take out my halloween costume for the season
 __label__non-tech i love halloween candy
-__label__non-tech do you like halloween candy
-__label__non-tech candy during halloween season is so expansive
+__label__non-tech how much can a good halloween costume cost?
+__label__non-tech what is your plan for halloween?
+__label__non-tech there are lots of halloween savings
+__label__non-tech halloween horror nights at orlando is so much fun
+__label__non-tech how's your halloween costume?
+__label__non-tech are you going to get you costume for halloween next week
+__label__non-tech what holiday do you celebrate in october?
+__label__non-tech halloween night is going to be so much fun
+__label__non-tech halloween costumes are expensive
+__label__non-tech i wonder what you will be on halloween
+__label__non-tech will you be attending halloween
+__label__non-tech describe your favorite halloween candy
+__label__non-tech i love trick or treating on halloween
+__label__non-tech i love halloween, how about you
+__label__non-tech so will you go to the halloween party
+__label__non-tech i want to be a scary monster on halloween
+__label__non-tech what is your halloween costume?
+__label__non-tech i hope that halloween horror nights is open
+__label__non-tech what dates is halloween?
+__label__non-tech i can not afford to buy my costume on halloween
+__label__non-tech what was your last halloween costume?
+__label__non-tech candy during halloween season is so expensive
+__label__non-tech is halloween next month?
+__label__non-tech what you dressing up as for halloween?
+__label__non-tech does halloween scare you?
+__label__non-tech is halloween horror nights expansive
+__label__non-tech is halloween the best part of October
+__label__non-tech i hope that a lot of people show up at the halloween party
+__label__non-tech any dress-up ideas for halloween?
+__label__non-tech it will be fun to go to a halloween party tomorrow night
+__label__non-tech i love using makeup for special effects on halloween
+__label__non-tech happy halloween!
+__label__non-tech i hate scary movies during halloween
+__label__non-tech halloween movies are the best to watch alone
+__label__non-tech what is your favorite halloween character?
+__label__non-tech where can i get scary halloween costumes
+__label__non-tech how much does halloween horror nights costs
+__label__non-tech how much halloween candy do you have left?
+__label__non-tech i want a costume that looks realistic for halloween
+__label__non-tech what costume are you wearing for halloween?
+__label__non-tech haunted houses during halloween are so scary
+__label__non-tech what did you go as for halloween?
+__label__non-tech i want halloween candy!
 __label__non-tech what is your favorite type of halloween candy
+__label__non-tech what is your scary costume for halloween?
+__label__non-tech halloween movies are really scary
+__label__non-tech let me know which monster you picked to be for halloween
+__label__non-tech you have to tell me about halloween
+__label__non-tech did you buy your halloween makeup?
+__label__non-tech i love dressing up for halloween
+__label__non-tech do you like halloween candy
+__label__non-tech there are so many different choices for halloween costumes
+__label__non-tech have you ever been to orlando halloween horror nights
+__label__non-tech what's your halloween costume?
+__label__non-tech spooky halloween!
+__label__non-tech did you dress up for halloween?
+__label__non-tech do kids like to go trick or treating on halloween
+__label__non-tech why do people knock on houses during halloween
+__label__non-tech is halloween next week?
+__label__non-tech when is halloween?
+__label__non-tech what was your halloween costume?
+__label__non-tech do you like halloween?
+__label__non-tech please tell me what monster you will be in halloween
+__label__non-tech if you are going to buy a halloween costume i suggest you go when they are on sale
+__label__non-tech i already have my costume for halloween!
+__label__non-tech what is halloween?
+__label__non-tech did you buy any makeup for halloween
+__label__non-tech do you have a special costume for halloween?
+__label__non-tech what monster are you for halloween?
+__label__non-tech do you have a special costume for halloween?
+__label__non-tech when does halloween happen?
+__label__non-tech did you go shopping for your halloween costume?
+__label__non-tech what's your costume?
+__label__non-tech do you have any halloween candy remaining?
+__label__non-tech halloween costumes come in all shapes and sizes
+__label__non-tech halloween candy is the best type of candy ever
 
-__label__non-tech what is cg?
-__label__non-tech changegear?
-__label__non-tech cg?
-__label__non-tech change gear?
-__label__non-tech tell me about changegear
-__label__non-tech tell me more about changegear
-__label__non-tech how would you define changegear?
-__label__non-tech what can changegear really do?
-__label__non-tech what can changegear do for me?
+__label__non-tech why would switching over to cg be a better option
+__label__non-tech can you describe cg?
+__label__non-tech is cg bad or good for my workers
+__label__non-tech please give me information about cg
+__label__non-tech what is this tool called?
 __label__non-tech what can changegear do for us?
-__label__non-tech how can changegear help my company?
-__label__non-tech how can changegear help me?
-__label__non-tech what will changegear do for my company?
+__label__non-tech please give me information about change gear
+__label__non-tech i hope that cg can make a big impact on my company
+__label__non-tech what can changegear do for me?
+__label__non-tech using changegear in my company
 __label__non-tech how will changegear help my it department?
+__label__non-tech tool name
+__label__non-tech how can changegear help me?
+__label__non-tech what technology does changegear use
+__label__non-tech i want to try cg
+__label__non-tech what can i do with changegear?
+__label__non-tech does changegear do a lot of different things?
+__label__non-tech what is cg?
 __label__non-tech how does changegear help my it?
+__label__non-tech why would i choose cg over the alternative
+__label__non-tech what will changegear do for my company?
+__label__non-tech tell me everything about cg
+__label__non-tech what can we do with cg?
+__label__non-tech explain cg
+__label__non-tech how can my workers take advantage of changegear
+__label__non-tech do you recommend that my company uses changegear
+__label__non-tech what can we do with changegear?
+__label__non-tech what can changegear do for my team
+__label__non-tech why should i consider using cg in my company
+__label__non-tech should i buy changegear?
+__label__non-tech if cg is implemented in my company, will i see any return
+__label__non-tech why is it better to pick changegear
+__label__non-tech tell me more about cg
+__label__non-tech tool we using
+__label__non-tech how long does it take to implement cg
+__label__non-tech how is this tool called?
+__label__non-tech using cg in my company
+__label__non-tech changegear can help develop my company right
+__label__non-tech is cg the new thing these days?
+__label__non-tech what technology does cg use
+__label__non-tech what are the pros of changegear
+__label__non-tech what does cg do for me?
+__label__non-tech changegear?
 __label__non-tech what is changegear?
+__label__non-tech how can changegear help my company?
+__label__non-tech is changegear worth the investment
+__label__non-tech cg information
+__label__non-tech is changegear better for my workers
+__label__non-tech how would you define changegear?
+__label__non-tech if i use cg, will i grow
+__label__non-tech tell me everything about cg
+__label__non-tech is it easy for a new user to learn about changegear
 __label__non-tech is cg a good thing?
 __label__non-tech can change gear help me?
-__label__non-tech what does cg do for me?
-__label__non-tech cg information
-__label__non-tech can you describe cg?
-__label__non-tech does changegear do a lot of different things?
-__label__non-tech is cg worth investing in?
-__label__non-tech should i buy changegear?
-__label__non-tech how do i get changegear?
-__label__non-tech i want to try cg
-__label__non-tech is cg better than other software?
-__label__non-tech how will changegear change my future?
-__label__non-tech is cg the new thing these days?
-__label__non-tech what is changegear and how can it help me and my company
-__label__non-tech do you recommend that my company uses changegear
-__label__non-tech is changegear worth the investment
-__label__non-tech how can changegear change the way we work
-__label__non-tech what does changegear offer to the customer compared to other services
-__label__non-tech how can changegear make my life easier
-__label__non-tech what servcies or tools does changegear offer
-__label__non-tech when was changegear developed
-__label__non-tech is cg the right move for my company
-__label__non-tech how long does it take to implement cg
-__label__non-tech is cg future technology
-__label__non-tech i hope that cg can make a big impact on my company
-__label__non-tech what exactly is changegear and what can it do
-__label__non-tech if cg is implemented in my company, will i see any return
-__label__non-tech what are the pros of changegear
-__label__non-tech what are the pros of cg
-__label__non-tech is cg bad or good for my workers
-__label__non-tech is changegear better for my workers
-__label__non-tech how can my workers take advantage of changegear
-__label__non-tech what advantages can cg offer to my company
-__label__non-tech is cg really the hot topic these days
-__label__non-tech why should i consider changegear
-__label__non-tech why would switching over to cg be a better option
-__label__non-tech tell me more about cg
-__label__non-tech if i use cg, will i grow
-__label__non-tech what can changegear do for my team
-__label__non-tech is it easy for a new user to learn about changegear
-__label__non-tech tell me why cg can benefit my team
-__label__non-tech what are the benefits of change gear
-__label__non-tech tell my the best way to implement cg
-__label__non-tech how long does changegear take to use
-__label__non-tech what exactly can changegear do in the long run
-__label__non-tech why cg
-__label__non-tech why should i consider using cg in my company
-__label__non-tech i hear that cg is a very useful system these days
-__label__non-tech is the changegear system worth the investment
-__label__non-tech why should i invest in cg
-__label__non-tech tell me why should i invest in changegear
 __label__non-tech are all companies using changegear
-__label__non-tech what technology does changegear use
-__label__non-tech what technology does cg use
-__label__non-tech when was cg made
-__label__non-tech changegear can help develop my company right
-__label__non-tech why would i choose cg over the alternative
-__label__non-tech why is it better to pick changegear
+__label__non-tech use cg
+__label__non-tech what exactly can changegear do in the long run
+__label__non-tech give me information about cg
+__label__non-tech how do i get changegear?
+__label__non-tech how can changegear change the way we work
+__label__non-tech tell me all about cg
+__label__non-tech give me information about changegear
+__label__non-tech what advantages can cg offer to my company
+__label__non-tech cg?
+__label__non-tech how will changegear change my future?
+__label__non-tech tell me why cg can benefit my team
+__label__non-tech is cg really the hot topic these days
+__label__non-tech i hear that cg is a very useful system these days
+__label__non-tech use changegear
+__label__non-tech what does changegear offer to the customer compared to other services
+__label__non-tech why should i invest in cg
+__label__non-tech how long does changegear take to use
+__label__non-tech is cg better than other software?
+__label__non-tech is cg the right move for my company
+__label__non-tech how can changegear make my life easier
+__label__non-tech tell my the best way to implement cg
+__label__non-tech what are the benefits of change gear
+__label__non-tech tell me more about changegear
+__label__non-tech is cg future technology
 __label__non-tech is changegear the best product out in the market
+__label__non-tech tell me about changegear
+__label__non-tech what can changegear really do?
+__label__non-tech what tool am i using?
+__label__non-tech tool
+__label__non-tech change gear?
+__label__non-tech what exactly is changegear and what can it do
+__label__non-tech using changegear
+__label__non-tech what are the pros of cg
+__label__non-tech what servcies or tools does changegear offer
+__label__non-tech what is changegear and how can it help me and my company
+__label__non-tech tell me all about changegear
+__label__non-tech when was cg made
+__label__non-tech is the changegear system worth the investment
+__label__non-tech what can i do with cg?
+__label__non-tech tell me why should i invest in changegear
+__label__non-tech why should i consider changegear
+__label__non-tech is cg worth investing in?
+__label__non-tech explain changegear
+__label__non-tech when was changegear developed
+__label__non-tech why cg
 
 __label__non-tech tell me about service smart technology
 __label__non-tech service smart help
@@ -1100,7 +1251,7 @@ __label__non-tech service smart tech benefits
 __label__non-tech service smart tech usefulness
 __label__non-tech service smart technology ai
 __label__non-tech using service smart tech
-__label__non-tech using service smart 
+__label__non-tech using service smart
 __label__non-tech tell me about service smart tech
 __label__non-tech what is service smart?
 __label__non-tech give me information on service smart
@@ -1197,7 +1348,7 @@ __label__tech what could be crashing windows?
 __label__tech what could be crashing my pc?
 __label__tech what could be crashing my laptop?
 __label__tech computer froze
-__label__tech laptop froze 
+__label__tech laptop froze
 __label__tech pc froze
 __label__tech windows froze
 __label__tech pc rebooted itself
@@ -1564,7 +1715,7 @@ __label__tech is there a way to recover a deleted folder?
 __label__tech is there a way to restore a deleted folder?
 __label__tech i need help recovering a folder
 __label__tech i need help restoring a folder
-__label__tech help bring back a folder 
+__label__tech help bring back a folder
 __label__tech how can i recover a deleted folder?
 __label__tech how can i restore a deleted folder?
 __label__tech i deleted some files by mistake
@@ -1923,7 +2074,7 @@ __label__tech i need help with my voicemail password
 __label__tech voicemail passsword is not working
 __label__tech wrong voicemail password
 __label__tech help login in to voicemail
-__label__tech resetting voicemail 
+__label__tech resetting voicemail
 __label__tech resetting voicemail password
 __label__tech resetting voicemail log in information
 __label__tech changing voicemail log in information
