@@ -1288,6 +1288,31 @@ __label__sst what can i use service smart for?
 __label__sst what can i use service smart tech for?
 __label__sst how can i use service smart tech?
 __label__sst how can i use service smart?
+__label__sst sst, what is it and how does it compare to other related services?
+__label__sst smart service technology, is it worth the cost?
+__label__sst do you offer sst to your customer free of charge?
+__label__sst who do i need to speak to regarding sst?
+__label__sst can you connect me to the rep for smart service techonolgy?
+__label__sst SST vs other smart service technologies?
+__label__sst how is smart service tech revolutionary?
+__label__sst sst, what is this service from sunview?
+__label__sst I need more information about sst in order to make a decision
+__label__sst hello, can you tell me more information about sst?
+__label__sst hi, i need help understand smart service technology
+__label__sst help me understand how sst can benefit my company please 
+__label__sst smart service tech, is this worth the cost?
+__label__sst just how epansive is implementing sst? 
+__label__sst smart service tech vs other smart services?
+__label__sst i do not know what smart service technology I should pick for my company, can you help?
+__label__sst I am not too sure which sst package is best fitted for my company, can you help me?
+__label__sst what is the structure of smart service tech?
+__label__sst sst?
+__label__sst I am having trouble understanding what SST is?
+__label__sst I am having trouble with my smart service tech package
+__label__sst What types of packages do you offer for sst?
+__label__sst Do you offer different packages for smart service technology?
+__label__sst Hmm, I need more information about what smart service tech is
+__label__sst I do not have any clue what SST is, can you please explain it better?
 
 __label__computer computer crashed
 __label__computer windows crashed
@@ -1364,6 +1389,32 @@ __label__computer my laptop is not working
 __label__computer my pc is not working
 __label__computer windows is not working
 __label__computer my cpu is not working
+__label__computer my computer has suddenly stopped working
+__label__computer computer is not working the way it usally does, please help
+__label__computer it seems that my pc decided not to work today, can you help me
+__label__computer my pc died today
+__label__computer my personal computer died this morning
+__label__computer i am encountering fatal errors in my pc, please help
+__label__computer my notebook computer will not startup 
+__label__computer my laptop is crashing everytime i power it on
+__label__computer why does my computer keep displaying error messages 
+__label__computer is there a guide to fixing computer errors 
+__label__computer what are the different types of computer errors
+__label__computer my windows machine keeps freezing during startup
+__label__computer PC keeps freezing on me 
+__label__computer computer is slow and producing some errors 
+__label__computer notebook error during startup
+__label__computer laptop errors in loading programs
+__label__computer computer does not load my programs 
+__label__computer my computer crashes when i load specific programs 
+__label__computer why does my pc keep encountering a fatal error during startup?
+__label__computer what information can you provide about computer errors
+__label__computer it seems that my computer is not working properly 
+__label__computer PC error 
+__label__computer notebook error 
+__label__computer windows error 
+__label__computer macOS error
+__label__computer keep getting dangar messages on computer  
 
 __label__password i forgot my password
 __label__password password help
@@ -1440,6 +1491,32 @@ __label__password help me with my passphrase
 __label__password can't access network
 __label__password can't access account
 __label__password can't access windows
+__label__password i can not login to my account 
+__label__password i seem to have forgotteen my account credentials
+__label__password can you reset my password for me please 
+__label__password reset credentials for account 
+__label__password i do not remmember my credentials
+__label__password reset account credentials
+__label__password where can i set a password for my account
+__label__password can i setup multiple passwords on my account  
+__label__password i lost all of my passwords 
+__label__password i lost access 
+__label__password how can i access my account without using my password
+__label__password do i need to provide any information to set a new password 
+__label__password set a new password and delete the old one 
+__label__password delete my old password 
+__label__password new password to access account
+__label__password windows login password does not work 
+__label__password login password is not the same anymore 
+__label__password the login password is wrong
+__label__password i do not know what is my account password 
+__label__password reset the password to login 
+__label__password password needs to be reset
+__label__password password recovery process 
+__label__password passcode recovery process
+__label__password recovery process to make a new password for logins
+__label__password is there a easy way to manage my passwords?  
+__label__password password lost 
 
 __label__speed why is my computer so slow?
 __label__speed my computer is slow
@@ -1535,6 +1612,13 @@ __label__speed lag
 __label__speed slowdown
 __label__speed slow speed
 __label__speed lagging
+__label__speed boost computation speeds
+__label__speed help boost my computer speeds
+__label__speed why does my laptop run so slow, how to increase speed
+__label__speed improve speeds on my desktop 
+__label__speed what causes slow speeds
+__label__speed how to avoid computer slowing down
+__label__speed prevent slow downs on my computer 
 
 __label__printer why can't i print?
 __label__printer i can't print
@@ -1611,6 +1695,32 @@ __label__printer my printer is giving my trouble
 __label__printer my printer is giving my issues
 __label__printer my inkjet is giving my trouble
 __label__printer my inkjet is giving my issues
+__label__printer i am missing pages when i print 
+__label__printer missing pages from printed documents 
+__label__printer printer is not printing all of my pages 
+__label__printer missing pages 
+__label__printer printed pages are very hard to see, low ink
+__label__printer my printer does not print in color 
+__label__printer why are my pages only printing in black and white 
+__label__printer printer is not connected correctly 
+__label__printer printer failure 
+__label__printer inkjet failure
+__label__printer document failed to print 
+__label__printer printer is not printing the correct set of papers 
+__label__printer inkjet is not working 100%
+__label__printer i am experiencing problems printing only specific number of pages 
+__label__printer printer prints backwards 
+__label__printer how do I print two-sided pages 
+__label__printer where are the settings for my printer
+__label__printer change printer settings 
+__label__printer printer configuration 
+__label__printer help configure my printer 
+__label__printer how to configure inkjet 
+__label__printer print test for printer 
+__label__printer how to change paper size in printer 
+__label__printer how to load paper tray in printer 
+__label__printer paper tray empty error in printer 
+__label__printer error messages when printing documents
 
 __label__internet internet troubleshooting
 __label__internet what is wrong with my internet?
@@ -1693,6 +1803,26 @@ __label__internet what is wrong with the web connection?
 __label__internet how to speed up the web connection?
 __label__internet faster internet connection
 __label__internet faster network connection
+__label__internet wi-fi is not connected 
+__label__internet wi-fi connection is weaker than wired  
+__label__internet wired internet connection not working 
+__label__internet application is not connecting to the cloud
+__label__internet how to connect using wi-fi to internet 
+__label__internet web browser is not displaying pages 
+__label__internet internet is slow during online gaming 
+__label__internet internet firewall is blocking pages 
+__label__internet online browsing is slow 
+__label__internet google chrome web browser not working 
+__label__internet sharing internet connection 
+__label__internet how to setup wi-fi for internet connection 
+__label__internet wi-fi error 
+__label__internet wifi is not working 
+__label__internet wifi connection failed 
+__label__internet wifi internet failing 
+__label__internet web not working with wifi
+__label__internet internet not working with wifi
+__label__internet wifi network is not connecting 
+__label__internet wifi connection error with internet 
 
 __label__files i deleted some files by mistake
 __label__files how can i restore deleted files?
