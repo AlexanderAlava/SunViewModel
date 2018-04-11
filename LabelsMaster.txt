@@ -2355,7 +2355,6 @@ __label__email where can i find information to setup email?
 __label__email help setup email
 __label__email my inbox is not refreshing
 __label__email what is the status of the email server?
-__label__email can't connect to email
 __label__email how do i configure my email?
 __label__email i am not getting any emails
 __label__email i cannot send/receive any emails?
@@ -2386,7 +2385,6 @@ __label__email how do i configure my inbox?
 __label__email the email server is down
 __label__email the email server is offline
 __label__email why can't i send any emails?
-__label__email i need help to get my emails
 __label__email i need to configure my email
 __label__email i need help sending an email
 __label__email email information
@@ -2500,5 +2498,3 @@ __label__remote virtual private network troubleshooting
 __label__remote setup my mobile device for network access
 __label__remote how do i access the vpn?
 __label__remote remotely access virtual private network
-__label__remote setup my cell phone vpn
-__label__remote setup my mobile device for access
