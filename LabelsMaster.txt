@@ -1386,6 +1386,7 @@ __label__sst what are the benefits of service smart?
 __label__sst hello, can you tell me more information about sst?
 __label__sst what is service smart technology?
 __label__sst tell me more about this so called service smart technology?
+__label__sst any references to what sst is?
 
 __label__computer computer stopped working
 __label__computer my pc is not working
@@ -1484,6 +1485,9 @@ __label__computer computer is not working the way it usually does, please help
 __label__computer my personal computer died this morning
 __label__computer why does my pc keep encountering a fatal error during startup?
 __label__computer computer does not want to power on
+__label__computer my personal notebook broke
+__label__computer computer system is not working
+__label__computer getting errors in my computer
 
 __label__password what is my passcode?
 __label__password lost passphrase
@@ -1580,6 +1584,11 @@ __label__password how can i recover my passcode?
 __label__password what is my passphrase?
 __label__password reset my passcode
 __label__password what was my password again? i think i forgot it
+__label__password i lost the login password to my computer
+__label__password system login password lost
+__label__password help reset my password
+__label__password guide to resetting password
+__label__password step by step to resetting password
 
 __label__speed pc is not fast enough
 __label__speed i need help with my computer's performance
@@ -1780,6 +1789,8 @@ __label__printer my printer does not print in color
 __label__printer inkjet configuration
 __label__printer there is a problem with my inkjet
 __label__printer I need help troubleshooting my printer
+__label__printer printer broke
+__label__printer broken printer
 
 __label__internet internet is slow during online gaming
 __label__internet internet access
@@ -1879,6 +1890,8 @@ __label__internet internet troubleshooting
 __label__internet why can't i connect to the internet?
 __label__internet how to fix slow internet?
 __label__internet need to troubleshoot my internet please
+__label__internet connection issues with internet
+__label__internet connectivity issues with my internet connection
 
 __label__files help bring back a folder
 __label__files how can i restore deleted folders?
@@ -1899,7 +1912,7 @@ __label__files help find deleted file
 __label__files mistakenly deleted a file
 __label__files retrieve lost file
 __label__files where can i find a deleted file?
-__label__files i need help recovering 
+__label__files i need help recovering
 __label__files recovering a deleted folder
 __label__files accidentally deleted folder
 __label__files retrieve deleted file
