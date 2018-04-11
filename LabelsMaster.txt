@@ -85,107 +85,19 @@ __label__greetings hello there, good morning
 __label__greetings hello me, meet the real me
 __label__greetings wassup
 __label__greetings ey
-
-__label__holidays why don't we get more holidays?
-__label__holidays is july 4 a holiday?
-__label__holidays can you give me a list of this year’s holidays?
-__label__holidays what are my paid holidays this year?
-__label__holidays when do i get free from work?
-__label__holidays what is the corporate holiday schedule?
-__label__holidays holidays this year
-__label__holidays company holidays this year
-__label__holidays show me when I have time off
-__label__holidays is memorial day a paid holiday?
-__label__holidays when do i get a break from work?
-__label__holidays how many days off do we have this year?
-__label__holidays holiday schedule
-__label__holidays please tell me my paid vacation days
-__label__holidays what are my vacation days this year?
-__label__holidays when don't i have to be here?
-__label__holidays corporate holiday schedule
-__label__holidays hello, when do i get to rest?
-__label__holidays time off, when is it?
-__label__holidays do we get off on the fourth of july?
-__label__holidays free days
-__label__holidays how many paid holidays do I have off this year?
-__label__holidays hello, what are my vacations?
-__label__holidays when are my days off?
-__label__holidays can you show me today’s calendar with holidays?
-__label__holidays show me the corporate holidays
-__label__holidays is veteran's day a holiday?
-__label__holidays please tell me my paid days off this year
-__label__holidays what are my paid vacation days this year?
-__label__holidays what are the company paid holidays?
-__label__holidays vacation days, when do I have them?
-__label__holidays paid vacation
-__label__holidays are we off on the fourth of july?
-__label__holidays vacations
-__label__holidays when do i go off to vacation?
-__label__holidays is july 4th a holiday?
-__label__holidays is my birthday a holiday?
-__label__holidays when do we get off?
-__label__holidays vacation, when do I have it?
-__label__holidays vacation this year
-__label__holidays what days do we get off this year?
-__label__holidays what days do we get off?
-__label__holidays what days are holidays?
-__label__holidays tell me holidays
-__label__holidays what’s the holiday calendar this year?
-__label__holidays show me when I have days off
-__label__holidays look up when I have time off
-__label__holidays is july fourth a holiday?
-__label__holidays what are my paid holidays this year?
-__label__holidays show me a list of holidays
-__label__holidays is veteran day a holiday?
-__label__holidays corporate holidays this year
-__label__holidays break
-__label__holidays holidays
-__label__holidays what are our days off?
-__label__holidays days off
-__label__holidays please tell me my paid time off this year
-__label__holidays explain holidays
-__label__holidays do we get off for halloween?
-__label__holidays is ground hog’s day a holiday?
-__label__holidays show me vacations!
-__label__holidays what is the company holiday schedule?
-__label__holidays show me a list of corporate holidays
-__label__holidays resting time
-__label__holidays vacation days
-__label__holidays are we off on the 4th of july?
-__label__holidays time off
-__label__holidays explain vacations
-__label__holidays what days do i get off this year?
-__label__holidays vacation days, when are they?
-__label__holidays show me the company holidays
-__label__holidays how many paid holidays do we have this year?
-__label__holidays do we get christmas day off?
-__label__holidays what holidays do we get off?
-__label__holidays could i please know what are the holidays?
-__label__holidays tell me vacations
-__label__holidays when do i get off?
-__label__holidays what are the days I have off this year?
-__label__holidays show me a list of company holidays
-__label__holidays is memorial day a holiday?
-__label__holidays hello, i want to know about vacations
-__label__holidays is donut day a holiday?
-__label__holidays please tell me my paid days off
-__label__holidays what holidays do i get off?
-__label__holidays what days do i get off?
-__label__holidays vacation, when is it?
-__label__holidays what are the paid holidays?
-__label__holidays company holidays
-__label__holidays is groundhog day a holiday?
-__label__holidays time off, when do I have it?
-__label__holidays look up my days off
-__label__holidays company holiday schedule
-__label__holidays look up when I have days off
-__label__holidays what are my days off?
-__label__holidays when don't we have to be here?
-__label__holidays free
-__label__holidays how many days do I have off this year?
-__label__holidays how much paid time off do I have this year?
-__label__holidays is the lunar new year a holiday?
-__label__holidays i need some help with learning about my holidays
+__label__greetings pleased to meet you
+__label__greetings pleased to see you
+__label__greetings it's a pleasure to meet you
+__label__greetings it's a pleasure to see you
+__label__greetings pleased to speak with you
+__label__greetings it's a pleasure to speak with you
+__label__greetings hey hey
+__label__greetings hey now
+__label__greetings happy to be here
+__label__greetings it's good to see you
+__label__greetings it's good to meet you
+__label__greetings it's good to speak with you
+__label__greetings it's good to meet you
 
 __label__holidays why don't we get more holidays?
 __label__holidays is july 4 a holiday?
@@ -286,6 +198,7 @@ __label__holidays how many days do I have off this year?
 __label__holidays how much paid time off do I have this year?
 __label__holidays is the lunar new year a holiday?
 __label__holidays i need some help with learning about my holidays
+__label__holidays can we get more time off this year?
 
 __label__sunview contact information for sunview software
 __label__sunview where can I contact sunview?
@@ -385,6 +298,8 @@ __label__sunview where can i find sunview's corporate contact information?
 __label__sunview what is sunview software's web site?
 __label__sunview sunview, tell me about it
 __label__sunview can i have the url for sunview software?
+__label__sunview tell me everything you have about sunview
+__label__sunview let me know what you know about sunview software
 
 __label__announcements any announcements?
 __label__announcements hi, anything new going on today?
@@ -484,6 +399,8 @@ __label__announcements were any announcements posted lately?
 __label__announcements has there been any news lately?
 __label__announcements hello there, are there any new announcements?
 __label__announcements hi, tell me the latest announcements
+__label__announcements what new announcements are there recently?
+__label__announcements what new announcements are there lately?
 
 __label__support please send someone to help me
 __label__support hi help
@@ -579,6 +496,12 @@ __label__support hello, i need technical help from someone
 __label__support i don't know what to do i need technical support
 __label__support please get me in touch with tech support
 __label__support when does technical support work?
+__label__support please get me in touch with tech support
+__label__support tech support, I need to talk to them
+__label__support let me speak with someone in tech support
+__label__support I need to speak to a support representative
+__label__support I need to connect to customer support
+__label__support please get me in touch with a customer support representative
 
 __label__insurance who is my health insurance provider?
 __label__insurance health benefits
@@ -679,6 +602,7 @@ __label__insurance insurance, tell me about my plan
 __label__insurance health insurance enrollment
 __label__insurance please help me enroll in insurance
 __label__insurance when does insurance open enrollment start?
+__label__insurance insurance, tell me everything you know about it
 
 __label__name i want to know how to call you
 __label__name what is your first name
