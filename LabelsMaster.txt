@@ -777,6 +777,9 @@ __label__name what is your identification number
 __label__name what is your name?
 __label__name are you a chatbot?
 __label__name tell me who are you?
+__label__name how did they name you?
+__label__name how did you get your name?
+__label__name tell me how to call you
 
 __label__human aliens are fake and humans are real right
 __label__human can you provide me with facts that you are human?
@@ -978,6 +981,8 @@ __label__bot i am having trouble with this, can a bot help me
 __label__bot so what is you cool about you
 __label__bot how can you help me?
 __label__bot i do not understand, i need someone who has the skills
+__label__bot how do bots usually behave?
+
 
 __label__itsm i do not want to buy itsm software, is there a way around information management
 __label__itsm whats the future of istm?
@@ -1179,6 +1184,7 @@ __label__halloween what's your costume?
 __label__halloween do you have any halloween candy remaining?
 __label__halloween halloween costumes come in all shapes and sizes
 __label__halloween halloween candy is the best type of candy ever
+__label__halloween where did halloween originate?
 
 __label__changegear why would switching over to cg be a better option
 __label__changegear can you describe cg?
@@ -1279,6 +1285,7 @@ __label__changegear is cg worth investing in?
 __label__changegear explain changegear
 __label__changegear when was changegear developed
 __label__changegear why cg
+__label__changegear is changegear a good tool?
 
 __label__sst who do i need to speak to regarding sst?
 __label__sst service smart tech usefulness
