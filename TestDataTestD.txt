@@ -1,0 +1,623 @@
+__label__greetings hey now
+__label__greetings it's a pleasure to meet you
+__label__greetings hello me, meet the real me
+__label__greetings hello there, good morning
+__label__greetings hey, good afternoon
+__label__greetings ey there
+__label__greetings how are you doing this evening?
+__label__greetings good evening
+__label__greetings s'up
+__label__greetings how are you this fine day?
+__label__greetings good to see you
+__label__greetings yo
+__label__greetings hey
+__label__greetings hi there bot!
+__label__greetings hey there
+__label__greetings ey
+__label__greetings hello dude
+__label__greetings hi there
+__label__greetings it's good to meet you
+__label__greetings hey! good morning!
+__label__greetings how are you doing bot?
+__label__greetings are you doing okay today?
+__label__greetings good morning sir
+__label__greetings hey man
+__label__greetings what's up my dude
+
+__label__holidays holidays this year
+__label__holidays could i please know what are the holidays?
+__label__holidays is veteran's day a holiday?
+__label__holidays vacation this year
+__label__holidays is july 4 a holiday?
+__label__holidays what are my days off?
+__label__holidays is groundhog day a holiday?
+__label__holidays are we off on the 4th of july?
+__label__holidays when do i get free from work?
+__label__holidays is ground hog’s day a holiday?
+__label__holidays when don't we have to be here?
+__label__holidays what are the days I have off this year?
+__label__holidays look up when I have time off
+__label__holidays when don't i have to be here?
+__label__holidays i need some help with learning about my holidays
+__label__holidays is donut day a holiday?
+__label__holidays please tell me my paid days off
+__label__holidays how much paid time off do I have this year?
+__label__holidays vacation, when do I have it?
+__label__holidays is july fourth a holiday?
+__label__holidays what are my vacation days this year?
+__label__holidays vacations
+__label__holidays explain vacations
+__label__holidays show me a list of company holidays
+__label__holidays corporate holidays this year
+
+__label__sunview i would like to contact sunview
+__label__sunview who created this bot?
+__label__sunview what is sunview softare?
+__label__sunview help me contact sunview
+__label__sunview what is sunview software's corporate contact information?
+__label__sunview sunview software, where are they located?
+__label__sunview connect me with sunview!
+__label__sunview inform me about sunview software
+__label__sunview address of sunview software
+__label__sunview hello, please tell me about sun view software
+__label__sunview what is sunview software's web site?
+__label__sunview what is sunview's web address?
+__label__sunview how do we contact sunview?
+__label__sunview what is sunview software's phone number?
+__label__sunview how can i find sunview software's contact information in your website?
+__label__sunview hello, please tell me about sunview software
+__label__sunview where can i find sunview software's corporate contact information?
+__label__sunview i would like to talk to sunview software
+__label__sunview sunview software
+__label__sunview what is sunview software's website?
+__label__sunview tell me about sun view
+__label__sunview sunview software, tell me about it
+__label__sunview sun view company
+__label__sunview sun view software company
+__label__sunview sunview software company
+
+__label__announcements announcements
+__label__announcements hey, anything new going on today?
+__label__announcements what happened?
+__label__announcements any news within the company?
+__label__announcements what is going on right now?
+__label__announcements i want to know the company's most recent news
+__label__announcements has management announced anything today?
+__label__announcements has there been any news today?
+__label__announcements is there anything to be announced?
+__label__announcements are there any recent announcements?
+__label__announcements did the company make an announcement today?
+__label__announcements has management announced anything lately?
+__label__announcements i want to know the company's recent news
+__label__announcements do me a favor and tell me the recent announcements
+__label__announcements is there any recent announcement?
+__label__announcements hi, are there any new announcements?
+__label__announcements hi, tell me the latest announcements
+__label__announcements what’s new?
+__label__announcements hello, are there any new announcements?
+__label__announcements any recent announcements within the company?
+__label__announcements tell me news related to the company
+__label__announcements has the company made a statement lately?
+__label__announcements latest announcements
+__label__announcements did the company make a statement today?
+__label__announcements is there anything recent to be announced?
+
+__label__support can someone please help me?
+__label__support get me in touch with customer service
+__label__support hi help
+__label__support i need help, connect me to tech support
+__label__support i need to talk to support
+__label__support i don't know what to do i need support
+__label__support tech support, what is their email?
+__label__support i need help with something
+__label__support who can help me?
+__label__support where can i send my questions about change gear product?
+__label__support where can i receive help?
+__label__support where can i send an email or call for technical support?
+__label__support support, how do I contact them?
+__label__support customer service, what is their email?
+__label__support i need support
+__label__support i require technical assistance
+__label__support what is the customer service email?
+__label__support hey, please help me
+__label__support help me!
+__label__support please send someone to help me
+__label__support tech support, get me in touch with them
+__label__support who do i call for support?
+__label__support please get me in touch with tech support
+__label__support i don't know what to do i need help
+__label__support please get me in touch with tech support
+
+__label__insurance what can i do during open enrollment?
+__label__insurance insurance open enrollment
+__label__insurance is my wife covered?
+__label__insurance health benefits open enrollment
+__label__insurance work insurance
+__label__insurance who in my family is covered by my health insurance?
+__label__insurance insurance, tell me about my plan
+__label__insurance hello, i need help enrolling in insurance
+__label__insurance i want to read my insurance
+__label__insurance hello, how much am i covered for?
+__label__insurance health coverage
+__label__insurance enrollment in insurance
+__label__insurance company insurance limit
+__label__insurance who is my health insurance provider?
+__label__insurance company insurance coverage
+__label__insurance health insurance open enrollment
+__label__insurance tell me about my health insurance coverage
+__label__insurance health insurance, tell me about my coverage
+__label__insurance who issues my insurance?
+__label__insurance how much am i covered for?
+__label__insurance can i enroll for insurance?
+__label__insurance is my mom covered?
+__label__insurance when is open enrollment?
+__label__insurance do i get health coverage?
+__label__insurance insurance
+
+__label__name tell me about you
+__label__name where did you come from?
+__label__name who are you
+__label__name tell your name
+__label__name identification please
+__label__name you're?
+__label__name you are?
+__label__name how do others call you?
+__label__name how do people call you?
+__label__name what should i call you?
+__label__name can you tell me how to call you?
+__label__name could you please tell me your name, because I do not remember
+__label__name who are you really deep down
+__label__name please tell me how do they call you
+__label__name what do your friends call you?
+__label__name what are you called?
+__label__name who are you?
+__label__name please tell me how do i call you
+__label__name give me your name
+__label__name id
+__label__name please tell what name do you have
+__label__name how did you get your name?
+__label__name tell me how to call you
+__label__name name please
+__label__name what kind are you?
+
+__label__human you are not really alive
+__label__human if you are a human then you can talk right
+__label__human humans are the living race on plant earth
+__label__human are you a living person
+__label__human please proof me you are not human
+__label__human do you have feelings?
+__label__human do you pass the turing test?
+__label__human do you eat like a human being?
+__label__human are you really not a person?
+__label__human you better be human
+__label__human aliens are scary
+__label__human if you passed the test that means you are human right
+__label__human are you part of humanity?
+__label__human did you ever feel passion?
+__label__human turing test is tests if you are human
+__label__human do you have any facts on humans
+__label__human you are not a reality?
+__label__human do you dream like a person?
+__label__human do not lie to me and tell me you are human
+__label__human can you think like a human being?
+__label__human aliens can not take the turing test right
+__label__human dead or alive?
+__label__human proof me you are not human
+__label__human if you pass the turing test then you can be a human
+__label__human turing test is the ultimate decider if you are human
+
+__label__bot do you have the correct response to my question
+__label__bot so what is you cool about you
+__label__bot provide me help
+__label__bot if you know the answer to my question then you are a helpful bot
+__label__bot what can you do for me as a simple chatbot?
+__label__bot is there something you can do that will help me with my questions
+__label__bot what is your career?
+__label__bot do your skills relate to those in need
+__label__bot so what can a bot like you do for us
+__label__bot i need help
+__label__bot tell me what are your skills
+__label__bot if i need to ask someone a question, who can i ask
+__label__bot can you tell me the answer as a bot
+__label__bot can you tell me some of the things you can do?
+__label__bot i can not figure out how to answer this question
+__label__bot can your capabilities satisfy my needs
+__label__bot what are your capabilities?
+__label__bot are you unique?
+__label__bot i am not skilled as you
+__label__bot i need your assistance
+__label__bot i need a bot's help
+__label__bot i do not understand, i need someone who has the skills
+__label__bot is there anything a bot can do that a human can not do to help me
+__label__bot are bots the solution to my questions
+__label__bot what kind of skills do i need to become a bot?
+
+__label__itsm i do not know what is the best option to manage my information
+__label__itsm i need help managing my it services
+__label__itsm i need help managing my information technology services
+__label__itsm can information technology service management protect my info
+__label__itsm what are the pros of using information technology service management
+__label__itsm what can itsm achieve for me?
+__label__itsm what is the next generation of itsm?
+__label__itsm i do not want to buy itsm software, is there a way around information management
+__label__itsm it service management?
+__label__itsm can itsm be the future?
+__label__itsm service management?
+__label__itsm are there any risks when using information technology service management
+__label__itsm is information technology service management the future for all companies
+__label__itsm what information technology service management software is the best for me
+__label__itsm is itsm the best option to keep my information safe
+__label__itsm it service?
+__label__itsm what is information service management
+__label__itsm how can i properly manage my it services?
+__label__itsm is itsm safe to use
+__label__itsm are there a lot of different types of itsm
+__label__itsm what tool can i use to manage my information technology services?
+__label__itsm i am worry that my itsm is not secure enough
+__label__itsm tell me about information technologies in the future
+__label__itsm how will itsm look like in future?
+__label__itsm i do not know what is itsm, can you tell my what it is
+
+__label__halloween i hope that a lot of people show up at the halloween party
+__label__halloween i want to be a scary monster on halloween
+__label__halloween happy halloween!
+__label__halloween are you going to the halloween party?
+__label__halloween how much does halloween horror nights costs
+__label__halloween time to take out my halloween costume for the season
+__label__halloween what is your favorite type of halloween candy
+__label__halloween i wonder what you will be on halloween
+__label__halloween did you buy any makeup for halloween
+__label__halloween i love using makeup for special effects on halloween
+__label__halloween i have been invited to a halloween party!
+__label__halloween what is a halloween costume
+__label__halloween do you have any halloween candy remaining?
+__label__halloween candy during halloween season is so expensive
+__label__halloween do you like halloween movies
+__label__halloween i love trick or treating on halloween
+__label__halloween there are so many different choices for halloween costumes
+__label__halloween halloween horror nights at orlando is so much fun
+__label__halloween what is halloween?
+__label__halloween explain to me what is your favorite halloween candy
+__label__halloween what is your halloween costume?
+__label__halloween tell me about your favorite halloween candy
+__label__halloween what was your last halloween costume?
+__label__halloween are you going to use any makeup on your halloween costume
+__label__halloween do you have a special costume for halloween?
+
+__label__changegear tell me all about cg
+__label__changegear tell me why cg can benefit my team
+__label__changegear why should i consider using cg in my company
+__label__changegear tell me more about changegear
+__label__changegear cg information
+__label__changegear why would i choose cg over the alternative
+__label__changegear how can changegear help me?
+__label__changegear please give me information about change gear
+__label__changegear what can changegear do for my team
+__label__changegear what is cg?
+__label__changegear what does changegear offer to the customer compared to other services
+__label__changegear what technology does cg use
+__label__changegear is cg bad or good for my workers
+__label__changegear tell me all about changegear
+__label__changegear give me information about changegear
+__label__changegear how can changegear help my company?
+__label__changegear when was cg made
+__label__changegear what will changegear do for my company?
+__label__changegear what can i do with changegear?
+__label__changegear can change gear help me?
+__label__changegear how can changegear change the way we work
+__label__changegear what is this tool called?
+__label__changegear explain changegear
+__label__changegear i hear that cg is a very useful system these days
+__label__changegear if i use cg, will i grow
+
+__label__sst service smart
+__label__sst service smart perks
+__label__sst why is service smart technology good?
+__label__sst service smart tech benefits
+__label__sst how will service smart tech help my company?
+__label__sst hi, i need help understand smart service technology
+__label__sst What types of packages do you offer for sst?
+__label__sst how can i use service smart technology?
+__label__sst service smart tech information
+__label__sst give me information on service smart technology
+__label__sst define service smart
+__label__sst how can i use service smart tech?
+__label__sst service smart technology help
+__label__sst sst?
+__label__sst sst, what is this service from sunview?
+__label__sst SST vs other smart service technologies?
+__label__sst what is service smart?
+__label__sst how will service smart help my company?
+__label__sst what do you know about service smart technology?
+__label__sst service smart technology perks
+__label__sst i do not know what smart service technology I should pick for my company, can you help?
+__label__sst why is service smart tech good?
+__label__sst just how expensive is implementing sst?
+__label__sst do you know about service smart tech?
+__label__sst service smart technology usefulness
+
+__label__computer what causes crashes?
+__label__computer my windows machine keeps freezing during startup
+__label__computer what could be crashing my laptop?
+__label__computer windows is failing
+__label__computer what could be crashing windows?
+__label__computer computer rebooted itself
+__label__computer computer keeps showing this error
+__label__computer windows rebooted itself
+__label__computer what information can you provide about computer errors
+__label__computer my screen froze
+__label__computer why does my pc keep encountering a fatal error during startup?
+__label__computer computer stopped running
+__label__computer windows is not responding
+__label__computer getting errors in my computer
+__label__computer cpu crashed
+__label__computer laptop is failing
+__label__computer laptop error message
+__label__computer why do i see this error message?
+__label__computer my personal computer died this morning
+__label__computer my pc is not working
+__label__computer prevent crash
+__label__computer laptop error
+__label__computer pc froze
+__label__computer my computer is not working
+__label__computer how can i fix my cpu?
+
+__label__password can't access account
+__label__password please reset my passphrase
+__label__password new password to access account
+__label__password windows won't let me log in
+__label__password where can i set a password for my account
+__label__password passphrase recovery
+__label__password help me with my password
+__label__password how can i recover my password?
+__label__password what is my passcode?
+__label__password can't access network
+__label__password passcode recovery
+__label__password need a new passcode
+__label__password i need to change my passphrase
+__label__password i need to change my log in information
+__label__password system login password lost
+__label__password step by step to resetting password
+__label__password password needs to be reset
+__label__password password help
+__label__password what is my passphrase?
+__label__password i lost the login password to my computer
+__label__password reset my passcode
+__label__password passcode help
+__label__password reset my password
+__label__password login password is not the same anymore
+__label__password do i need to provide any information to set a new password
+
+__label__speed improving laptop performance
+__label__speed pc slowdown
+__label__speed how can i make my laptop faster?
+__label__speed slow speed
+__label__speed improve speeds on my desktop
+__label__speed computer speedup
+__label__speed why is my computer so slow?
+__label__speed how to fix pc slowdown?
+__label__speed laptop is slow
+__label__speed how to fix computer slowdown?
+__label__speed why is my laptop so slow?
+__label__speed increasing laptop speed
+__label__speed windows is slow
+__label__speed speeding up my computer
+__label__speed causes of computer lag
+__label__speed how can i make my computer faster?
+__label__speed improving computer speed
+__label__speed computer optimization
+__label__speed why does my laptop run so slow, how to increase speed
+__label__speed what is making my pc slow?
+__label__speed causes of slow computer
+__label__speed how to fix poor laptop performance?
+__label__speed getting rid of computer lag
+__label__speed making my pc faster
+__label__speed my computer is running at low speed
+
+__label__printer how to use a printer?
+__label__printer how to fix inkjet?
+__label__printer printer setup
+__label__printer broken printer
+__label__printer inkjet troubleshooting
+__label__printer why does it say my printer is offline?
+__label__printer printer configuration
+__label__printer i am not able to use my inkjet
+__label__printer common problems with printer
+__label__printer there is a problem with my inkjet
+__label__printer can you help me with printer problems?
+__label__printer inkjet
+__label__printer my inkjet is not working
+__label__printer i need help to print
+__label__printer printer troubleshooting
+__label__printer printer offline
+__label__printer inkjet is not working 100%
+__label__printer inkjet problems
+__label__printer how do i know my printer is working?
+__label__printer help configure my printer
+__label__printer error messages when printing documents
+__label__printer I need help troubleshooting my printer
+__label__printer fixing a printer
+__label__printer i need help with my printer
+__label__printer how to setup a printer?
+
+__label__internet internet firewall is blocking pages
+__label__internet cannot find network
+__label__internet slow internet connection
+__label__internet web troubleshooting
+__label__internet can't use the internet
+__label__internet internet help
+__label__internet how to setup wi-fi for internet connection
+__label__internet no internet
+__label__internet wifi connection failed
+__label__internet internet is slow
+__label__internet cannot use the internet
+__label__internet what is wrong with my network?
+__label__internet why can't i connect to the internet?
+__label__internet network not connecting
+__label__internet internet connection help
+__label__internet need to troubleshoot my internet please
+__label__internet internet is slow during online gaming
+__label__internet wifi network is not connecting
+__label__internet network troubleshooting
+__label__internet can't connect to the web
+__label__internet i need faster connection
+__label__internet connectivity issues with my internet connection
+__label__internet cannot connect to the web
+__label__internet browser not loading
+__label__internet how to fix slow internet?
+
+__label__files where to restore lost file
+__label__files lost my file
+__label__files can i recover a lost file
+__label__files help undelete file
+__label__files help restore deleted file
+__label__files where to restore lost folder
+__label__files where is a deleted folder?
+__label__files help bring back a folder
+__label__files help restore deleted folder
+__label__files recovering a deleted folder
+__label__files deleted folder by accident
+__label__files help recover deleted folder
+__label__files i need help restoring a file
+__label__files lost my folder
+__label__files file recovery
+__label__files how can i restore a deleted folder?
+__label__files recover deleted file
+__label__files retrieve deleted file
+__label__files how can i restore deleted files?
+__label__files i need help recovering a file
+__label__files is there a way to restore a deleted folder?
+__label__files help recover lost folder
+__label__files how can i recover a deleted file?
+__label__files i need assistance restoring a file
+__label__files deleted file recovery
+
+__label__network how to connect to guest wireless network
+__label__network help me connect to guest wifi
+__label__network help connect to wifi
+__label__network help accessing guest wireless network
+__label__network connect phone to guest wifi
+__label__network how to get access to guest wifi network
+__label__network where can i find the guest wifi password?
+__label__network connect to guest wireless network
+__label__network network access
+__label__network network connection help
+__label__network how to get access to guest wireless network
+__label__network how do i connect to the wifi?
+__label__network wifi connection help
+__label__network can you help me connect to the network?
+__label__network guest wireless access
+__label__network network password
+__label__network help connect to guest wifi
+__label__network my phone cannot connect to the network
+__label__network how to get access to guest wifi
+__label__network where can i find the guest wireless network password?
+__label__network wireless network connection help
+__label__network i need help connecting to wifi
+__label__network connect to guest wifi network
+__label__network what wireless network should a guest use?
+__label__network wifi access
+
+__label__website i need help accessing a blocked site
+__label__website how to gain access to a blocked url
+__label__website help unblocking site
+__label__website i need to access a blocked website
+__label__website unblock site
+__label__website unblock url
+__label__website i need assistance with a blocked website
+__label__website how to access blocked website
+__label__website how can i get a link unblocked?
+__label__website how to unblock website
+__label__website request access to blocked url
+__label__website i need help to access a blocked website
+__label__website get past blocked link
+__label__website why is this url blocked?
+__label__website how to gain access to a blocked website
+__label__website how can i get a website unblocked?
+__label__website how to request access to blocked link
+__label__website unblock website
+__label__website blocked website troubleshooting
+__label__website how to request access to blocked site
+__label__website how can i unblock a link?
+__label__website how can i unblock a website?
+__label__website how to access blocked site
+__label__website i need to access a blocked url
+__label__website i need access to a blocked website
+
+__label__voicemail i need assistance setting up my voicemail
+__label__voicemail what is my voice mail password
+__label__voicemail forgot voicemail password
+__label__voicemail can't log in to voicemail
+__label__voicemail i can't log in to voicemail
+__label__voicemail where can i reset voicemail password
+__label__voicemail voicemail setup
+__label__voicemail voicemail password change
+__label__voicemail where can i reset voicemail login info
+__label__voicemail help me log in to voicemail
+__label__voicemail change voicemail password
+__label__voicemail i can't remember my voice mail password
+__label__voicemail accessing voicemail
+__label__voicemail forgot voicemail login
+__label__voicemail need a new voicemail password
+__label__voicemail forgot voicemail login info
+__label__voicemail voicemail login failed
+__label__voicemail i need help with my voicemail password
+__label__voicemail setup voicemail
+__label__voicemail help with voicemail login reset
+__label__voicemail voicemail login reset
+__label__voicemail need a new voice mail password
+__label__voicemail cannot access voicemail
+__label__voicemail can you reset my voice mail password
+__label__voicemail voicemail password won't work
+
+__label__email what is the inbox server address?
+__label__email help me connect to my inbox
+__label__email is there any issue with email server?
+__label__email why can't i send any emails?
+__label__email i cannot send emails
+__label__email i need to setup my inbox
+__label__email i am not getting any emails
+__label__email i'm having trouble accessing my email
+__label__email the email server is offline
+__label__email where can i find information to setup inbox?
+__label__email help setup inbox
+__label__email i need to configure my email
+__label__email problems with email
+__label__email how can i setup email?
+__label__email trouble connecting to email
+__label__email can i check the status of my email?
+__label__email where do i configure inbox?
+__label__email inbox information
+__label__email email help
+__label__email my email is down, is there a problem with the servers?
+__label__email how can i setup my email?
+__label__email help with email
+__label__email how do i know if the email server is down?
+__label__email email configuration
+__label__email can you help me with my inbox?
+
+__label__remote how can i configure my remote network access?
+__label__remote can you help me accessing the vpn?
+__label__remote remotely access virtual private network
+__label__remote help with tablet vpn
+__label__remote how do i setup my virtual private network?
+__label__remote remote access tablet
+__label__remote help with vpn access
+__label__remote help me access the virtual private network
+__label__remote iphone access policy
+__label__remote virtual private network
+__label__remote remote network access troubleshooting
+__label__remote how do i access the network remotely?
+__label__remote virtual private network troubleshooting
+__label__remote remotely access vpn
+__label__remote how do i configure my vpn?
+__label__remote how to configure vpn
+__label__remote how can i access the network remotely?
+__label__remote how can i setup my vpn?
+__label__remote laptop vpn
+__label__remote i need to setup my remote network access
+__label__remote vpn access
+__label__remote virtual private network remote access
+__label__remote how can i setup my pc to access the network remotely?
+__label__remote remote access setup
+__label__remote remote access mobile device
