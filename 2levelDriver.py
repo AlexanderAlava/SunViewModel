@@ -138,6 +138,11 @@ def bucketSelector(bucket):
 
 ################################# MAIN #########################################
 
+# Opening output queriesBelow0.60.txt file for input below 0.60 for future additional training.
+f1 = open('queriesBelow0.60', 'w')
+# Opening output queriesBelow0.20.txt file for input below 0.20 considered "trash" input.
+f2 = open('queriesBelow0.20', 'w')
+ 
 # Declaring global variables
 query = []
 flag = 0
@@ -212,7 +217,13 @@ while failed != 1:
 	# Confidence is less than 0.6
 	if confidence_1 < 0.6 or confidence_2 < 0.6:
 		# Confidence level less than 0.2 or second try with low confidence
-		if confidence_1 < 0.2 or confidence_2 < 0.2 or flag > 0:
+		if confidence_1 < 0.2 or confidence_2 < 0.2 or flag > 0:			
+			# Conditional to ensure input greater than 0.20 but below 0.60 is written to correct file.
+			if flag > 0: 
+				f1.write(query[0] + '\n')
+			else:
+				f2.write(query[0] + '\n')
+	
 			errorA = 'I am sorry, but I am not able to understand what you are trying to tell me.\nPlease refer to the general FAQ page.'
 			errorB = 'People still believe that us machines are smarter than humans, what a joke! I am sorry for not being able to help you at this time.\nPlease proceed to the general FAQ page.'
 			errorC = 'I don\'t want you to think that I am dumb, but I can\'t really understand your query. I am sorry!\nPlease refer to the general FAQ page.'
@@ -234,6 +245,7 @@ while failed != 1:
 
 		# First try with low confidence
 		else:
+			f1.write(query[0] + '\n')
 			errorA = 'I am having a little trouble understanding what you are trying to ask, can you please clarify? \n'
 			errorB = "What do you mean? I am only a machince, help me out here! What is it that you're asking?\n"
 			errorC = 'Hmm I think I may have the answer, can you give me a little bit more info? \n'
@@ -265,3 +277,6 @@ while failed != 1:
 	print "Performed in ", end - start, "s"
 
 print("Goodbye!")
+# Close output .txt files.
+f1.close()
+f2.close()
